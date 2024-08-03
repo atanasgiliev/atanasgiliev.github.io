@@ -1,0 +1,63 @@
+body {
+  font-family: 'Lora', serif;
+  background-color: rgba(20, 33, 61) !important; /* Dark blue with 80% opacity */
+}
+
+
+a, a:visited {
+  color: #AFC8DE !important;
+  text-decoration: none !important; /* Remove underline */
+}
+
+a:hover, a:focus {
+  color: #4A7CA8 !important;
+}
+
+nav a, nav a:visited {
+  color: #AFC8DE !important; /
+  padding: 10px;
+  text-decoration: none !important; /* Remove underline */
+  font-weight: bold; /* Make the text bold */
+}
+
+nav a:hover, nav a:focus {
+  color: #AFC8DE !important;
+  background-color: #4A7CA8; /* Change background on hover */
+  border-radius: 5px; /* Add rounded corners */
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #FFFFFF; /* White text */
+}
+
+footer a, footer a:visited {
+  color: #AFC8DE !important; /* Gold color */
+  text-decoration: none !important; /* Remove underline */
+}
+
+footer a:hover, footer a:focus {
+  color: #4A7CA8 !important; /* Orange color */
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.footer-content small {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.social-icons a {
+  text-decoration: none;
+  color: inherit;
+  margin-left: 5px;
+  font-size: 1.em;
+}

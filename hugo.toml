@@ -1,0 +1,47 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Atanas G. Iliev"
+theme = "hugo-bearcub"
+
+[params]
+  author = { name = "Atanas Iliev", email = "atanasgiliev03@gmail.com" }
+  description = "Welcome to my blog!"
+  customCSS = ["css/custom.css"]
+  madeWith = "Made with ❤️ using **[Hugo](https://gohugo.io/)** and the **[Bear Cub theme](https://github.com/clente/hugo-bearcub)**."
+
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[permalinks]
+  post = "/:year/:month/:title/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+  [[menu.main]]
+    name = "Currently"
+    url = "/currently/"
+    weight = 4
+  [[menu.main]]
+    name = "Art"
+    url = "/art/"
+    weight = 5
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 6
+  [[menu.main]]
+    name = "Puzzle"
+    url = "/puzzle/"
+    weight = 7
