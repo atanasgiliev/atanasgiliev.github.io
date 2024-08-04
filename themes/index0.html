@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main>
+  <!-- Render the content of _index.md -->
+  <section>
+    {{ .Content }}
+  </section>
+
+  <!-- List the last five posts from the 'posts' section -->
+  <section>
+    <h3>Latest Posts</h3>
+    <ul class="latest-posts">
+      {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+      <li>
+        <b><a href="{{ .RelPermalink }}">{{ .Title }}</a></b>,
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+</main>
+{{ end }}
