@@ -13,15 +13,15 @@ It is not necessarily a bad thing because at least it signals that I'm rarely bo
 but it is still not ideal.
 
 Throughout my conscious life, I have admired hard work and persistence in a way that
- resembled jelaousy but never really as if they were a virtue. In fact, I never
+ resembled jealousy but never really as if they were a virtue. In fact, I never
 like it when meritocracy is implicitly associated with hard work because I seem
 to treat persistence as I would treat being blue eyed-- An amazing thing that one
 is born with.
 
 I'm actually still convinced this is unfortunately at least partially true. After all,
-we learn things by doing them repeatedly and consistencly and this is what I mean by
+we learn things by doing them repeatedly and consistently and this is what I mean by
 hard work and persistence. Hence, if there is not another way to learn things, it follows,
-that being persevearing cannot be learned.
+that being persevering cannot be learned.
 
 Then again we did invent contacts. I, thankfully, have blue eyes and, even more
 gratefully, have good vision as of now. And yet it does give hope that I can become
