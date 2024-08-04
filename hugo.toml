@@ -2,6 +2,7 @@ baseURL = "https://https://atanasgiliev.github.io"
 languageCode = "en-us"
 title = "Atanas G. Iliev"
 theme = "hugo-bearcub"
+relativeURLs = true
 
 [params]
   author = { name = "Atanas Iliev", email = "atanasgiliev03@gmail.com" }
