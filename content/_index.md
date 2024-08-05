@@ -3,7 +3,7 @@ title: "Home Page"
 description: "Home page of my blog"
 ---
 
-### Greetings, pleased to meet you!
+## Greetings, pleased to meet you!
 
 ---
 
