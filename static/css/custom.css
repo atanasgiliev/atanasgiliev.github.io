@@ -68,10 +68,14 @@ ul.blog-posts {
 }
 
 ul.blog-posts li {
-    margin-bottom: 0px; /* Adjust the value to control the space between posts */
+    margin-bottom: 0px; 
 }
 
 ul.blog-posts li:last-child {
-    margin-bottom: 0; /* Ensure no extra margin after the last post */
+    margin-bottom: 0; 
+}
+
+h1 {
+    font-size: 2.0em !important; 
 }
 
