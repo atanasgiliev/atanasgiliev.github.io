@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ if not .Params.menu }}
-<h3>{{ .Title }}</h3>
+<h2>{{ .Title }}</h2>
 <p class="byline">
   <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
     {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
