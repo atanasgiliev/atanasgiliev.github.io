@@ -39,16 +39,16 @@ covering the BS equation, Ito calculus, exotic options, non-constant rates, and 
 
 I started learning Ancient Greek in early 2024. I took an intensive one-term two-credits course in
 my sophomore spring and am about to take another course in my junior fall. In the Spring,
-we read mostly fables and some adapted snippets from Plato, Lysius, Xenophon, and others.
+we read mostly fables and some adapted snippets from Plato, Lysias, Xenophon, and others.
 I also took part in an extracurricular group where we read Koine rather than Attic.
 We read the entire James and moved on to read a section from Matthew (The Sermon on the Mount).
-Right now (Summer 2024) I'm reading Book 1 from the Nichomanean Ethics with a professor
-outside of class just for fun. In the Fall, my class will read some unadapted Lysius and Plato.
+Right now (Summer 2024) I'm reading Book 1 of the Nicomachean Ethics with a professor
+outside of class just for fun. In the Fall, my class will read some unadapted Lysias and Plato.
 
 I'm also a big Anglophile. Basically, you can always be at least 95% certain that I'm
 going to concur with whatever the British are doing right now. A staunch monarchist,
-a Tory at heart (if not always one in practise) and a lover of everything British.
-I adore English literature, from Milton to Stoppard and from Chauser to Christie
+a Tory at heart (if not always one in practice) and a lover of everything British.
+I adore English literature, from Milton to Stoppard and from Chaucer to Christie
 and from University Challenge to the Bake Off. Somewhat
 coincidentally my favorite composer is Handel and my favorite painter is Turner (though
   this one is closely contested with a German guy). I do mix up US and UK spellings though,
@@ -57,6 +57,19 @@ coincidentally my favorite composer is Handel and my favorite painter is Turner 
 Some of my favorite stuff: The Harry Potter Series, *King Lear*, High Church
 Anglicanism, Pokémon, *Arcadia*, Matcha-based drinks, *Keeping up Appearances*, and
 many many more.
+
+Last, a few notes on my first name, Atanas (Атанас). It comes from the Greek Athanasios (Αθανάσιος)
+meaning immortal. It is a not too common, not too rare Bulgarian name. The stress is on
+the last syllable and all the vowels are short. Many of my American friends have some
+trouble pronouncing it, so I'm writing this hoping they don't worry about it. I love all
+the different pronunciations people come up with and am more annoyed about insisting people
+pronounce it the Bulgarian way than making a fun face for a moment after I hear a new
+variation. That being the case I occasionally use Nas when I want to make sure people
+can pronounce it and they insist on respecting the original pronunciation. I may try
+legally switch the transliteration of my name into the Latin alphabet to include an 'h'
+(Athanas) both to respect the Greek origin and to make it a bit more relatable to
+non-Bulgarians. If I do, I may start going by Athan (another Greek variation) which
+I like to pronounce with an "ei" diphthong at the start in English.
 
 This blog is going to be about the many stuff I like and the many stuff I don't.
 It will probably contain mostly short random thought pieces but I will also
