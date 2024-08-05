@@ -4,7 +4,7 @@ date: 2024-07-28T10:25:59-04:00
 description: "About Me Page"
 ---
 
-How nice to meet you!. I am a 21-years-old guy originally from Plovdiv, Bulgaria.
+How nice to meet you! I am a 21-years-old guy originally from Plovdiv, Bulgaria.
 I went to an US high school called the American College of Sofia, the first American
 school outside of the US :), before I crossed the pond back in August 2022 to arrive
 in the great state of New Hampshire. I am a Math major at Dartmouth College and
