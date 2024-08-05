@@ -61,3 +61,17 @@ footer a:hover, footer a:focus {
   margin-left: 5px;
   font-size: 1.em;
 }
+
+ul.blog-posts {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.blog-posts li {
+    margin-bottom: 0px; /* Adjust the value to control the space between posts */
+}
+
+ul.blog-posts li:last-child {
+    margin-bottom: 0; /* Ensure no extra margin after the last post */
+}
+
