@@ -87,3 +87,8 @@ and from dark to light and I think it is a nice piece if not too clever. I also 
 took very little time to do it unlike basically everything else in that drawing. The prof did suggest that I
 try and make the background completely black though, so I may try if I find myself with enough free time
 and motivation on my hands.
+
+---
+
+I also have a secondary Instagram account that is centered around my art and is somewhat more spammy than my
+main one. It is also public. You can follow it if you want by clicking **[here](https://www.instagram.com/artanasiliev/)**.
