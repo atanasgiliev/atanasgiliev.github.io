@@ -32,7 +32,7 @@ to flatten it by drawing straight horizontal lines over it after.
 <center><i>Pillars and Drapes</i></center>
 
 <details>
-    <summary>Set Up</summary>
+    <summary><b>Set Up</b></summary>
     <img src="/images/week22.png" alt="Set Up">
 </details>
 
@@ -51,7 +51,7 @@ darkness with shadow rather than with what color a certain part of the compositi
 <center><i>Ruddier than a Cherry</i></center>
 
 <details>
-    <summary>Set Up for Original Composition</summary>
+    <summary><b>Set Up for Original Composition</b></summary>
     <img src="/images/week33.png" alt="Set Up">
 </details>
 
