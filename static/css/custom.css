@@ -79,3 +79,7 @@ h1 {
     font-size: 2.0em !important; 
 }
 
+.spotify-embed {
+  margin-top: 20px;  /* Adjust this value to control the top spacing */
+  margin-bottom: 2000px;  /* Adjust this value to control the bottom spacing */
+}
