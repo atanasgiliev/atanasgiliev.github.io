@@ -14,9 +14,9 @@ trip to check the city before the last 2 weeks of 24X Spring terms are called S,
 so Summer ones are X). We are both so excited. I am also meeting another friend
 whom I met a few years ago in Cambridge, but who is actually from Manhattan and now
 studies at King's College London. (And we are all math people.) We are also going
-to see a Broadway show at the Lyric Theater. The Harry Potter play! AHAHHAHAAHAH!!!
+to see a Broadway show at the Lyric Theater. The Harry Potter play!
 
-Anyway, back to busyness. My bus leaver in 7 hours and less than 12 minutes. I
+Anyway, back to busyness. My bus leaves in about 7.5 hours. I
 just finished packing. By the way, a 30 bucks steamer was one of the smartest
 investments I ever made this term. It does spill a little and I probably should
 have went with the slightly more expensive 50 bucks model because my current one
