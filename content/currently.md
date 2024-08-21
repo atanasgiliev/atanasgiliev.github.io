@@ -1,24 +1,24 @@
 ---
 title: "I Am Currently..."
-date: 2024-07-25T10:25:59-04:00
+date: 2024-08-20T10:25:59-04:00
 description: "All the things I'm currently doing"
 ---
 
 **Reading:**  
-*Our Town* by Thornton Wilder  
-*Ἠθικὰ Νικομάχεια βιβλίον A* by Aristotle  
-*The Iliad* by Homer, translated by Alexander Pope  
+*On Beauty* by Zadie Smith  
+Chapter 7 of *Ἠθικὰ Νικομάχεια βιβλίον A* by Aristotle  
 *Novum Testamentum Graece*, Nestle-Aland, 28th edition  
 *The Book of Common Prayer*, 1979 edition
 
 **Watching:**  
 *Keeping up Appearances* S2
+*Industry* S3
 
 **Listening to:**  
 Handel  
 Taylor Swift  
 Vivaldi  
-George Gershwin  
+Nightshade
 Coldplay
 
 **Studying:**  
@@ -34,19 +34,17 @@ History of Anglicanism
 NYT Connections Game
 
 **Drawing:**  
-A Self-Portrait
+Triangles and Squares
 
 **Enjoying:**  
 *Acis and Galatea* by Handel  
 Different Works by J. M. W. Turner  
 
 **About to Visit:**  
-NYC
+Rome, Pisa, Florence, Toulon, Majorca, Valencia, Barcelona (on Cunard's QV)
 
 **Later:**  
 *Tower of God* S2  
-*Industry* S3  
-*On Beauty* by Zadie Smith  
 *Ash Wednesday* by T. S. Eliot  
 *Rosencrantz and Guildenstern Are Dead* by Tom Stoppard  
 *ὑπὲρ τοῦ Ἐρατοσθένους φόνου ἀπολογία* by Lysias
