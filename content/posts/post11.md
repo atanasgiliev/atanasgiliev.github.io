@@ -5,10 +5,10 @@ draft = false
 +++
 
 And just like that it's been almost half a year. Yeah... I'm sorry about that,
-but I did warn you. I'll try to be a bit more regular from now on, Perhaps an
-entry once every or every other week?
+but I did warn you. I'll try to be a bit more regular from now on. Perhaps an
+entry once every week or two?
 
-Anyway here are two haiku I wrote a few months ago and kind of forgot exist:
+Anyway, here are two haiku I wrote a few months ago and kind of forgot existed:
 
 Drowning of the hare.  
 Turtles are faster in water,  
