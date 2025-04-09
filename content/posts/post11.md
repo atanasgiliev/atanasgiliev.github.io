@@ -11,7 +11,7 @@ entry once every week or two?
 Anyway, here are two haiku I wrote a few months ago and kind of forgot existed:
 
 Drowning of the hare.  
-Turtles are faster in water,  
+Turtles are swift in water,  
 Much denser than air.
 
 Many Agathas;  
