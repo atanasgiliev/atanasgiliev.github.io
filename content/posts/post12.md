@@ -6,7 +6,7 @@ draft = false
 
 Hey, friends,
 
-Hear is a quick sonnet I wrote a couple of weeks ago, inspired by Shakespeare's pastoral comedy *As You Like It*.
+Here is a quick sonnet I wrote a couple of weeks ago, inspired by Shakespeare's pastoral comedy *As You Like It*.
 
 *Et in Arden Ego*  
 In Arden ego, sweet beneath these trees  
@@ -28,4 +28,5 @@ The poem is supposed to be recited by Touchstone, the fool. The title and openin
 *Et in Arcadia ego* immortalized as the title of a 1637-38 painting by Poussin, also known as *Les bergers d'Arcadie (The Arcadian Shepherds)*.
 It translates as "I too was(am) in Arcadia". Arcadia is the name of a Greek province and is known as an epitome of the pastoral ideal.
 This sentiment became popular during the Renaissance (e.g, in Dante's *Divine Comedy*), likely due to Virgil's popularity, who referenced Arcadia as the home of Pan,
-the satyr god of shepherds, in his *Eclogues*. The joke is that the pastoral forest from the play is called Arden, which, just like Arcadia, starts with an 'A'. Fun fact– The Arden Shakespeare editions are named after that forest!
+the satyr god of shepherds, in his *Eclogues*. The joke is that the pastoral forest from the play is called Arden, which, just like Arcadia, starts with the same letter.
+Fun fact– The Arden Shakespeare editions are named after that forest!
