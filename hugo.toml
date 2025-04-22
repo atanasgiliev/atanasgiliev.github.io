@@ -46,6 +46,10 @@ relativeURLs = true
     name = "Puzzle"
     url = "/puzzle/"
     weight = 7
+  [[menu.main]]
+    name = "Medea"
+    url = "/medea/"
+    weight = 8
 
 [markup]
   [markup.goldmark]
