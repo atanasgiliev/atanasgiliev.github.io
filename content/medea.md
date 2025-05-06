@@ -1,5 +1,5 @@
 ---
-title: "Euripides' Medea: A Rhyming English Verse Translation"
+title: "Euripides' Medea"
 date: 2025-04-20T10:25:59-04:00
 description: "Medea Page"
 ---
