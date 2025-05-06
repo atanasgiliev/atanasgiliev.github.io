@@ -10,7 +10,7 @@ description: "Medea Page"
 
 <p style="text-align:center;">καὶ τὰ δοκηθέντ᾽ οὐκ ἐτελέσθη,<br>τῶν δ᾽ ἀδοκήτων πόρον ηὗρε θεός.<br>— <i>Med</i>. 1417-18</p>
 
-<center>DRAMATIS PERSONAE[^2]</center>
+<i></i><center>DRAMATIS PERSONAE[^2]</center>
 
 Be on the lookout for updates!  
 &nbsp; &nbsp; &nbsp; &nbsp; Test 1 
