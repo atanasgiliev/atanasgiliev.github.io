@@ -6,8 +6,10 @@ description: "Medea Page"
 
 <p style="text-align:center;">MEDEA<br>by Euripides</p>
 
-<i><div align="center">A rhyming verse translation</div></i>[^1]  
-<i><div align="center">by Atanas G. Iliev</div></i>
+<div align="center">
+A rhyming verse translation[^1] 
+by Atanas G. Iliev
+</div>
 
 <p style="text-align:center;">καὶ τὰ δοκηθέντ᾽ οὐκ ἐτελέσθη,<br>τῶν δ᾽ ἀδοκήτων πόρον ηὗρε θεός.<br>— <i>Med</i>. 1417-18</p>
 
