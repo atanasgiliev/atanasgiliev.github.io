@@ -5,7 +5,7 @@ description: "Translation of *Medea*"
 type: "medea"
 ---
 
-<p style="text-align:center;"><h1><b>MEDEA</b><h1><br>by Euripides</p>
+<p style="text-align:center;"><h1><b>MEDEA</b></h1><br>by Euripides</p>
 
 <i><center>A rhyming verse translation[^1]<br>by Atanas G. Iliev</center></i>
 
