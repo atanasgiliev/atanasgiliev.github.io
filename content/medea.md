@@ -7,7 +7,7 @@ type: "medea"
 
 <br><br>
 
-<p style="text-align:center;"><b>MEDEA</b>br>by Euripides</p>
+<p style="text-align:center;"><b>MEDEA</b><br>by Euripides</p>
 
 <i><center>A rhyming verse translation[^1]<br>by Atanas G. Iliev</center></i>
 
