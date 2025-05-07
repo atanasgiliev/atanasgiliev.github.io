@@ -39,7 +39,7 @@ NURSE
 &nbsp;&nbsp;&nbsp;&nbsp; Through Symplegades dark, the Colchian throne,  
 &nbsp;&nbsp;&nbsp;&nbsp; And that no pine was felled ‘mongst Pelion's trees  
 &nbsp;&nbsp;&nbsp;&nbsp; So oarsmen did not have the means to seize  
-&nbsp;&nbsp;&nbsp;&nbsp; <span style="float:left;">The golden fleece by Pelias' decree.</span><span style="float:right;">[5]</span><br>
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; The golden fleece by Pelias' decree.</span><span style="float:right;">[5]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; For then, Medea won't have had to flee  
 &nbsp;&nbsp;&nbsp;&nbsp; To th’ citadels of Iolcus' state,  
 &nbsp;&nbsp;&nbsp;&nbsp; By love for Jason struck with fervour great:  
