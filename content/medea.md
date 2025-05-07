@@ -92,15 +92,15 @@ NURSE
 
 <i><div style="text-align: right">Enter </i>PEDAGOGUE<i> by </i>Eisodos A,<i> accompanied by the two CHILDREN.</div></i>
 
-&nbsp;&nbsp;&nbsp;&nbsp; And lo! pausing their leisure, her offspring
-&nbsp;&nbsp;&nbsp;&nbsp; Approach, not knowing of their mother's tears–
-&nbsp;&nbsp;&nbsp;&nbsp; The young draw back from sadness and from fears.
+&nbsp;&nbsp;&nbsp;&nbsp; And lo! pausing their leisure, her offspring  
+&nbsp;&nbsp;&nbsp;&nbsp; Approach, not knowing of their mother's tears–  
+&nbsp;&nbsp;&nbsp;&nbsp; The young draw back from sadness and from fears.  
 
 PEDAGOGUE[^6]
-&nbsp;&nbsp;&nbsp;&nbsp; Old servant from the household of my lady,
+&nbsp;&nbsp;&nbsp;&nbsp; Old servant from the household of my lady,  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Why standest thou in front of gates so shady</span><span style="float:right;">[50]</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp; And criest to thyself about our sorrow?
-&nbsp;&nbsp;&nbsp;&nbsp; Why did Medea bid thee not to follow?
+&nbsp;&nbsp;&nbsp;&nbsp; And criest to thyself about our sorrow?  
+&nbsp;&nbsp;&nbsp;&nbsp; Why did Medea bid thee not to follow?  
 
 NURSE
 
