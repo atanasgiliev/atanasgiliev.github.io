@@ -103,6 +103,20 @@ PEDAGOGUE[^6]
 &nbsp;&nbsp;&nbsp;&nbsp; Why did Medea bid thee not to follow?  
 
 NURSE  
+&nbsp;&nbsp;&nbsp;&nbsp; O, elder tender to the sons of Jason,  
+&nbsp;&nbsp;&nbsp;&nbsp; When masters' fortunes sink unto the basin  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; True-hearted slaves ache, and so do their hearts.</span><span style="float:right;">[55]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And thus on me such woe this time imparts  
+&nbsp;&nbsp;&nbsp;&nbsp; That my desire longs land and sky to warn  
+&nbsp;&nbsp;&nbsp;&nbsp; Both how and why my mistress bears such scorn.  
+
+PEDAGOGUE  
+&nbsp;&nbsp;&nbsp;&nbsp; So, then, the wretch’s weeping is yet to cease.  
+
+NURSE  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I envy thee: her pains shall still increase.</span><span style="float:right;">[60]</span><br>
+
+PEDAGOGUE  
 
 [^1]: My purpose with this project was to translate the play in heroic couplets, i.e., rhyming pairs of iambic pentameters, in imitation of Pope’s Homer and Dryden’s Virgil. The translation uses the Greek text of *James Diggle*'s Oxford Classical Texts (OCT) edition and matches the number of lines found there. I have also made extensive use of *Michele Kwintner*'s Bryn Mawr commentary (mostly for grammar) and *Donald J. Mastronarde*'s Cambridge Greek and Latin Classics one (for grammar and interpretation). I’m beyond grateful to *Aleksa Sotirov* for all his invaluable editorial work, to *Prof. Alexandra Schultz* for all her patience helping me translate the play, and to *Prof. Hakan Tell*, whose Greek drama class largely inspired me to tackle this project. To the extent of my knowledge, this is the first translation where all stasimons have been translated in heroic couplets while also matching the exact number of lines they contain as per the OCT.
 [^2]: Medea was played by the first actor (πρωταγωνιστής), the Nurse and Jason were played by the second actor (δευτεραγωνιστής), and the other four characters were played by the third actor (τριταγωνιστής). The characters are given in that order (followed by the chorus) and not in order of appearance. There were also actors playing Medea’s children, perhaps named Mermerus and Pheres, who only speak off-stage.
