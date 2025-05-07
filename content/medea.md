@@ -13,6 +13,8 @@ type: "medea"
 
 <p style="text-align:center;">καὶ τὰ δοκηθέντ᾽ οὐκ ἐτελέσθη,<br>τῶν δ᾽ ἀδοκήτων πόρον ηὗρε θεός.<br>— <i>Med</i>. 1417-18</p>
 
+<br>
+
 <i></i><center><b>DRAMATIS PERSONAE</b>[^2]</center>
 
 **MEDEA**, sorceress, princess of Colchis, and wife of JASON  
@@ -29,9 +31,13 @@ type: "medea"
 **CHORUS** of Corinthian women  
 *originally consisting of fifteen members, including their* **CHORUS LEADER**  
 
+<br>
+
 <center><b>STAGE DESCRIPTION</b></center>
 
 *The skene represents Medea’s house. Actors enter and exit from the doors of the house or one of the two wings of the stage: one leads to the Corinthian countryside* (Eisodos A)*, and the other leads to the palace* (Eisodos B)*. The chorus performs in the orchestra.*  
+
+<br>
 
 <i></i><center><b>PROLOGUE</b>[^3]</center>
 
