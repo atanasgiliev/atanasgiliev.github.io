@@ -36,7 +36,7 @@ description: "Medea Page"
 
 NURSE  
 &nbsp;&nbsp;&nbsp;&nbsp; I wish that Argo ship had never flown  
-&nbsp;&nbsp;&nbsp;&nbsp; Through Symplegades dark, the Colchian throne,  
+&nbsp;&nbsp;&nbsp;&nbsp; Through Symplegades dark,[^5] the Colchian throne,  
 &nbsp;&nbsp;&nbsp;&nbsp; And that no pine was felled ‘mongst Pelion's trees  
 &nbsp;&nbsp;&nbsp;&nbsp; So oarsmen did not have the means to seize  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; The golden fleece by Pelias' decree.</span><span style="float:right;">[5]</span><br>
@@ -81,7 +81,8 @@ NURSE
 &nbsp;&nbsp;&nbsp;&nbsp; For horrid is she; one poor in her grace  
 &nbsp;&nbsp;&nbsp;&nbsp; The ode of triumph won't readily sing.  
 
-[^1]: My purpose with this project was to translate the play in heroic couplets, i.e., rhyming pairs of iambic pentameters, in imitation of Pope’s Homer and Dryden’s Virgil. The translation uses the Greek text of the Oxford Classical Texts (OCT) edition and matches the number of lines found there. I have also made extensive use of the Bryn Mawr commentary (mostly for grammar) and the Cambridge Greek and Latin Classics one (for grammar and interpretation). I’m beyond grateful to *Aleksa Sotirov* for all his invaluable editorial work, to *Prof. Alexandra Schultz* for all her patience helping me translate the play, and to *Prof. Hakan Tell*, whose Greek drama class largely inspired me to tackle this project. To the extent of my knowledge, this is the first translation where all stasimons have been translated in heroic couplets while also matching the exact number of lines they contain as per the OCT.
+[^1]: My purpose with this project was to translate the play in heroic couplets, i.e., rhyming pairs of iambic pentameters, in imitation of Pope’s Homer and Dryden’s Virgil. The translation uses the Greek text of *James Diggle*'s Oxford Classical Texts (OCT) edition and matches the number of lines found there. I have also made extensive use of *Michele Kwintner*'s Bryn Mawr commentary (mostly for grammar) and *Donald J. Mastronarde*'s Cambridge Greek and Latin Classics one (for grammar and interpretation). I’m beyond grateful to *Aleksa Sotirov* for all his invaluable editorial work, to *Prof. Alexandra Schultz* for all her patience helping me translate the play, and to *Prof. Hakan Tell*, whose Greek drama class largely inspired me to tackle this project. To the extent of my knowledge, this is the first translation where all stasimons have been translated in heroic couplets while also matching the exact number of lines they contain as per the OCT.
 [^2]: Medea was played by the first actor (πρωταγωνιστής), the Nurse and Jason were played by the second actor (δευτεραγωνιστής), and the other four characters were played by the third actor (τριταγωνιστής). The characters are given in that order (followed by the chorus) and not in order of appearance. There were also actors playing Medea’s children, perhaps named Mermerus and Pheres, who only speak off-stage.
 [^3]: Lines 1-130 inclusive (out of 1419 total), the part of the play before the entrance of the chorus.
 [^4]: Stage directions have been adapted from *David Kovacs*’ Loeb Classical Library edition of *Medea* (Euripides I).
+[^5]: The translation tries to preserve the punctuation observed in the OCT’s version of Medea wherever this is possible.
