@@ -39,7 +39,7 @@ type: "medea"
 
 <br>
 
-<p><i></i><center><b>PROLOGUE</b>[^3]</center></p>
+<i></i><p><center><b>PROLOGUE</b>[^3]</center></p>
 
 <i><div style="text-align: right">Enter NURSE from the house.[^4]</div></i>
 
