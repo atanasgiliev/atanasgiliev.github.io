@@ -41,7 +41,7 @@ type: "medea"
 
 <i></i><p><center><b>PROLOGUE</b>[^3]</center></p>
 
-<i><div style="text-align: right">Enter NURSE from the house.[^4]</div></i>
+<i><div style="text-align: right">Enter </i>NURSE<i> from the house.[^4]</div></i>
 
 NURSE  
 &nbsp;&nbsp;&nbsp;&nbsp; I wish that Argo ship had never flown  
@@ -90,8 +90,23 @@ NURSE
 &nbsp;&nbsp;&nbsp;&nbsp; For horrid is she; one poor in her grace  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; The ode of triumph won't readily sing.</span><span style="float:right;">[45]</span><br>
 
+<i><div style="text-align: right">Enter </i>PEDAGOGUE<i> by </i>Eisodos A,<i> accompanied by the two CHILDREN.</div></i>
+
+&nbsp;&nbsp;&nbsp;&nbsp; And lo! pausing their leisure, her offspring
+&nbsp;&nbsp;&nbsp;&nbsp; Approach, not knowing of their mother's tears–
+&nbsp;&nbsp;&nbsp;&nbsp; The young draw back from sadness and from fears.
+
+PEDAGOGUE[^6]
+&nbsp;&nbsp;&nbsp;&nbsp; Old servant from the household of my lady,
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Why standest thou in front of gates so shady</span><span style="float:right;">[50]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And criest to thyself about our sorrow?
+&nbsp;&nbsp;&nbsp;&nbsp; Why did Medea bid thee not to follow?
+
+NURSE
+
 [^1]: My purpose with this project was to translate the play in heroic couplets, i.e., rhyming pairs of iambic pentameters, in imitation of Pope’s Homer and Dryden’s Virgil. The translation uses the Greek text of *James Diggle*'s Oxford Classical Texts (OCT) edition and matches the number of lines found there. I have also made extensive use of *Michele Kwintner*'s Bryn Mawr commentary (mostly for grammar) and *Donald J. Mastronarde*'s Cambridge Greek and Latin Classics one (for grammar and interpretation). I’m beyond grateful to *Aleksa Sotirov* for all his invaluable editorial work, to *Prof. Alexandra Schultz* for all her patience helping me translate the play, and to *Prof. Hakan Tell*, whose Greek drama class largely inspired me to tackle this project. To the extent of my knowledge, this is the first translation where all stasimons have been translated in heroic couplets while also matching the exact number of lines they contain as per the OCT.
 [^2]: Medea was played by the first actor (πρωταγωνιστής), the Nurse and Jason were played by the second actor (δευτεραγωνιστής), and the other four characters were played by the third actor (τριταγωνιστής). The characters are given in that order (followed by the chorus) and not in order of appearance. There were also actors playing Medea’s children, perhaps named Mermerus and Pheres, who only speak off-stage.
 [^3]: Lines 1-130 inclusive (out of 1419 total), the part of the play before the entrance of the chorus.
 [^4]: Stage directions have been adapted from *David Kovacs*’ Loeb Classical Library edition of *Medea* (Euripides I).
 [^5]: The translation tries to preserve the punctuation observed in the OCT’s version of Medea wherever this is possible.
+[^6]: I have decided to translate the Greek ΠΑΙΔΑΓΩΓΟΣ as PEDAGOGUE even though the usual ‘tutor’ is way closer in meaning to the actual sense of the Greek word. My reasoning rests mostly on the fact that despite its contemporary connotation, ‘pedagogue’ is still an English word, and originally meant what it means in Greek. Thus, by using it, I hope to bring some attention to its etymology. The word continues to resemble its Greek origin in meaning in several languages to this day.
