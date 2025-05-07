@@ -1,3 +1,8 @@
+---
+title: "Medea"
+date: 2025-04-20T10:25:59-04:00
+description: "*Translation of *Medea*"
+---
 
 <p style="text-align:center;">MEDEA<br>by Euripides</p>
 
