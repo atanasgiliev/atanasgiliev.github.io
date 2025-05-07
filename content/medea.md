@@ -32,14 +32,14 @@ description: "Medea Page"
 
 <i></i><center>PROLOGUE[^3]</center>
 
-<i><right>Enter NURSE from the house.[^4]</right></i>
+<i><div style="text-align: right">Enter NURSE from the house.[^4]</div></i>
 
 NURSE  
 &nbsp;&nbsp;&nbsp;&nbsp; I wish that Argo ship had never flown  
 &nbsp;&nbsp;&nbsp;&nbsp; Through Symplegades dark, the Colchian throne,  
 &nbsp;&nbsp;&nbsp;&nbsp; And that no pine was felled ‘mongst Pelion's trees  
 &nbsp;&nbsp;&nbsp;&nbsp; So oarsmen did not have the means to seize  
-&nbsp;&nbsp;&nbsp;&nbsp; The golden fleece by Pelias' decree. <right>[5]</right>  
+&nbsp;&nbsp;&nbsp;&nbsp; The golden fleece by Pelias' decree. <div style="text-align: right">[5]</div>
 &nbsp;&nbsp;&nbsp;&nbsp; For then, Medea won't have had to flee  
 &nbsp;&nbsp;&nbsp;&nbsp; To th’ citadels of Iolcus' state,  
 &nbsp;&nbsp;&nbsp;&nbsp; By love for Jason struck with fervour great:  
