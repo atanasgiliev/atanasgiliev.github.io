@@ -225,111 +225,111 @@ NURSE
 <i><div style="text-align: right">Enter the </i>CHORUS<i> by </i>Eisodos B.</div>  
 
 CHORUS  
-We heard an utterance, we heard a cry  
-From that dejected Colchian woman nigh:  
-And hath she still not yet quite settled down?  
-Yet, elder servant, tell us as we frown  
-For we did hear a cry within that hall,  
-And we rejoice not, woman, in the fall  
-Of this thy household, since we think it dear.  
+&nbsp;&nbsp;&nbsp;&nbsp; We heard[^11] an utterance, we heard a cry  
+&nbsp;&nbsp;&nbsp;&nbsp; From that dejected Colchian woman nigh:  
+&nbsp;&nbsp;&nbsp;&nbsp; And hath she still not yet quite settled down?  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet, elder servant, tell us as we frown  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For we did hear a cry within that hall,</span><span style="float:right;">[135]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And we rejoice not, woman, in the fall  
+&nbsp;&nbsp;&nbsp;&nbsp; Of this thy household, since we think it dear.  
 
 NURSE  
-The house is gone; it soon shall disappear.  
-For as the lord enjoys the wedding bed,  
-My lady rots inside as if she's dead,  
-Her heart not ever so slightly consoled  
-By words of solace that her friends have told.  
+&nbsp;&nbsp;&nbsp;&nbsp; The house is gone; it soon shall disappear.  
+&nbsp;&nbsp;&nbsp;&nbsp; For as the lord enjoys the wedding bed,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; My lady rots inside as if she's dead,</span><span style="float:right;">[140]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Her heart not ever so slightly consoled  
+&nbsp;&nbsp;&nbsp;&nbsp; By words of solace that her friends have told.  
 
 MEDEA  
-Alas, alas, O Zeus, O Earth, O Light!  
-A heavenly bolt burns through my skull so bright!  
-For from this life, what good can I expect?  
-Let my loathed being cease to this effect,  
-I only seek oblivion in blight.  
+&nbsp;&nbsp;&nbsp;&nbsp; Alas, alas, O Zeus, O Earth, O Light!  
+&nbsp;&nbsp;&nbsp;&nbsp; A heavenly bolt burns through my skull so bright!  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For from this life, what good can I expect?</span><span style="float:right;">[145]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Let my loathed being cease to this effect,  
+&nbsp;&nbsp;&nbsp;&nbsp; I only seek oblivion in blight.[^12]  
 
 CHORUS  
-[Strophe]  
-Do ye hear, mighty Zeus and Earth and Light,  
-The shriek of such most miserable sort  
-To which this doleful wife doth now resort?  
-Thou fool, now why should thy deserted bed  
-Be ‘nough for thee to wish that thou wert dead?  
-In time, Death cometh all men to consume:  
-Thou shouldst thus never pray to know its gloom.  
-And if thy spouse should sleep on some fresh couch,  
-Remember Zeus himself, for thee shall vouch  
-To avenge th’ injustice that thy man now wreaks:  
-So let no anger show upon thy cheeks.  
-Bewail less… lest thou destroyest thy nest.  
+<i></i><div style="margin-left: 12em;">[Strophe[^13]]</div>  
+&nbsp;&nbsp;&nbsp;&nbsp; Do ye hear, mighty Zeus and Earth and Light,  
+&nbsp;&nbsp;&nbsp;&nbsp; The shriek of such most miserable sort  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; To which this doleful wife doth now resort?</span><span style="float:right;">[150]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Thou fool, now why should thy deserted bed  
+&nbsp;&nbsp;&nbsp;&nbsp; Be ‘nough for thee to wish that thou wert dead?  
+&nbsp;&nbsp;&nbsp;&nbsp; In time, Death cometh all men to consume:  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou shouldst thus never pray to know its gloom.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And if thy spouse should sleep on some fresh couch,</span><span style="float:right;">[155]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Remember Zeus himself, for thee shall vouch  
+&nbsp;&nbsp;&nbsp;&nbsp; To avenge th’ injustice that thy man now wreaks:  
+&nbsp;&nbsp;&nbsp;&nbsp; So let no anger show upon thy cheeks.  
+&nbsp;&nbsp;&nbsp;&nbsp; Bewail less… lest thou destroyest thy nest.  
 
 MEDEA  
-O mighty Themis and Artemis blest,  
-See you what pain my fortune now allows,  
-Binding my cursed spouse with such great vows?  
-Him and his bride, how I desire to see  
-Wiped out, their house reduced to mere debris!  
-For, unprovokèd, they first did me wrong.  
-O father, O hometown where I belong,  
-I slew my brother and left you in shame.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; O mighty Themis and Artemis blest,</span><span style="float:right;">[160]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; See you what pain my fortune now allows,  
+&nbsp;&nbsp;&nbsp;&nbsp; Binding my cursed spouse with such great vows?  
+&nbsp;&nbsp;&nbsp;&nbsp; Him and his bride, how I desire to see  
+&nbsp;&nbsp;&nbsp;&nbsp; Wiped out, their house reduced to mere debris!  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For, unprovokèd, they first did me wrong.</span><span style="float:right;">[165]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; O father, O hometown where I belong,  
+&nbsp;&nbsp;&nbsp;&nbsp; I slew my brother and left you in shame.  
 
 NURSE  
-O, listen how she calls on Themis' name  
-To invoke the goddess’ favor, ever fair,  
-And on Zeus' too, to whom all mortals swear?  
-It does not sound as if my lady's grief  
-Will soon decrease, much less turn a new leaf.  
+&nbsp;&nbsp;&nbsp;&nbsp; O, listen how she calls on Themis' name  
+&nbsp;&nbsp;&nbsp;&nbsp; To invoke the goddess’ favor, ever fair,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And on Zeus' too, to whom all mortals swear?</span><span style="float:right;">[170]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; It does not sound as if my lady's grief  
+&nbsp;&nbsp;&nbsp;&nbsp; Will soon decrease, much less turn a new leaf.  
 
 CHORUS  
-[Antistrophe]  
-O, how we wish that she would now appear,  
-Come face-to-face with us, so she could hear  
-Our voice and list to what we have to say:  
-Why can she not subside in any way  
-Her sour temper and her insolent mind?  
-Howbeit, let us never fail to find  
-Enough compassion for our dearest mates.  
-Now go and carry her out of these gates;  
-Go forth now, on thy way into her house:  
-Her fiery nature we shall try to douse.  
-Make haste before she harmeth those within:  
-For her grave grief shall soon erupt in sin.  
+<i></i><div style="margin-left: 12em;">[Antistrophe]</div>
+&nbsp;&nbsp;&nbsp;&nbsp; O, how we wish that she would now appear,  
+&nbsp;&nbsp;&nbsp;&nbsp; Come face-to-face with us, so she could hear  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Our voice and list to what we have to say:</span><span style="float:right;">[175]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Why can she not subside in any way  
+&nbsp;&nbsp;&nbsp;&nbsp; Her sour temper and her insolent mind?  
+&nbsp;&nbsp;&nbsp;&nbsp; Howbeit, let us never fail to find  
+&nbsp;&nbsp;&nbsp;&nbsp; Enough compassion for our dearest mates.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Now go and carry her out of these gates;</span><span style="float:right;">[180]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Go forth now, on thy way into her house:  
+&nbsp;&nbsp;&nbsp;&nbsp; Her fiery nature we shall try to douse.  
+&nbsp;&nbsp;&nbsp;&nbsp; Make haste before she harmeth those within:  
+&nbsp;&nbsp;&nbsp;&nbsp; For her grave grief shall soon erupt in sin.  
 
 NURSE  
-All right, but I fear I can't sway the dame,  
-Yet I shall toil to fulfill your aim;  
-Although she, with a lioness’ facade,  
-Doth like a bull charge at slaves from abroad,  
-When they come near her, bringing news or fruits.  
-‘Twould not be a mistake to call them brutes,  
-Who long ago, devoid of all insight  
-Were introducing songs cheerful and bright  
-At both feasts solemn and at dinners jolly;  
-Music, the sound of life's delightful folly–  
-But they could not with music nor with lyre  
-Succeed in easing men's conditions dire:  
-The very grief that kindles death and smashes  
-Houses apart, reducing them to ashes.  
-What joy ‘twould be if songs could cure our woes!  
-When people eat, wherefore should one compose  
-Songs? Nay, it is a total waste of time.  
-Indeed, a man who’s feasting in his prime  
-Delights enough i’th’ very meal he eats.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; All right, but I fear I can't sway the dame,</span><span style="float:right;">[185]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Yet I shall toil to fulfill your aim;  
+&nbsp;&nbsp;&nbsp;&nbsp; Although she, with a lioness’ facade,  
+&nbsp;&nbsp;&nbsp;&nbsp; Doth like a bull charge at slaves from abroad,  
+&nbsp;&nbsp;&nbsp;&nbsp; When they come near her, bringing news or fruits.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; ‘Twould not be a mistake to call them brutes,</span><span style="float:right;">[190]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Who long ago, devoid of all insight  
+&nbsp;&nbsp;&nbsp;&nbsp; Were introducing songs cheerful and bright  
+&nbsp;&nbsp;&nbsp;&nbsp; At both feasts solemn and at dinners jolly;  
+&nbsp;&nbsp;&nbsp;&nbsp; Music, the sound of life's delightful folly–  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; But they could not with music nor with lyre</span><span style="float:right;">[195]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Succeed in easing men's conditions dire:  
+&nbsp;&nbsp;&nbsp;&nbsp; The very grief that kindles death and smashes  
+&nbsp;&nbsp;&nbsp;&nbsp; Houses apart, reducing them to ashes.  
+&nbsp;&nbsp;&nbsp;&nbsp; What joy ‘twould be if songs could cure our woes!  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; When people eat, wherefore should one compose</span><span style="float:right;">[200]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Songs? Nay, it is a total waste of time.  
+&nbsp;&nbsp;&nbsp;&nbsp; Indeed, a man who’s feasting in his prime  
+&nbsp;&nbsp;&nbsp;&nbsp; Delights enough i’th’ very meal he eats.  
 
 <i><div style="text-align: right">Exit </i>NURSE<i> into the house.</div></i>  
 
 CHORUS  
-We’ve heard most grievous wailings from these streets;  
-Her calls for vengeance on that cheating gent,  
-Who did betray her bed with gross intent;   
-Thus suffering injustice, she invokes  
-Themis, the one who judges oath from hoax,  
-The daughter of Zeus, king of all the gods;  
-She who was brought to Greece against all odds  
-And carried o’er the lucifugous waves  
-Through such a place that hosts so many graves,  
-The uncrossable strait of the Black Sea.  
+&nbsp;&nbsp;&nbsp;&nbsp; We’ve heard most grievous wailings from these streets;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Her calls for vengeance on that cheating gent,</span><span style="float:right;">[205]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Who did betray her bed with gross intent;   
+&nbsp;&nbsp;&nbsp;&nbsp; Thus suffering injustice, she invokes  
+&nbsp;&nbsp;&nbsp;&nbsp; Themis, the one who judges oath from hoax,  
+&nbsp;&nbsp;&nbsp;&nbsp; The daughter of Zeus, king of all the gods;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; She who was brought to Greece against all odds</span><span style="float:right;">[210]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And carried o’er the lucifugous waves  
+&nbsp;&nbsp;&nbsp;&nbsp; Through such a place that hosts so many graves,  
+&nbsp;&nbsp;&nbsp;&nbsp; The uncrossable strait of the Black Sea.  
 
-<i></i><p><center><b>EPISODE I</b></center></p>
+<i></i><p><center><b>EPISODE I</b>[^14]</center></p>
 
 [^1]: My purpose with this project was to translate the play in heroic couplets, i.e., rhyming pairs of iambic pentameters, in imitation of Pope’s Homer and Dryden’s Virgil. The translation uses the Greek text of *James Diggle*'s Oxford Classical Texts (OCT) edition and matches the number of lines found there. I have also made extensive use of *Michele Kwintner*'s Bryn Mawr commentary (mostly for grammar) and *Donald J. Mastronarde*'s Cambridge Greek and Latin Classics one (for grammar and interpretation). I’m beyond grateful to *Aleksa Sotirov* for all his invaluable editorial work, to *Prof. Alexandra Schultz* for all her patience helping me translate the play, and to *Prof. Hakan Tell*, whose Greek drama class largely inspired me to tackle this project. To the extent of my knowledge, this is the first translation where all stasimons have been translated in heroic couplets while also matching the exact number of lines they contain as per the OCT.
 [^2]: Medea was played by the first actor (πρωταγωνιστής), the Nurse and Jason were played by the second actor (δευτεραγωνιστής), and the other four characters were played by the third actor (τριταγωνιστής). The characters are given in that order (followed by the chorus) and not in order of appearance. There were also actors playing Medea’s children, perhaps named Mermerus and Pheres, who only speak off-stage.
@@ -341,3 +341,7 @@ The uncrossable strait of the Black Sea.
 [^8]: The first line is addressed to the children while the next two are spoken to herself.
 [^9]: After this line, she addresses the PEDAGOGUE.
 [^10]: Lines 131-213 inclusive, the first choral ode.
+[^11]: I have decided to translate most, if not all, first-person *singular* pronouns and verbs spoken by the CHORUS as if they were *plural*.
+[^12]: After this line, MEDEA screams.
+[^13]: During a strophe, the CHORUS moves from one end of the stage to the other; during an antistrophe, they move from that end to the original one or the center of the stage.
+[^14]: Lines 214-409 inclusive, episodes consist of dialogue spoken by the actors between choral songs. *Medea* contains five episodes.
