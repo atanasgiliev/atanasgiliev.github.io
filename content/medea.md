@@ -248,7 +248,7 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; I only seek oblivion in blight.[^12]  
 
 CHORUS  
-<i></i><div style="margin-left: 12em;">[Strophe[^13]]</div>  
+<span style="display:inline-block; margin-left:10em;">[Strophe[^13]]</span>  
 &nbsp;&nbsp;&nbsp;&nbsp; Do ye hear, mighty Zeus and Earth and Light,  
 &nbsp;&nbsp;&nbsp;&nbsp; The shriek of such most miserable sort  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; To which this doleful wife doth now resort?</span><span style="float:right;">[150]</span><br>
@@ -280,7 +280,7 @@ NURSE
 &nbsp;&nbsp;&nbsp;&nbsp; Will soon decrease, much less turn a new leaf.  
 
 CHORUS  
-<i></i><div style="margin-left: 12em;">[Antistrophe]</div>
+<span style="display:inline-block; margin-left:10em;">[Antistrophe]</span>  
 &nbsp;&nbsp;&nbsp;&nbsp; O, how we wish that she would now appear,  
 &nbsp;&nbsp;&nbsp;&nbsp; Come face-to-face with us, so she could hear  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Our voice and list to what we have to say:</span><span style="float:right;">[175]</span><br>
