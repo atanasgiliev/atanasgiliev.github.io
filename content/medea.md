@@ -194,7 +194,7 @@ NURSE
 &nbsp;&nbsp;&nbsp;&nbsp; Try to accomplish with so large a spleen  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And when her stubbornness hath been so keen?</span><span style="float:right;">[110]</span><br>
 
-<i><div style="text-align: right">Exeunt </i>PEDAGOGUE<i> with the two </i>CHILDREN<i> into the house.</div></i>
+<i><div style="text-align: right">Exeunt </i>PEDAGOGUE<i> with the two </i>CHILDREN<i> into the house.</div></i>  
 
 MEDEA  
 &nbsp;&nbsp;&nbsp;&nbsp; Ah, mournfully I’ve suffered such events,  
@@ -222,7 +222,114 @@ NURSE
 
 <i></i><p><center><b>PARODOS</b>[^10]</center></p>
 
+<i><div style="text-align: right">Enter the </i>CHORUS<i> by </i>Eisodos B.</div>  
+
 CHORUS  
+We heard an utterance, we heard a cry  
+From that dejected Colchian woman nigh:  
+And hath she still not yet quite settled down?  
+Yet, elder servant, tell us as we frown  
+For we did hear a cry within that hall,  
+And we rejoice not, woman, in the fall  
+Of this thy household, since we think it dear.  
+
+NURSE  
+The house is gone; it soon shall disappear.  
+For as the lord enjoys the wedding bed,  
+My lady rots inside as if she's dead,  
+Her heart not ever so slightly consoled  
+By words of solace that her friends have told.  
+
+MEDEA  
+Alas, alas, O Zeus, O Earth, O Light!  
+A heavenly bolt burns through my skull so bright!  
+For from this life, what good can I expect?  
+Let my loathed being cease to this effect,  
+I only seek oblivion in blight.  
+
+CHORUS  
+[Strophe]  
+Do ye hear, mighty Zeus and Earth and Light,  
+The shriek of such most miserable sort  
+To which this doleful wife doth now resort?  
+Thou fool, now why should thy deserted bed  
+Be ‘nough for thee to wish that thou wert dead?  
+In time, Death cometh all men to consume:  
+Thou shouldst thus never pray to know its gloom.  
+And if thy spouse should sleep on some fresh couch,  
+Remember Zeus himself, for thee shall vouch  
+To avenge th’ injustice that thy man now wreaks:  
+So let no anger show upon thy cheeks.  
+Bewail less… lest thou destroyest thy nest.  
+
+MEDEA  
+O mighty Themis and Artemis blest,  
+See you what pain my fortune now allows,  
+Binding my cursed spouse with such great vows?  
+Him and his bride, how I desire to see  
+Wiped out, their house reduced to mere debris!  
+For, unprovokèd, they first did me wrong.  
+O father, O hometown where I belong,  
+I slew my brother and left you in shame.  
+
+NURSE  
+O, listen how she calls on Themis' name  
+To invoke the goddess’ favor, ever fair,  
+And on Zeus' too, to whom all mortals swear?  
+It does not sound as if my lady's grief  
+Will soon decrease, much less turn a new leaf.  
+
+CHORUS  
+[Antistrophe]  
+O, how we wish that she would now appear,  
+Come face-to-face with us, so she could hear  
+Our voice and list to what we have to say:  
+Why can she not subside in any way  
+Her sour temper and her insolent mind?  
+Howbeit, let us never fail to find  
+Enough compassion for our dearest mates.  
+Now go and carry her out of these gates;  
+Go forth now, on thy way into her house:  
+Her fiery nature we shall try to douse.  
+Make haste before she harmeth those within:  
+For her grave grief shall soon erupt in sin.  
+
+NURSE  
+All right, but I fear I can't sway the dame,  
+Yet I shall toil to fulfill your aim;  
+Although she, with a lioness’ facade,  
+Doth like a bull charge at slaves from abroad,  
+When they come near her, bringing news or fruits.  
+‘Twould not be a mistake to call them brutes,  
+Who long ago, devoid of all insight  
+Were introducing songs cheerful and bright  
+At both feasts solemn and at dinners jolly;  
+Music, the sound of life's delightful folly–  
+But they could not with music nor with lyre  
+Succeed in easing men's conditions dire:  
+The very grief that kindles death and smashes  
+Houses apart, reducing them to ashes.  
+What joy ‘twould be if songs could cure our woes!  
+When people eat, wherefore should one compose  
+Songs? Nay, it is a total waste of time.  
+Indeed, a man who’s feasting in his prime  
+Delights enough i’th’ very meal he eats.  
+
+<i><div style="text-align: right">Exit </i>NURSE<i> into the house.</div></i>  
+
+CHORUS  
+We’ve heard most grievous wailings from these streets;
+Her calls for vengeance on that cheating gent,  
+Who did betray her bed with gross intent;   
+Thus suffering injustice, she invokes  
+Themis, the one who judges oath from hoax,  
+The daughter of Zeus, king of all the gods;  
+She who was brought to Greece against all odds  
+And carried o’er the lucifugous waves  
+Through such a place that hosts so many graves,  
+The uncrossable strait of the Black Sea.  
+
+<i></i><p><center><b>EPISODE I</b></center></p>
 
 [^1]: My purpose with this project was to translate the play in heroic couplets, i.e., rhyming pairs of iambic pentameters, in imitation of Pope’s Homer and Dryden’s Virgil. The translation uses the Greek text of *James Diggle*'s Oxford Classical Texts (OCT) edition and matches the number of lines found there. I have also made extensive use of *Michele Kwintner*'s Bryn Mawr commentary (mostly for grammar) and *Donald J. Mastronarde*'s Cambridge Greek and Latin Classics one (for grammar and interpretation). I’m beyond grateful to *Aleksa Sotirov* for all his invaluable editorial work, to *Prof. Alexandra Schultz* for all her patience helping me translate the play, and to *Prof. Hakan Tell*, whose Greek drama class largely inspired me to tackle this project. To the extent of my knowledge, this is the first translation where all stasimons have been translated in heroic couplets while also matching the exact number of lines they contain as per the OCT.
 [^2]: Medea was played by the first actor (πρωταγωνιστής), the Nurse and Jason were played by the second actor (δευτεραγωνιστής), and the other four characters were played by the third actor (τριταγωνιστής). The characters are given in that order (followed by the chorus) and not in order of appearance. There were also actors playing Medea’s children, perhaps named Mermerus and Pheres, who only speak off-stage.
