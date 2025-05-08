@@ -318,7 +318,7 @@ Delights enough i’th’ very meal he eats.
 <i><div style="text-align: right">Exit </i>NURSE<i> into the house.</div></i>  
 
 CHORUS  
-We’ve heard most grievous wailings from these streets;
+We’ve heard most grievous wailings from these streets;  
 Her calls for vengeance on that cheating gent,  
 Who did betray her bed with gross intent;   
 Thus suffering injustice, she invokes  
