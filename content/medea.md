@@ -187,7 +187,7 @@ NURSE
 &nbsp;&nbsp;&nbsp;&nbsp; Nor come not near her, but avoid the spite  
 &nbsp;&nbsp;&nbsp;&nbsp; Of her obstinate mind so predisposed  
 &nbsp;&nbsp;&nbsp;&nbsp; And of her nature wild, which this imposed.  
-<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Go on now, withdraw with swiftness inside.[^9]</span><span style="float:right;">[105]</span><br>
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Go on now, withdraw with swiftness inside.</span>[^9]<span style="float:right;">[105]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Condensing from the start, that vapor tide  
 &nbsp;&nbsp;&nbsp;&nbsp; Shall soon with even greater wrath ignite;  
 &nbsp;&nbsp;&nbsp;&nbsp; What will her soul, thus bitten by such plight,  
