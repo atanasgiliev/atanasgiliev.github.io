@@ -127,21 +127,21 @@ PEDAGOGUE
 &nbsp;&nbsp;&nbsp;&nbsp; Nothing; I've said too much. And so, farewell.  
 
 NURSE  
-&nbsp;&nbsp;&nbsp;&nbsp; Don’t hide this from a peer-slave, by thy beard:  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Don’t hide this from a peer-slave, by thy beard:</span><span style="float:right;">[65]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; I will not say a thing if thou'rt afear'd.  
 
 PEDAGOGUE  
 &nbsp;&nbsp;&nbsp;&nbsp; I heard it said, pretending not to hear,  
 &nbsp;&nbsp;&nbsp;&nbsp; From old ones at their game-boards, playing near  
 &nbsp;&nbsp;&nbsp;&nbsp; The sacred fountain of the Muse Peirene,  
-&nbsp;&nbsp;&nbsp;&nbsp; That soon these boys in Corinth shan’t be seen.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; That soon these boys in Corinth shan’t be seen.</span><span style="float:right;">[70]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; So, too, their mother; thus Creon decrees.  
 &nbsp;&nbsp;&nbsp;&nbsp; This is the tale, yet I am not at ease  
 &nbsp;&nbsp;&nbsp;&nbsp; Whether ‘tis true, but I wish it was not.  
 
 NURSE  
 &nbsp;&nbsp;&nbsp;&nbsp; Would Jason let his children face this plot  
-&nbsp;&nbsp;&nbsp;&nbsp; E'en if their mother he, of late, has fought?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; E'en if their mother he, of late, has fought?</span><span style="float:right;">[75]</span><br>
 
 PEDAGOGUE  
 &nbsp;&nbsp;&nbsp;&nbsp; Old bonds lie broken for new ones he’s sought,  
@@ -152,7 +152,7 @@ NURSE
 &nbsp;&nbsp;&nbsp;&nbsp; To old trouble with which we still are fraught.  
 
 PEDAGOGUE  
-&nbsp;&nbsp;&nbsp;&nbsp; But thou at least, keep quiet and say naught,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; But thou at least, keep quiet and say naught,</span><span style="float:right;">[80]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; To know of this, our mistress never ought.  
 
 NURSE[^7]  
@@ -161,19 +161,19 @@ NURSE[^7]
 &nbsp;&nbsp;&nbsp;&nbsp; To wrong his brood shall be on him a blot.  
 
 PEDAGOGUE  
-&nbsp;&nbsp;&nbsp;&nbsp; Which mortal differs? Dost thou just now hear,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Which mortal differs? Dost thou just now hear,</span><span style="float:right;">[85]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; That self-love comes before those one holds dear,  
 &nbsp;&nbsp;&nbsp;&nbsp; Some justly so, yet others serving gain,  
 &nbsp;&nbsp;&nbsp;&nbsp; This bed-fond father's love for them is vain.  
 
 NURSE  
 &nbsp;&nbsp;&nbsp;&nbsp; Children, all shall be well; now go inside.[^8]  
-&nbsp;&nbsp;&nbsp;&nbsp; But thou must try to keep them far aside;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; But thou must try to keep them far aside;</span><span style="float:right;">[90]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Don't bring them near their mother's vexed sigh.  
 &nbsp;&nbsp;&nbsp;&nbsp; For I have lately seen her bullish eye  
 &nbsp;&nbsp;&nbsp;&nbsp; On them, contriving so, and she won't end  
 &nbsp;&nbsp;&nbsp;&nbsp; Her wrath, I know, ‘til someone’s forced to bend...  
-&nbsp;&nbsp;&nbsp;&nbsp; Let’s hope ‘tis not a friend but rather a foe.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Let’s hope ‘tis not a friend but rather a foe.</span><span style="float:right;">[95]</span><br>
 
 MEDEA [*from within*]  
 &nbsp;&nbsp;&nbsp;&nbsp; O, I am dismal! All that’s left is woe!  
@@ -182,17 +182,17 @@ MEDEA [*from within*]
 NURSE  
 &nbsp;&nbsp;&nbsp;&nbsp; Just so, dear youths: your mother's tears do flow  
 &nbsp;&nbsp;&nbsp;&nbsp; Straight from her heart, and so her bitter ire.  
-&nbsp;&nbsp;&nbsp;&nbsp; Now haste into the house, and there retire  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Now haste into the house, and there retire</span><span style="float:right;">[100]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; And dare not come into her field of sight,  
 &nbsp;&nbsp;&nbsp;&nbsp; Nor come not near her, but avoid the spite  
 &nbsp;&nbsp;&nbsp;&nbsp; Of her obstinate mind so predisposed  
 &nbsp;&nbsp;&nbsp;&nbsp; And of her nature wild, which this imposed.  
-&nbsp;&nbsp;&nbsp;&nbsp; Go on now, withdraw with swiftness inside.[^9]  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Go on now, withdraw with swiftness inside.[^9]</span><span style="float:right;">[105]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Condensing from the start, that vapor tide  
 &nbsp;&nbsp;&nbsp;&nbsp; Shall soon with even greater wrath ignite;  
 &nbsp;&nbsp;&nbsp;&nbsp; What will her soul, thus bitten by such plight,  
 &nbsp;&nbsp;&nbsp;&nbsp; Try to accomplish with so large a spleen  
-&nbsp;&nbsp;&nbsp;&nbsp; And when her stubbornness hath been so keen?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And when her stubbornness hath been so keen?</span><span style="float:right;">[110]</span><br>
 
 <i><div style="text-align: right">Exeunt </i>PEDAGOGUE<i> with the two </i>CHILDREN<i> into the house.</div></i>
 
@@ -203,22 +203,22 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; Now may ye perish with your house and father.  
 
 NURSE  
-&nbsp;&nbsp;&nbsp;&nbsp; Oh me, oh my, how sorrowful I am.   
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Oh me, oh my, how sorrowful I am.</span><span style="float:right;">[115]</span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp; But for a father's misdeed, why blame them?  
 &nbsp;&nbsp;&nbsp;&nbsp; Why dost thou hate thy offspring? Woe is me,  
 &nbsp;&nbsp;&nbsp;&nbsp; Lest thy two boys suffer because of thee.  
 &nbsp;&nbsp;&nbsp;&nbsp; How terrorful are tyrants' dark designs,  
-&nbsp;&nbsp;&nbsp;&nbsp; And wielding so much pow’r, with few confines,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And wielding so much pow’r, with few confines,</span><span style="float:right;">[120]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; They find it hard their anger to subside.  
 &nbsp;&nbsp;&nbsp;&nbsp; ‘Tis best in moderation to abide;  
 &nbsp;&nbsp;&nbsp;&nbsp; And I, at least, in safety shall grow old,  
 &nbsp;&nbsp;&nbsp;&nbsp; If not to have a life of pomp and gold.  
-&nbsp;&nbsp;&nbsp;&nbsp; For mortals to praise the name of Restraint  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For mortals to praise the name of Restraint</span><span style="float:right;">[125]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; And to desire ‘t is wisest and most quaint;  
 &nbsp;&nbsp;&nbsp;&nbsp; While for one's prospects to be in excess  
 &nbsp;&nbsp;&nbsp;&nbsp; Is never fitting for a man to bless,  
 &nbsp;&nbsp;&nbsp;&nbsp; Since when the gods a house come to despise  
-&nbsp;&nbsp;&nbsp;&nbsp; A greater fortune brings still greater vice.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; A greater fortune brings still greater vice.</span><span style="float:right;">[130]</span><br>
 
 PARODOS  
 
