@@ -459,7 +459,7 @@ CREON
 &nbsp;&nbsp;&nbsp;&nbsp; My mind; I am resolved thou canst not stay  
 &nbsp;&nbsp;&nbsp;&nbsp; Among us, since thou wishest to hurt me.  
 
-<div style="text-align: right">MEDEA<i> kneels before him in the attitude of a suppliant, grasping his knees and hand.</i></div>  
+<i></i><div style="text-align: right">MEDEA<i> kneels before him in the attitude of a suppliant, grasping his knees and hand.</div></i>  
 
 MEDEA  
 &nbsp;&nbsp;&nbsp;&nbsp; Nay, by thy knees and daughter, I beg thee.  
