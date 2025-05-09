@@ -220,6 +220,8 @@ NURSE
 &nbsp;&nbsp;&nbsp;&nbsp; Since when the gods a house come to despise  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; A greater fortune brings still greater vice.</span><span style="float:right;">[130]</span><br>
 
+<br>
+
 <i></i><p><center><b>PARODOS</b>[^10]</center></p>
 
 <i><div style="text-align: right">Enter the </i>CHORUS<i> by </i>Eisodos B.</div>  
@@ -328,6 +330,8 @@ CHORUS
 &nbsp;&nbsp;&nbsp;&nbsp; And carried o’er the lucifugous waves  
 &nbsp;&nbsp;&nbsp;&nbsp; Through such a place that hosts so many graves,  
 &nbsp;&nbsp;&nbsp;&nbsp; The uncrossable strait of the Black Sea.  
+
+<br>
 
 <i></i><p><center><b>EPISODE I</b>[^14]</center></p>
 
@@ -589,6 +593,8 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; At deeds of valour that make good men glad,  
 &nbsp;&nbsp;&nbsp;&nbsp; Yet most adept at leaving people sad.  
 
+<br>
+
 <i></i><p><center><b>STASIMON I</b>[^15]</center></p>
 
 CHORUS  
@@ -632,6 +638,8 @@ CHORUS
 &nbsp;&nbsp;&nbsp;&nbsp; Worse yet, a better princess shall be sworn  
 &nbsp;&nbsp;&nbsp;&nbsp; To rule thy home, and thou shalt be forlorn.  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; None more accursed hath ever yet been born.</span><span style="float:right;">[445]</span><br>
+
+<br>
 
 <i></i><p><center><b>EPISODE II</b></center></p>
 
