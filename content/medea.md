@@ -643,6 +643,638 @@ CHORUS
 
 <i></i><p><center><b>EPISODE II</b></center></p>
 
+<i><div style="text-align: right">Enter </i>JASON<i> by </i>Eisodos B[^16].</div>  
+
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; I have often witnessed such silly scorn  
+&nbsp;&nbsp;&nbsp;&nbsp; And how it causes so many to mourn.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou couldst have stayed here if thou hadst forsworn  
+&nbsp;&nbsp;&nbsp;&nbsp; Thy pride and hadst obeyed thy lord, his laws;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Instead to be expelled thou'st given cause.</span><span style="float:right;">[450]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And yet, call Jason base; thou need’st not cease:  
+&nbsp;&nbsp;&nbsp;&nbsp; I really don't care; I have made my peace.  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet when thou insultest the monarch's house,  
+&nbsp;&nbsp;&nbsp;&nbsp; Exile is mercy, and thou shouldst not grouse.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I wish that thou couldst stay; I've tried to appease</span><span style="float:right;">[455]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; The angry lords whom thou hast failed to please.  
+&nbsp;&nbsp;&nbsp;&nbsp; But thou refusest to cease speaking ill  
+&nbsp;&nbsp;&nbsp;&nbsp; Of kings– thus must thou thy exile fulfill.  
+&nbsp;&nbsp;&nbsp;&nbsp; E’en so, my kin I shall not disregard,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And, woman, thou shalt not suffer too hard</span><span style="float:right;">[460]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; As I shall grant some coin my sons and thee,  
+&nbsp;&nbsp;&nbsp;&nbsp; In hopes you do not starve after you flee.  
+&nbsp;&nbsp;&nbsp;&nbsp; For even if thou only knowest hate,  
+&nbsp;&nbsp;&nbsp;&nbsp; I still could never wish thee an ill fate.  
+
+MEDEA  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Most destitute man, with no trace of good,</span><span style="float:right;">[465]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Thou brute, completely lacking in manhood,  
+&nbsp;&nbsp;&nbsp;&nbsp; Dost thou come to us, dost thou come just now,  
+&nbsp;&nbsp;&nbsp;&nbsp; Worst foe of gods, men, and myself? Dost thou?  
+&nbsp;&nbsp;&nbsp;&nbsp; It shows no courage, no determination,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; To thus abuse thy wife and thy creation,</span><span style="float:right;">[470]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And then come to berate them; ‘tis just shameful!  
+&nbsp;&nbsp;&nbsp;&nbsp; Of all things mortal, ‘tis the vice most blameful…  
+&nbsp;&nbsp;&nbsp;&nbsp; I’m glad thou camest, though, for I now shall speak,  
+&nbsp;&nbsp;&nbsp;&nbsp; Lighten my soul, and render thy mind bleak.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Let me thus speak first from the very start,</span><span style="float:right;">[475]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; I saved thee; any Greek who did depart  
+&nbsp;&nbsp;&nbsp;&nbsp; With thee on th’ Argo shall confirm of this,  
+&nbsp;&nbsp;&nbsp;&nbsp; When thou didst hear the bulls of fire hiss  
+&nbsp;&nbsp;&nbsp;&nbsp; And then wert sent to sow seeds of decease,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I slew the dragon which the golden fleece</span><span style="float:right;">[480]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Did guard, all coiled up and abjuring asleep;  
+&nbsp;&nbsp;&nbsp;&nbsp; I shone the light that saved thee from the deep.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thus, I betrayed my father and my house,  
+&nbsp;&nbsp;&nbsp;&nbsp; To Iolcus I followed thee, my spouse.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And although lacking wisdom, not resolve,</span><span style="float:right;">[485]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; I managed from thy fears thee to absolve  
+&nbsp;&nbsp;&nbsp;&nbsp; By killing Pelias in the basest way–  
+&nbsp;&nbsp;&nbsp;&nbsp; I made his daughters take his life away.  
+&nbsp;&nbsp;&nbsp;&nbsp; Still, after all that I have done for thee,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thou hast, foul beast, betrayed thine oath to me.</span><span style="float:right;">[490]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; I e’en bore thee a son not once, but twice.  
+&nbsp;&nbsp;&nbsp;&nbsp; Should not thy wedding promise still suffice?  
+&nbsp;&nbsp;&nbsp;&nbsp; I do not know whether the ancient lords  
+&nbsp;&nbsp;&nbsp;&nbsp; Are still thy gods or if thou’st turned towards  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; New ones– howbeit, thou art a disgrace.</span><span style="float:right;">[495]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Now, by the hand thou held’st in love's embrace,  
+&nbsp;&nbsp;&nbsp;&nbsp; And by my knees, at which thou beggedst so oft,  
+&nbsp;&nbsp;&nbsp;&nbsp; To be thus touched hath now proved not so soft.  
+&nbsp;&nbsp;&nbsp;&nbsp; Come on, for I shall ask thee as a friend,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Although I know I cannot e’er depend</span><span style="float:right;">[500]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; On thee, so to add to thine ample shame,  
+&nbsp;&nbsp;&nbsp;&nbsp; Tell me, in which land shall I refuge claim?  
+&nbsp;&nbsp;&nbsp;&nbsp; My sire's, whom I betrayed and then deserted,  
+&nbsp;&nbsp;&nbsp;&nbsp; Or Pelias', whose children I perverted?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I’m sure they’ll host me well, now that he's dead.</span><span style="float:right;">[505]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; To all my friends, I’m an object of dread.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thus, those I wished no harm are now my foes  
+&nbsp;&nbsp;&nbsp;&nbsp; Since I did help thee, and we grew so close.  
+&nbsp;&nbsp;&nbsp;&nbsp; As thanks for this, thou’st made me the most blessed  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Of all the wives in Greece; for you’re the best</span><span style="float:right;">[510]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Of spouses, so I’m forced to leave this place  
+&nbsp;&nbsp;&nbsp;&nbsp; With my forsaken boys, devoid of grace.  
+&nbsp;&nbsp;&nbsp;&nbsp; How sweet an honor to thee, the new groom:  
+&nbsp;&nbsp;&nbsp;&nbsp; Thy wife, who saved thy life from certain doom,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; A beggar, and thy boys to die of cold.</span><span style="float:right;">[515]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; O Zeus, why show us how to spot false gold  
+&nbsp;&nbsp;&nbsp;&nbsp; And yet create no clear physical token  
+&nbsp;&nbsp;&nbsp;&nbsp; To help us to detect which men are broken,  
+&nbsp;&nbsp;&nbsp;&nbsp; Which mortals are good, and which ones are vile?  
+
+CHORUS LEADER  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; When kin on kin enforces such a trial</span><span style="float:right;">[520]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; ‘Tis very easy to start smelling treason.  
+
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; I see I need to give a sounder reason,  
+&nbsp;&nbsp;&nbsp;&nbsp; Much like a careful helmsman of a ship  
+&nbsp;&nbsp;&nbsp;&nbsp; With the sail's edge, I have to give the slip  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; To th’ storm that bloweth from thy dire tongue.</span><span style="float:right;">[525]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Now, since thou’st to thy kindness greatly clung,  
+&nbsp;&nbsp;&nbsp;&nbsp; Know that I think ‘twas good Cypris alone  
+&nbsp;&nbsp;&nbsp;&nbsp; That saved me when I then was overthrown.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou, surely, hast a cunning, guileful mind;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Still, it was Eros who made thee so kind</span><span style="float:right;">[530]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; That thou didst save me: thou canst not deny.  
+&nbsp;&nbsp;&nbsp;&nbsp; I shan't press this point, lest thou start to cry.  
+&nbsp;&nbsp;&nbsp;&nbsp; Instead, I shall show that by saving me  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou’st gained more than thy rightfully owed fee.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; First and foremost, thou hast settled in Greece</span><span style="float:right;">[535]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Instead of some barbaric, savage lease;  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou livest i’th’ comfort of justice and laws–  
+&nbsp;&nbsp;&nbsp;&nbsp; Not spending time in fear of wild beasts’ jaws.  
+&nbsp;&nbsp;&nbsp;&nbsp; And all the Greeks know thy mind's elevation:  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thou hast enjoyed a fairer reputation</span><span style="float:right;">[540]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Than if thou wert to live at the world's end.  
+&nbsp;&nbsp;&nbsp;&nbsp; I’d rather have renown than gold to spend,  
+&nbsp;&nbsp;&nbsp;&nbsp; Or e’en than my sweet Orphic melodies,  
+&nbsp;&nbsp;&nbsp;&nbsp; If I can't make my wealth in equities.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Such is my answer regarding our quest;</span><span style="float:right;">[545]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Remember, thou didst start this word-wrought test.  
+&nbsp;&nbsp;&nbsp;&nbsp; Next, to the charge thou makest ‘gainst my betrothal:  
+&nbsp;&nbsp;&nbsp;&nbsp; I shall show thee I'm not running a brothel  
+&nbsp;&nbsp;&nbsp;&nbsp; And that I'm friendly to thee and our kin–  
+
+<div style="text-align: right">MEDEA <i>makes a gesture of impatience.</i></div>  
+
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Be quiet; thou shalt see how mild I've been.</span><span style="float:right;">[550]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; When I left Iolcus, my country natal,  
+&nbsp;&nbsp;&nbsp;&nbsp; I brought my troubles that were almost fatal;  
+&nbsp;&nbsp;&nbsp;&nbsp; What should I, a strange fugitive, have done?  
+&nbsp;&nbsp;&nbsp;&nbsp; Is it not best to wed a royal one?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I hate not our old bed, filled with some lust</span><span style="float:right;">[555]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; After a new bride; I don't feel disgust  
+&nbsp;&nbsp;&nbsp;&nbsp; At our boys, seeking a more fertile mate:  
+&nbsp;&nbsp;&nbsp;&nbsp; Two are enough, and they have turned out great;  
+&nbsp;&nbsp;&nbsp;&nbsp; Rather, it is indeed my utmost care  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; That we be not impoverished, but live fair,</span><span style="float:right;">[560]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Since those in need are so oft left behind;  
+&nbsp;&nbsp;&nbsp;&nbsp; To raise my children well, I've set my mind,  
+&nbsp;&nbsp;&nbsp;&nbsp; Just as ‘tis meet for members of my line;  
+&nbsp;&nbsp;&nbsp;&nbsp; And their new brothers shall with them align.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For why shouldst thou for any more sons strive?</span><span style="float:right;">[565]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; ‘Tis I need new sons to help old sons thrive.  
+&nbsp;&nbsp;&nbsp;&nbsp; And dost thou think I have miscalculated?  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou simply hatest her with whom I’ve mated.  
+&nbsp;&nbsp;&nbsp;&nbsp; Ye women have of late become moronic;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Your one care is the love-bed: how hedonic,</span><span style="float:right;">[570]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And should your sex life any way go wrong,  
+&nbsp;&nbsp;&nbsp;&nbsp; Ye chastise all that’s good, blest, wise, and strong  
+&nbsp;&nbsp;&nbsp;&nbsp; As wickedness. We need some other way  
+&nbsp;&nbsp;&nbsp;&nbsp; To get our children. Women must away,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And this shall solve all troubles men may face.</span><span style="float:right;">[575]</span><br>
+
+CHORUS LEADER  
+&nbsp;&nbsp;&nbsp;&nbsp; Jason, thy arguments are made with grace,  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet such a rude idea I'll embrace:  
+&nbsp;&nbsp;&nbsp;&nbsp; It seems to me thou didst thy wife debase.  
+
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; In this, my judgment differs from the lot:  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; When sound words are said by one full of rot,</span><span style="float:right;">[580]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; I think that this deserves the harshest sentence,  
+&nbsp;&nbsp;&nbsp;&nbsp; Since with his speeches, he can feign repentance,  
+&nbsp;&nbsp;&nbsp;&nbsp; While being not the slightest bit so smart.  
+&nbsp;&nbsp;&nbsp;&nbsp; So, don’t you dare parade thy rhetoric art  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Before me, nor thy faulty, foul cognition.</span><span style="float:right;">[585]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; One sentence shall defeat thy dull position:  
+&nbsp;&nbsp;&nbsp;&nbsp; A just man would have sought his wife's consent.  
+
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; I’m sure thou wouldst have answered with content  
+&nbsp;&nbsp;&nbsp;&nbsp; If I sought thy opinion about this,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; As even now thy hate thou can’t dismiss.</span><span style="float:right;">[590]</span><br>
+
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou liar! Thou wert afraid, lest in old age  
+&nbsp;&nbsp;&nbsp;&nbsp; A foreign wife shall dog thee with outrage.  
+
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Know this: I did not conquer a new bed  
+&nbsp;&nbsp;&nbsp;&nbsp; For love’s sake; rather, I chose to be wed  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For our sons, and for thy sake as well–</span><span style="float:right;">[595]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; I made the hardest choice that I could tell,  
+&nbsp;&nbsp;&nbsp;&nbsp; So that our family might still stand firm.  
+
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; For mere wealth, may I never lies affirm  
+&nbsp;&nbsp;&nbsp;&nbsp; For then my heart would suffer nonetheless.  
+
+JASON  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Teach thyself wiser prayers to profess!</span><span style="float:right;">[600]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Thou never shouldst call fortunate things bitter,  
+&nbsp;&nbsp;&nbsp;&nbsp; Nor paint fine gifts as if that they were litter.  
+
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Go on, insult me, since thou art so safe,  
+&nbsp;&nbsp;&nbsp;&nbsp; While I must leave, forsaken, like a waif.  
+
+JASON  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thou chose this, thou hast no one else to blame.</span><span style="float:right;">[605]</span><br>
+
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; What have I done? Elope with a new dame?  
+
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou hast not ceased to curse the royal house.  
+
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; And yet I, too, am cursed by mine own spouse.  
+
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; I see that I cannot agree with thee,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; But still, I wish to help once thou dost flee;</span><span style="float:right;">[610]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; So if thou wishest for some of my riches,  
+&nbsp;&nbsp;&nbsp;&nbsp; Just ask, and don't get too big for thy britches.  
+&nbsp;&nbsp;&nbsp;&nbsp; I shall give thee as much as thou wouldst need,  
+&nbsp;&nbsp;&nbsp;&nbsp; I shall instruct my friends thy call to heed.   
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Now, cease thine anger; to decline is madness.</span><span style="float:right;">[615]</span><br>
+
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Thy base friends never shall relieve our sadness  
+&nbsp;&nbsp;&nbsp;&nbsp; Neither shall we thy wicked gifts receive,  
+&nbsp;&nbsp;&nbsp;&nbsp; A foul man's offer is a poor reprieve.  
+
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Let the gods note my generosity  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And that thou choosest this atrocity.</span><span style="float:right;">[620]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; I came with peace, yet thou didst turn and bite,  
+&nbsp;&nbsp;&nbsp;&nbsp; Now may the gods strike back with all their might.  
+
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Begone! 'Tis sure, a man his bride adores  
+&nbsp;&nbsp;&nbsp;&nbsp; When he doth linger so long out of doors.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Go, play the bridegroom; may the gods ensure</span><span style="float:right;">[625]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; That thou regrettest this wedding impure.  
+
+<i><div style="text-align: right">Exit </i>JASON<i> by </i>Eisodos B.</div>  
+
+<br>
+
+<i></i><p><center><b>STASIMON II</b></center></p>
+
+CHORUS  
+<span style="display:inline-block; margin-left:10em;">[Strophe A]</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; When love is so incredibly erotic,  
+&nbsp;&nbsp;&nbsp;&nbsp; So full of passion, it’s almost hypnotic,  
+&nbsp;&nbsp;&nbsp;&nbsp; It fails to bring men any good renown  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Nor any credit; it just makes them frown.</span><span style="float:right;">[630]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; But yet, if Cypris strikes with moderation  
+&nbsp;&nbsp;&nbsp;&nbsp; Love still remains the most divine sensation.  
+&nbsp;&nbsp;&nbsp;&nbsp; So, goddess, we implore thee ne’er to shoot  
+&nbsp;&nbsp;&nbsp;&nbsp; Thine arrow at us, causing pain acute,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For thy bow golden is one of desire.</span><span style="float:right;">[635]</span><br>
+<span style="display:inline-block; margin-left:10em;">[Antistrophe A]</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; Rather, we conjure thee: protect this choir,  
+&nbsp;&nbsp;&nbsp;&nbsp; And grant us the most noble gift o’th’ gods:  
+&nbsp;&nbsp;&nbsp;&nbsp; The gift of moderation ‘gainst all odds.  
+&nbsp;&nbsp;&nbsp;&nbsp; May potent Cypris never let us long  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For a new bed, with yearning over-strong,</span><span style="float:right;">[640]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Lest as we perish and detest each other,  
+&nbsp;&nbsp;&nbsp;&nbsp; We vanish in desire’s thickest smother…    
+&nbsp;&nbsp;&nbsp;&nbsp; Instead, may Eros bless each peaceful union,  
+&nbsp;&nbsp;&nbsp;&nbsp; And choose for all of us the best communion.  
+<span style="display:inline-block; margin-left:10em;">[Strophe B]</span>  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; O native country, O our home, great town,</span><span style="float:right;">[645]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; We pray our city never turns us down,  
+&nbsp;&nbsp;&nbsp;&nbsp; Since this is a tough life, hard to endure,  
+&nbsp;&nbsp;&nbsp;&nbsp; Most miserable and yet least secure,  
+&nbsp;&nbsp;&nbsp;&nbsp; Nothing is worse than being an outcast.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Should such a day come, we'd rather die fast</span><span style="float:right;">[650]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; For there is not a thing worse than this fate:  
+&nbsp;&nbsp;&nbsp;&nbsp; That one should be rejected by his state,  
+&nbsp;&nbsp;&nbsp;&nbsp; To know no home, to lose one’s natal soil.  
+<span style="display:inline-block; margin-left:10em;">[Antistrophe B]</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; We speak as we have seen it from our toil,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Not by some distant, far-removed report,</span><span style="float:right;">[655]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Since thou thyself art exiled from this court,  
+&nbsp;&nbsp;&nbsp;&nbsp; And not a single friend hath offered aid,  
+&nbsp;&nbsp;&nbsp;&nbsp; While thou dost suffer, sorrowed, and betrayed.  
+&nbsp;&nbsp;&nbsp;&nbsp; Then let him die without any libations,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Who doth betray his most cherished relations,</span><span style="float:right;">[660]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Who thus refuseth e’er to bare his heart;  
+&nbsp;&nbsp;&nbsp;&nbsp; From such a man, we'd always stay apart.  
+
+<br>
+
+<i></i><p><center><b>EPISODE III</b></center></p>
+
+Enter AEGEUS by Eisodos A.
+
+AEGEUS
+	Medea, hail! Upon thee joy I send,
+There is no better way to greet a friend.
+
+MEDEA
+[665]	You too, Aegeus, wise Pandion's heir.
+What brings the king of Athens to this lair?
+
+AEGEUS
+	I’ve just come from the oracle of Phoebus.
+
+MEDEA
+	What made you wish to seek out such a rebus?
+
+AEGEUS
+	I would have children, and such was my query.
+
+MEDEA
+[670]	Gods, at your age, to have no heirs is weary.
+
+AEGEUS
+	Our childlessness is some great god's decree.
+
+MEDEA
+	Have you a wife, or live you lonesomely?
+
+AEGEUS
+	I have a wife; my nights are not unblest.
+
+MEDEA
+	So, what did Phoebus speak, at your behest?
+
+AEGEUS
+[675]	Words much too wise for mortals to translate.
+
+MEDEA
+	May I hear what the god chose to narrate?
+
+AEGEUS
+	Of course, I'll profit from thy clever mind.
+
+MEDEA
+	So what was said, if you would be so kind?
+
+AEGEUS
+	That I must not the bladder's foot untie...
+
+MEDEA
+[680]	Until you do what, or in what place lie?
+
+AEGEUS
+	Until I reach my old ancestral manor.
+
+MEDEA
+	What are you doing, then, beneath our banner?
+
+AEGEUS
+	I seek one Pittheus, the Troezen king.
+
+MEDEA
+	The pious son of Pelops, as men sing.
+
+AEGEUS
+[685]	To talk to him about this oracle.
+
+MEDEA
+	He’s skilled at all stuff metaphorical.
+
+AEGEUS
+	Besides, he’s dearest of all mine allies.
+
+MEDEA
+	I wish you luck, may his advice be wise.
+
+AEGEUS
+	Why is thy cheek pale, why tears in thine eye?
+
+MEDEA
+[690]	Aegeus, ‘tis my husband makes me cry.
+
+AEGEUS
+	What dost thou mean? Please tell me of thy trouble.
+
+MEDEA
+	‘Tis Jason who reduced me down to rubble.
+
+AEGEUS
+	What hath he done? Don't hesitate to tell.
+
+MEDEA
+	He took a new wife, putting me through hell.
+
+AEGEUS
+[695]	How hath he dared to do this shameful act?
+
+MEDEA
+	He loved me once, but now our bond is cracked.
+
+AEGEUS
+	Is he struck by new love, or hate for thee?
+
+MEDEA
+	It is plain lust; he no more cares for me.
+
+AEGEUS
+	Then pay him no mind, if his be so mean.
+
+MEDEA
+[700]	He's eager now to wed his future queen.
+
+AEGEUS
+	Who gave her to him? Please, complete thy story.
+
+MEDEA
+	‘Twas Creon, king of Corinth's territory.
+
+AEGEUS
+	O lady, thou art truly right to grieve.
+
+MEDEA
+	I'm finished now: this country I must leave.
+
+AEGEUS
+[705]	What now? Another sorrow thou must whelm?
+
+MEDEA
+	Creon would have me banished from his realm.
+
+AEGEUS
+	And Jason doth assent? Deplorable.
+
+MEDEA
+	He feigns with ‘No’s, yet still acts horrible.
+
+MEDEA kneels before AEGEUS.
+
+	And thus, I beg you, by your beard and knees,
+[710]	I come to you with my growing unease.
+So, pity me, a woman devastated,
+See to it that I am not isolated;
+Rather, receive me at your fireside.
+If, for me, you do take this in your stride,
+[715]	You shall have children and may die content.
+To find me here was a lucky event:
+Your impotence with true drugs I shall cure,
+And plenteous heirs for you I shall ensure.
+
+AEGEUS
+	Dear friend, of course, I'm happy to assist.
+[720]	The gods advise that I should not resist,
+Besides thy offer to provide me heirs,
+For I am quite bereft in these affairs.
+Thus, my support for thee shall never waver
+And if thou comest, I shall grant thee favour.
+[725]	Yet I, fair lady, sadly still fall short,
+For I may not to Athens thee escort.
+Still, if thou makest it to my domain,
+Thou shalt be safe; thy foes shall plot in vain.
+Thou must thyself from Corinth disappear;
+[730]	For I’d do poorly to seem hostile here.
+
+MEDEA
+	So be it; I have just one more request:
+Swear this, and of all kings you’ll be the best.
+
+AEGEUS
+	Dost thou not trust me? What is thy concern?
+
+MEDEA
+	I trust in you – yet many wish I'd burn:
+[735]	The house of Pelias and of Creon, too.
+An oath will vouchsafe there won’t be more rue.
+But if I trust in nothing but your word,
+I'd fear a bribe, or something so absurd,
+Should turn you 'gainst me, since my adversaries
+[740]	Have more wealth and more noble emissaries.
+
+AEGEUS
+	Fair woman, thou hast spoken wisely, sure;
+Thus, with an oath, my promise I'll secure.
+Indeed, thy plea doth grant me a defence,
+If e’er thy foes should ask of my 'offence';
+[745]	So name the gods by which I ought to swear.
+
+MEDEA
+	Then make an oath to Earth, our mother bare,
+And Helios, the father of my father.
+
+AEGEUS
+	To do what? Or, refrain from doing, rather?
+
+MEDEA
+	Never perforce to drive me from thy land,
+[750]	Never to grant what my foes shall demand,
+Nor give me up unto a hostile hand.
+
+AEGEUS
+	I swear it, by the Earth and Helios grand,
+I’faith, by all the gods, I make this stand.
+
+MEDEA
+	What if your word is fleeting, built on sand?
+
+AEGEUS
+[755]	Then may I see all mortal woes firsthand.
+
+MEDEA
+	Then leave rejoicing, things shall go as planned.
+That I shall soon come, you may understand;
+But first, I’ll deal with this disgraceful band.
+
+Exit AEGEUS by Eisodos A.
+
+CHORUS LEADER
+	May Maia's son, the patron of the way,
+[760]	Guide thee, Aegeus, and not make thee stray,
+As thou returnest to thy native soil.
+We pray that thy joy never once shall spoil,
+For we have deemed thee a most worthy mortal. 
+
+MEDEA
+	O Zeus and Justice, his offspring immortal,
+[765]	And my grandfather, light of Helios,
+Now, my dear friends, we shall avoid all loss,
+For we shall now emerge victorious,
+As my foes meet a fate notorious.
+Since this man caught me at my lowest point,
+[770]	Offered me refuge, did not disappoint,
+I’ve means to flee to the city of Pallas.
+But first, I shall speak words of vicious malice
+As I describe to you what I now crave.
+In some small time, I plan to send my slave
+[775]	To Jason, asking that he visit me.
+	I'll speak words gentle to that wicked flea:
+Of how I do support his choice to marry,
+Of how it is a burden I can carry,
+How his decisions are just and correct.
+[780]	And then, I’ll plead the kids are spared neglect;
+Not that I wish to leave them to my foes
+But so that I can use them to dispose
+Of his new bride. For they shall bring with them
+A fine robe and a golden diadem,
+[785]	As if to beg their exile be called off.
+	Should she be pleased, and happen not to scoff
+At these gifts, but instead she puts them on,
+She’ll die a gruesome death, forever gone,
+And so shall all who touch the poisoned dress.
+[790]	Still, over her, I’d better not obsess.
+Yet I cannot imagine what shall follow:
+My children lost, their bodies left so hollow;
+For I shall have to slay my perfect sons.
+No one can save them, my poor blameless ones.
+[795]	Thus, having broken Jason's home and heart,
+In slaying mine own children, I'll depart,
+To flee the weight of this most heavy sin.
+	I shall not face my foes' contemptuous grin.
+Let this be, friends, when nothing dear is left:
+[800]	I'm homeless, fatherless, and quite bereft.
+To leave my father was a dire mistake,
+And for a Greek, who now shall suffer ache:
+For he shall never see his children more,
+Nor get new sons by her he doth adore.
+[805]	Because that wretch shall meet my spell arcane
+And, wretched, die, as fate thought wise t’ ordain.
+But let nobody think me weak or passive.
+Nay, rather, both my hate and love are massive;
+The one I show foes, t’other to allies:
+[810]	This life alone is the way of the wise.
+
+CHORUS LEADER
+	Now that thou hast shared with us thy insight,
+Desiring both to help and do what's right
+We beg that thou dost not unleash this blight.
+
+MEDEA
+	I have no choice but this fire to ignite,
+[815]	I pardon you, since you don’t know my plight.
+
+CHORUS LEADER
+	But canst thou bear thine own children to smite?
+
+MEDEA
+	The surest way to ruin my husband’s life.
+
+CHORUS LEADER
+	And thou shalt be the world’s most wretched wife.
+
+MEDEA
+	So be it: nothing more until it's done.
+
+MEDEA addresses the NURSE.
+
+[820]	Go thou, and summon Jason; straightway run,
+Since I do trust thee, without hesitation.
+And of my plans, give thou no indication,
+If, as a woman, thou dost wish me well.
+
+Exit NURSE by Eisodos B, MEDEA into the house.
+
+STASIMON III
+
+CHORUS
+			[Strophe A]
+	Let’s sing about Aegeus' citadel:
+[825]	The sons of Erechtheus, Athens' first king,
+	Since old times have been blest in everything;
+They truly are descendants of the gods.
+True joy thrives in their never-conquered quads;
+Athenian folk feast on sagacity,
+[830]	Their thirst for wisdom – a veracity;
+These people tread the very joyful earth
+Where nine Pierian Muses once gave birth
+To fair Harmonia with the golden hair.
+			[Antistrophe A]
+The goddess, Cypris, also was born there,
+[835]	For in the spring of Cephissus’s foam,
+She first appeared and called Attica home,
+And exhaled there a gentle, charming breeze.
+From sweetest-smelling roses and from trees
+In Athens, she made garlands for her hair
+[840]	Thus, to aid Wisdom, she sent Eros there;
+Because the people in Attica knew
+More than the rest, what is and is not true.
+Thus truly had they Knowledge beyond measure,
+And to it added Love, the greatest treasure,
+[845]	So that true joy could prosper in their city.
+			[Strophe B]
+	And yet, the future heralds woe and pity:
+How shall this city of these sacred streams,
+This harbor sweet of lovers' hopes and dreams,
+Receive for refuge one who doth send shivers
+[850]	Down their spines, and corrupts their holy rivers:
+A mother guilty of gross filicide?
+Discuss this grave sin with us, those outside.
+Consider now the murder thou’dst commit.
+We beg thee now this horrid deed to quit.
+[855]	We beg by thy knees, by every prayer.
+			[Antistrophe B]
+	How can thy hands, thy mind, and thy heart bear
+Thy pure and blameless children thus to slaughter?
+How can thine eyes not once turn blind with water
+When thou considerest thy children's death,
+[860]	Their mother joying at their final breath?
+‘Tis certain, thou shalt surely not be able,
+Thou wouldst not dare to entertain this fable,
+With their young blood to stain thy hands and knife,
+Seeing thy children kneel and beg for life.
+[865]	No mother can her sons willingly hurt.
+
+EPISODE IV
+
+
 
 [^1]: My purpose with this project was to translate the play in heroic couplets, i.e., rhyming pairs of iambic pentameters, in imitation of Pope’s Homer and Dryden’s Virgil. The translation uses the Greek text of *James Diggle*'s Oxford Classical Texts (OCT) edition and matches the number of lines found there. I have also made extensive use of *Michele Kwintner*'s Bryn Mawr commentary (mostly for grammar) and *Donald J. Mastronarde*'s Cambridge Greek and Latin Classics one (for grammar and interpretation). I’m beyond grateful to *Aleksa Sotirov* for all his invaluable editorial work, to *Prof. Alexandra Schultz* for all her patience helping me translate the play, and to *Prof. Hakan Tell*, whose Greek drama class largely inspired me to tackle this project. To the extent of my knowledge, this is the first translation where all stasimons have been translated in heroic couplets while also matching the exact number of lines they contain as per the OCT.
 [^2]: Medea was played by the first actor (πρωταγωνιστής), the Nurse and Jason were played by the second actor (δευτεραγωνιστής), and the other four characters were played by the third actor (τριταγωνιστής). The characters are given in that order (followed by the chorus) and not in order of appearance. There were also actors playing Medea’s children, perhaps named Mermerus and Pheres, who only speak off-stage.
@@ -659,3 +1291,4 @@ CHORUS
 [^13]: During a strophe, the CHORUS moves from one end of the stage to the other; during an antistrophe, they move from that end to the original one or the center of the stage.
 [^14]: Lines 214-409 inclusive, episodes consist of dialogue spoken by the actors between choral songs. *Medea* contains five episodes.
 [^15]: A song sung by the chorus after each episode and after its initial appearance on stage. This stasimon spans lines 410-45 inclusive.
+[^16]: The NURSE and JASON were played by the same actor in Ancient Athens. Indeed, the Loeb editors have likely not considered or chosen to ignore this when adding their stage directions. Since the idea of having two actors for these roles becomes useful later in the play (see Episode IV), I have retained their direction here.
