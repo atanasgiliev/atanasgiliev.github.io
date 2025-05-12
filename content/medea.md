@@ -928,7 +928,7 @@ AEGEUS
 &nbsp;&nbsp;&nbsp;&nbsp; There is no better way to greet a friend.  
 
 MEDEA  
-<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; You too, Aegeus[^17], wise Pandion's heir.</span> <span style="float:right;">[665]</span><br>
+<i></i><span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; You too, Aegeus[^17], wise Pandion's heir.</span><span style="float:right;">[665]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; What brings the king of Athens to this lair?  
 
 AEGEUS  
