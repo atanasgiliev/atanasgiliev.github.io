@@ -11,7 +11,7 @@ type: "medea"
 
 <i><center>A rhyming verse translation[^1]<br>by Atanas G. Iliev</center></i>  
 
-<p style="text-align:center;">καὶ τὰ δοκηθέντ᾽ οὐκ ἐτελέσθη,<br>τῶν δ᾽ ἀδοκήτων πόρον ηὗρε θεός.<br>— <i>Med</i>. 1417-18</p>
+<p style="text-align:center;">καὶ τὰ δοκηθέντ᾽ οὐκ ἐτελέσθη,<br>τῶν δ᾽ ἀδοκήτων πόρον ηὗρε θεός.<br>— <i>Med</i>. 1417–18</p>
 
 <br>
 
@@ -64,8 +64,8 @@ NURSE
 &nbsp;&nbsp;&nbsp;&nbsp; Jason a royal marriage-bed enjoys,  
 &nbsp;&nbsp;&nbsp;&nbsp; Wed to the child of Creon, this land's chief.  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And Medea dishonoured, full of grief</span><span style="float:right;">[20]</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp; Cries ‘gainst his oaths, his right-hand-pledge recalls–  
-&nbsp;&nbsp;&nbsp;&nbsp; Which was their strongest bond– and th’ gods involves  
+&nbsp;&nbsp;&nbsp;&nbsp; Cries ‘gainst his oaths, his right-hand-pledge recalls—  
+&nbsp;&nbsp;&nbsp;&nbsp; Which was their strongest bond—and th’ gods involves  
 &nbsp;&nbsp;&nbsp;&nbsp; To see what griefs from Jason she obtains.  
 &nbsp;&nbsp;&nbsp;&nbsp; She rests fasting, her body full of pains;  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thus, all her time in tears she melts away…</span><span style="float:right;">[25]</span><br>
@@ -93,7 +93,7 @@ NURSE
 <i><div style="text-align: right">Enter </i>PEDAGOGUE<i> by </i>Eisodos A,<i> accompanied by the two </i>CHILDREN.</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp; And lo! pausing their leisure, her offspring  
-&nbsp;&nbsp;&nbsp;&nbsp; Approach, not knowing of their mother's tears–  
+&nbsp;&nbsp;&nbsp;&nbsp; Approach, not knowing of their mother's tears—  
 &nbsp;&nbsp;&nbsp;&nbsp; The young draw back from sadness and from fears.  
 
 PEDAGOGUE[^6]  
@@ -117,7 +117,7 @@ NURSE
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I envy thee: her pains shall still increase.</span><span style="float:right;">[60]</span><br>
 
 PEDAGOGUE  
-&nbsp;&nbsp;&nbsp;&nbsp; A moron – if ‘tis meet thus to call masters:  
+&nbsp;&nbsp;&nbsp;&nbsp; A moron—if ‘tis meet thus to call masters:  
 &nbsp;&nbsp;&nbsp;&nbsp; Belike she knows not of recent disasters.  
 
 NURSE  
@@ -306,7 +306,7 @@ NURSE
 &nbsp;&nbsp;&nbsp;&nbsp; Who long ago, devoid of all insight  
 &nbsp;&nbsp;&nbsp;&nbsp; Were introducing songs cheerful and bright  
 &nbsp;&nbsp;&nbsp;&nbsp; At both feasts solemn and at dinners jolly;  
-&nbsp;&nbsp;&nbsp;&nbsp; Music, the sound of life's delightful folly–  
+&nbsp;&nbsp;&nbsp;&nbsp; Music, the sound of life's delightful folly—  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; But they could not with music nor with lyre</span><span style="float:right;">[195]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Succeed in easing men's conditions dire:  
 &nbsp;&nbsp;&nbsp;&nbsp; The very grief that kindles death and smashes  
@@ -349,7 +349,7 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; With city customs, guests must go along:  
 &nbsp;&nbsp;&nbsp;&nbsp; But I respect no native who is rude,  
 &nbsp;&nbsp;&nbsp;&nbsp; Whose stubbornness in town incites a feud.  
-<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Yet such a deed hath caught me by surprise–</span><span style="float:right;">[225]</span><br>
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Yet such a deed hath caught me by surprise—</span><span style="float:right;">[225]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Corrupted my soul: and so this life dies.  
 &nbsp;&nbsp;&nbsp;&nbsp; I’ve lost all grace and friends; I crave the end,  
 &nbsp;&nbsp;&nbsp;&nbsp; For he in whom I’d known good now doth bend;  
@@ -359,7 +359,7 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; First, it is for a groom that women need  
 &nbsp;&nbsp;&nbsp;&nbsp; To pay a price; and he then rules their body:  
 &nbsp;&nbsp;&nbsp;&nbsp; Yet more grief to the woe that we embody.    
-<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And then the point – will he be good or bad?</span><span style="float:right;">[235]</span><br>
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And then the point—will he be good or bad?</span><span style="float:right;">[235]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; In a divorce, the wife is never glad  
 &nbsp;&nbsp;&nbsp;&nbsp; Nor can she ever overrule her spouse.  
 &nbsp;&nbsp;&nbsp;&nbsp; Then, when she learns the customs of his house  
@@ -388,7 +388,7 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; To punish Jason for his treacherous sting,  
 &nbsp;&nbsp;&nbsp;&nbsp; Withal his bride and her father, the king,  
 &nbsp;&nbsp;&nbsp;&nbsp; You hold your peace. For while we women fear  
-&nbsp;&nbsp;&nbsp;&nbsp; A lot of things – beholding brawl or spear:  
+&nbsp;&nbsp;&nbsp;&nbsp; A lot of things—beholding brawl or spear:  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; When we’re betrayèd on our wedding bed</span><span style="float:right;">[265]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; There's nothing worse than us that ye could dread.  
 
@@ -409,7 +409,7 @@ CREON
 &nbsp;&nbsp;&nbsp;&nbsp; Till thou art out of my land’s grand expansion.  
 
 MEDEA  
-&nbsp;&nbsp;&nbsp;&nbsp; O, wretched me – I’m utterly destroyed!  
+&nbsp;&nbsp;&nbsp;&nbsp; O, wretched me—I’m utterly destroyed!  
 &nbsp;&nbsp;&nbsp;&nbsp; I see no way this woe to now avoid,  
 &nbsp;&nbsp;&nbsp;&nbsp; For all my foes have done their level worst.  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Yet I shall ask while I remain so cursed:</span><span style="float:right;">[280]</span><br>
@@ -478,7 +478,7 @@ CREON
 &nbsp;&nbsp;&nbsp;&nbsp; I love thee no more than the house I own.  
 
 MEDEA  
-&nbsp;&nbsp;&nbsp;&nbsp; O, fatherland– best place I've ever known.  
+&nbsp;&nbsp;&nbsp;&nbsp; O, fatherland—best place I've ever known.  
 
 CREON  
 &nbsp;&nbsp;&nbsp;&nbsp; Only my daughter I love more sincerely.  
@@ -553,10 +553,10 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; Think you I'd flatter his rude attitude  
 &nbsp;&nbsp;&nbsp;&nbsp; Expecting no gain, seeking no design?  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I’d not have spoken; no, nor touched this swine.</span><span style="float:right;">[370]</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp; He has, however, been too idiotic–  
+&nbsp;&nbsp;&nbsp;&nbsp; He has, however, been too idiotic—  
 &nbsp;&nbsp;&nbsp;&nbsp; Why not expel me with his pow'r despotic  
 &nbsp;&nbsp;&nbsp;&nbsp; And stop my plans? Instead, he granted me  
-&nbsp;&nbsp;&nbsp;&nbsp; To stay a day– I’ll kill my victims three:  
+&nbsp;&nbsp;&nbsp;&nbsp; To stay a day—I’ll kill my victims three:  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; The father, bride, and then my wedded mate.</span><span style="float:right;">[375]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Their deaths are sure, but there's more than one gate;  
 &nbsp;&nbsp;&nbsp;&nbsp; I know not, dear friends, which one to take first:  
@@ -582,7 +582,7 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; Whom I did choose as my associate  
 &nbsp;&nbsp;&nbsp;&nbsp; To help my heart berate those that I hate,  
 &nbsp;&nbsp;&nbsp;&nbsp; I swear to make their new alliance sour,  
-<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Their wedding– bitter, and so their last hour.</span><span style="float:right;">[400]</span><br>
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Their wedding—bitter, and so their last hour.</span><span style="float:right;">[400]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Come, strategize, Medea, strike, and scheme,  
 &nbsp;&nbsp;&nbsp;&nbsp; Try every spell, as vain as it may seem.  
 &nbsp;&nbsp;&nbsp;&nbsp; Into the fray! The time has come to dare.  
@@ -658,7 +658,7 @@ JASON
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I wish that thou couldst stay; I've tried to appease</span><span style="float:right;">[455]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; The angry lords whom thou hast failed to please.  
 &nbsp;&nbsp;&nbsp;&nbsp; But thou refusest to cease speaking ill  
-&nbsp;&nbsp;&nbsp;&nbsp; Of kings– thus must thou thy exile fulfill.  
+&nbsp;&nbsp;&nbsp;&nbsp; Of kings—thus must thou thy exile fulfill.  
 &nbsp;&nbsp;&nbsp;&nbsp; E’en so, my kin I shall not disregard,  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And, woman, thou shalt not suffer too hard</span><span style="float:right;">[460]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; As I shall grant some coin my sons and thee,  
@@ -689,7 +689,7 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; To Iolcus I followed thee, my spouse.  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And although lacking wisdom, not resolve,</span><span style="float:right;">[485]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; I managed from thy fears thee to absolve  
-&nbsp;&nbsp;&nbsp;&nbsp; By killing Pelias in the basest way–  
+&nbsp;&nbsp;&nbsp;&nbsp; By killing Pelias in the basest way—  
 &nbsp;&nbsp;&nbsp;&nbsp; I made his daughters take his life away.  
 &nbsp;&nbsp;&nbsp;&nbsp; Still, after all that I have done for thee,  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thou hast, foul beast, betrayed thine oath to me.</span><span style="float:right;">[490]</span><br>
@@ -697,7 +697,7 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; Should not thy wedding promise still suffice?  
 &nbsp;&nbsp;&nbsp;&nbsp; I do not know whether the ancient lords  
 &nbsp;&nbsp;&nbsp;&nbsp; Are still thy gods or if thou’st turned towards  
-<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; New ones– howbeit, thou art a disgrace.</span><span style="float:right;">[495]</span><br>
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; New ones—howbeit, thou art a disgrace.</span><span style="float:right;">[495]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Now, by the hand thou held’st in love's embrace,  
 &nbsp;&nbsp;&nbsp;&nbsp; And by my knees, at which thou beggedst so oft,  
 &nbsp;&nbsp;&nbsp;&nbsp; To be thus touched hath now proved not so soft.  
@@ -743,7 +743,7 @@ JASON
 &nbsp;&nbsp;&nbsp;&nbsp; Thou’st gained more than thy rightfully owed fee.  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; First and foremost, thou hast settled in Greece</span><span style="float:right;">[535]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Instead of some barbaric, savage lease;  
-&nbsp;&nbsp;&nbsp;&nbsp; Thou livest i’th’ comfort of justice and laws–  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou livest i’th’ comfort of justice and laws—  
 &nbsp;&nbsp;&nbsp;&nbsp; Not spending time in fear of wild beasts’ jaws.  
 &nbsp;&nbsp;&nbsp;&nbsp; And all the Greeks know thy mind's elevation:  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thou hast enjoyed a fairer reputation</span><span style="float:right;">[540]</span><br>
@@ -755,7 +755,7 @@ JASON
 &nbsp;&nbsp;&nbsp;&nbsp; Remember, thou didst start this word-wrought test.  
 &nbsp;&nbsp;&nbsp;&nbsp; Next, to the charge thou makest ‘gainst my betrothal:  
 &nbsp;&nbsp;&nbsp;&nbsp; I shall show thee I'm not running a brothel  
-&nbsp;&nbsp;&nbsp;&nbsp; And that I'm friendly to thee and our kin–  
+&nbsp;&nbsp;&nbsp;&nbsp; And that I'm friendly to thee and our kin—  
 
 <div style="text-align: right">MEDEA <i>makes a gesture of impatience.</i></div>  
 
@@ -814,7 +814,7 @@ MEDEA
 JASON  
 &nbsp;&nbsp;&nbsp;&nbsp; Know this: I did not conquer a new bed  
 &nbsp;&nbsp;&nbsp;&nbsp; For love’s sake; rather, I chose to be wed  
-<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For our sons, and for thy sake as well–</span><span style="float:right;">[595]</span><br>
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For our sons, and for thy sake as well—</span><span style="float:right;">[595]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; I made the hardest choice that I could tell,  
 &nbsp;&nbsp;&nbsp;&nbsp; So that our family might still stand firm.  
 
@@ -1093,7 +1093,7 @@ AEGEUS
 &nbsp;&nbsp;&nbsp;&nbsp; Dost thou not trust me? What is thy concern?  
 
 MEDEA  
-&nbsp;&nbsp;&nbsp;&nbsp; I trust in you – yet many wish I'd burn:  
+&nbsp;&nbsp;&nbsp;&nbsp; I trust in you—yet many wish I'd burn:  
 <span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; The house of Pelias and of Creon, too.</span><span style="float:right;">[735]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; An oath will vouchsafe there won’t be more rue.  
 &nbsp;&nbsp;&nbsp;&nbsp; But if I trust in nothing but your word,  
@@ -1235,7 +1235,7 @@ CHORUS
 &nbsp;&nbsp;&nbsp;&nbsp; They truly are descendants of the gods.  
 &nbsp;&nbsp;&nbsp;&nbsp; True joy thrives in their never-conquered quads;  
 &nbsp;&nbsp;&nbsp;&nbsp; Athenian folk feast on sagacity,  
-<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Their thirst for wisdom– a veracity;</span><span style="float:right;">[830]</span><br>
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Their thirst for wisdom—a veracity;</span><span style="float:right;">[830]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; These people tread the very joyful earth  
 &nbsp;&nbsp;&nbsp;&nbsp; Where nine Pierian Muses once gave birth  
 &nbsp;&nbsp;&nbsp;&nbsp; To fair Harmonia with the golden hair.  
@@ -1279,7 +1279,7 @@ CHORUS
 
 <i></i><p><center><b>EPISODE IV</b></center></p>
 
-<i><div style="text-align: right">Enter </i>MEDEA<i> from the house, </i>JASON<i> accompanied by the </i>NURSE<i> by </i>Eisodos B.</div>
+<i><div style="text-align: right">Enter </i>MEDEA<i> from the house, </i>JASON<i> accompanied by </i>NURSE[^19]<i> by </i>Eisodos B.</div>  
 
 JASON  
 &nbsp;&nbsp;&nbsp;&nbsp; Thus, being called, to this place I revert.  
@@ -1288,188 +1288,192 @@ JASON
 
 MEDEA  
 &nbsp;&nbsp;&nbsp;&nbsp; Jason, I pray that what I said before  
-&nbsp;&nbsp;&nbsp;&nbsp; May be excused; that thou dost not abhor  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; May be excused; that thou dost not abhor</span><span style="float:right;">[870]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; Me, when each of us t’other doth adore.  
 &nbsp;&nbsp;&nbsp;&nbsp; My prior words I’ve come now to deplore;  
 &nbsp;&nbsp;&nbsp;&nbsp; I think to myself, I am such a fool.  
-Why hate the king? Why think Jason is cruel
-[875]	When he hath merely tried to do what’s best:
-Marrying the princess so that we can rest,
-And making sure our sons might have a brother?
-Faith, all he wants is to support their mother.
-And are the gods not generous to my house?
-[880]	Have I no children? Why such hate espouse?
-	Do I not understand I need a friend
-Unless I want to meet a bitter end?
-And thus, I figured I should cease my ire.
-And now thy face doth joy in me inspire,
-[885]	For I am grateful for thy new alliance;
-I've been so stupid in my rude defiance.
-My duty was to aid in thy wise plan,
-To please thy bride, appreciate my man.
-Yet women are... well, we’re the way we are,
-[890]	But still, thou need’st not act just as bizarre
-As us, and answer our gall with gall.
-I do admit, my folly's not been small,
-But now, I've come to see things much more clearly.
-Come, children, greet your father most sincerely.  
+&nbsp;&nbsp;&nbsp;&nbsp; Why hate the king? Why think Jason is cruel  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; When he hath merely tried to do what’s best:</span><span style="float:right;">[875]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Marrying the princess so that we can rest,  
+&nbsp;&nbsp;&nbsp;&nbsp; And making sure our sons might have a brother?  
+&nbsp;&nbsp;&nbsp;&nbsp; Faith, all he wants is to support their mother.  
+&nbsp;&nbsp;&nbsp;&nbsp; And are the gods not generous to my house?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Have I no children? Why such hate espouse?</span><span style="float:right;">[880]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Do I not understand I need a friend  
+&nbsp;&nbsp;&nbsp;&nbsp; Unless I want to meet a bitter end?  
+&nbsp;&nbsp;&nbsp;&nbsp; And thus, I figured I should cease my ire.  
+&nbsp;&nbsp;&nbsp;&nbsp; And now thy face doth joy in me inspire,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For I am grateful for thy new alliance;</span><span style="float:right;">[885]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; I've been so stupid in my rude defiance.  
+&nbsp;&nbsp;&nbsp;&nbsp; My duty was to aid in thy wise plan,  
+&nbsp;&nbsp;&nbsp;&nbsp; To please thy bride, appreciate my man.  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet women are... well, we’re the way we are,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; But still, thou need’st not act just as bizarre</span><span style="float:right;">[890]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; As us, and answer our gall with gall.  
+&nbsp;&nbsp;&nbsp;&nbsp; I do admit, my folly's not been small,  
+&nbsp;&nbsp;&nbsp;&nbsp; But now, I've come to see things much more clearly.  
+&nbsp;&nbsp;&nbsp;&nbsp; Come, children, greet your father most sincerely.  
 
-Enter PEDAGOGUE with the CHILDREN from the house.
+<i><div style="text-align: right">Enter </i>PEDAGOGUE<i> with the </i>CHILDREN<i> from the house.</div></i>  
 
-[895]	Together with me, let us make him proud,
-And sing him hymns of praises, clear and loud.
-That we may reconcile us once again.
-For wisdom won, my hatred hath been slain.
-Come now, and take his hands. Still, it's so daunting
-[900]	To picture what shall soon our lives be haunting.
-O, children dear, shall ye extend your hands
-Thus full of joy, no matter what foul plans
-Fate hath prepared for you, my boys, to feel.
-The wounds of our old bonds I’ve tried to heal,
-[905]	At last, and yet my face is still downcast.
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Together with me, let us make him proud,</span><span style="float:right;">[895]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And sing him hymns of praises, clear and loud.  
+&nbsp;&nbsp;&nbsp;&nbsp; That we may reconcile us once again.  
+&nbsp;&nbsp;&nbsp;&nbsp; For wisdom won, my hatred hath been slain.  
+&nbsp;&nbsp;&nbsp;&nbsp; Come now, and take his hands. Still, it's so daunting  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; To picture what shall soon our lives be haunting.</span><span style="float:right;">[900]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; O, children dear, shall ye extend your hands  
+&nbsp;&nbsp;&nbsp;&nbsp; Thus full of joy, no matter what foul plans  
+&nbsp;&nbsp;&nbsp;&nbsp; Fate hath prepared for you, my boys, to feel.  
+&nbsp;&nbsp;&nbsp;&nbsp; The wounds of our old bonds I’ve tried to heal,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; At last, and yet my face is still downcast.</span><span style="float:right;">[905]</span><br>
 
-CHORUS LEADER
-	The grief in our eyes now is unsurpassed.
-May this misfortune depart at long last!
+CHORUS LEADER  
+&nbsp;&nbsp;&nbsp;&nbsp; The grief in our eyes now is unsurpassed.  
+&nbsp;&nbsp;&nbsp;&nbsp; May this misfortune depart at long last!  
 
-JASON
-	Nay, do not fret from words said in the past.
-Woman, I welcome what thou hast just said,
-[910]	And I don't blame thy wrath: thou wert misled.
-‘Tis normal, sure, for women to blame men
-In matters of love, every now and then:
-At last, however, thou art acting clever.
-And as for you, my boys, I did endeavor
-[915]	To, by the gods, provide you with the best:
-Indeed, I now dare truly to attest
-That you shall rule all Corinth with your brothers.
-Thus, grow that you may triumph over others;
-Your father and the gods shall do the rest.
-[920]	If it be so, at last, my royal crest
-May fly over the lands of all my foes.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Nay, do not fret from words said in the past.  
+&nbsp;&nbsp;&nbsp;&nbsp; Woman, I welcome what thou hast just said,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And I don't blame thy wrath: thou wert misled.</span><span style="float:right;">[910]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; ‘Tis normal, sure, for women to blame men  
+&nbsp;&nbsp;&nbsp;&nbsp; In matters of love, every now and then:  
+&nbsp;&nbsp;&nbsp;&nbsp; At last, however, thou art acting clever.  
+&nbsp;&nbsp;&nbsp;&nbsp; And as for you, my boys, I did endeavor  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; To, by the gods, provide you with the best:</span><span style="float:right;">[915]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Indeed, I now dare truly to attest  
+&nbsp;&nbsp;&nbsp;&nbsp; That you shall rule all Corinth with your brothers.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thus, grow that you may triumph over others;  
+&nbsp;&nbsp;&nbsp;&nbsp; Your father and the gods shall do the rest.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; If it be so, at last, my royal crest</span><span style="float:right;">[920]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; May fly over the lands of all my foes.  
 
-MEDEA turns away and weeps.
+<div style="text-align: right">MEDEA<i> turns away and weeps.</i></div>  
 
-Dear, what are these tears and this runny nose,
-Why didst thou turn thy fairest face away,
-Why dost thou not rejoice at what I say?
+&nbsp;&nbsp;&nbsp;&nbsp; Dear, what are these tears and this runny nose?  
+&nbsp;&nbsp;&nbsp;&nbsp; Why didst thou turn thy fairest face away,  
+&nbsp;&nbsp;&nbsp;&nbsp; Why dost thou not rejoice at what I say?  
 
-MEDEA
-[925]	‘Tis nothing; I was thinking of my sons.
+MEDEA  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; ‘Tis nothing; I was thinking of my sons.</span><span style="float:right;">[925]</span><br>
 
-JASON
-	Cheer up – I'll take care of the little ones.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Cheer up—I'll take care of the little ones.  
 
-MEDEA
-	I shall do so, and I shall trust thy word;
-Women are soft, their cries are too oft heard.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; I shall do so, and I shall trust thy word;  
+&nbsp;&nbsp;&nbsp;&nbsp; Women are soft, their cries are too oft heard.  
 
-JASON
-	But why do our sons in thee spring such sadness?
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; But why do our sons in thee spring such sadness?  
 
-MEDEA
-[930]	As I’m their mother, I was struck with madness
-When thou didst mention how our boys shall grow.
-Yet still, the reason I did bid thee go 
-To me hath been but partially revealed.
-I hope it's clear that I indeed shall yield
-[935]	To the king's order that I leave his land,
-For I know that if I should stay at hand
-I shall be cross with thee or the monarch.
-Thus, I shall on a journey soon embark,
-But I beseech thee to get Creon, our lord,
-[940]	To grant the boys to remain in thy ward.
+MEDEA  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; As I’m their mother, I was struck with madness</span><span style="float:right;">[930]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; When thou didst mention how our boys shall grow.  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet still, the reason I did bid thee go  
+&nbsp;&nbsp;&nbsp;&nbsp; To me hath been but partially revealed.  
+&nbsp;&nbsp;&nbsp;&nbsp; I hope it's clear that I indeed shall yield  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; To the king's order that I leave his land,</span><span style="float:right;">[935]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; For I know that if I should stay at hand  
+&nbsp;&nbsp;&nbsp;&nbsp; I shall be cross with thee or the monarch.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thus, I shall on a journey soon embark,  
+&nbsp;&nbsp;&nbsp;&nbsp; But I beseech thee to get Creon, our lord,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; To grant the boys to remain in thy ward.</span><span style="float:right;">[940]</span><br>
 
-JASON
-I know not if ‘twill work, but I shall try.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; I know not if ‘twill work, but I shall try.  
 
-MEDEA	
-On thy new wife thou surely canst rely
-To ensure that her dear father shall comply.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; On thy new wife thou surely canst rely  
+&nbsp;&nbsp;&nbsp;&nbsp; To ensure that her dear father shall comply.  
 
-JASON
-Good sooth! This favor she cannot deny.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Good sooth! This favor she cannot deny.  
 	
-MEDEA
-[945]	I, too, shall vie to help thee with this task:
-To bear her gifts, the children I shall ask,
-The most beautiful presents that I know–
-A fine robe and a wreath of golden glow.
-One of the slaves must bring them here right now.
-[950]	Go, bring the gifts I promised in my vow.
+MEDEA  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I, too, shall vie to help thee with this task:</span><span style="float:right;">[945]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; To bear her gifts, the children I shall ask,  
+&nbsp;&nbsp;&nbsp;&nbsp; The most beautiful presents that I know—  
+&nbsp;&nbsp;&nbsp;&nbsp; A fine robe and a wreath of golden glow.  
+&nbsp;&nbsp;&nbsp;&nbsp; One of the slaves must bring them here right now.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Go, bring the gifts I promised in my vow.</span><span style="float:right;">[950]</span><br>
 
-Exit NURSE into the house.
+<i><div style="text-align: right">Exit </i>NURSE<i> into the house.</div></i>  
 
-	Thy bride shall be lucky in many ways,
-Her fortune bright shall last thousands of days,
-Since she gets you, a husband oh-so-noble,
-Withal these garments, which Helios global
-[955]	Once gave as gift to his mortal descendant.
+&nbsp;&nbsp;&nbsp;&nbsp; Thy bride shall be lucky in many ways,  
+&nbsp;&nbsp;&nbsp;&nbsp; Her fortune bright shall last thousands of days,  
+&nbsp;&nbsp;&nbsp;&nbsp; Since she gets you, a husband oh-so-noble,  
+&nbsp;&nbsp;&nbsp;&nbsp; Withal these garments, which Helios global  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Once gave as gift to his mortal descendant.</span><span style="float:right;">[955]</span><br>
 
-Enter NURSE from the house with the gifts.
+<i><div style="text-align: right">Enter </i>NURSE<i> from the house with the gifts.</div></i>  
 
-	Come children, take these clothes from my attendant
-Into your hands and bring them to the bride,
-Offer the princess these gifts sanctified.
+&nbsp;&nbsp;&nbsp;&nbsp; Come, children, take these clothes from my attendant  
+&nbsp;&nbsp;&nbsp;&nbsp; Into your hands and bring them to the bride,  
+&nbsp;&nbsp;&nbsp;&nbsp; Offer the princess these gifts sanctified.  
 
-JASON
-	Thou silly fool, why cast thy things aside?
-[960]	Dost thou think more gold needs to be supplied
-To th’ royal house? Nay, keep thy holy relic.
-I should suffice o’er these presents angelic,
-For I know well I’m better than these gifts.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou silly fool, why cast thy things aside?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Dost thou think more gold needs to be supplied</span><span style="float:right;">[960]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; To th’ royal house? Nay, keep thy holy relic.  
+&nbsp;&nbsp;&nbsp;&nbsp; I should suffice o’er these presents angelic,  
+&nbsp;&nbsp;&nbsp;&nbsp; For I know well I’m better than these gifts.  
 
-MEDEA
-	Peace, prithee! Gifts can bridge the widest rifts
-[965]	And mortals deem gold better than all reason.
-Thy bride's good luck is truly in its season –
-She hath fate, youth, and power on her side.
-I'd give my life to save our children’s hide.
-So, children, once you enter in the castle,
-[970]	Then ye must beg that you are spared the hassle
-Of exile and thus offer the young dame
-These great heavenly presents in my name.
-You must make sure that she receives the clothes
-In her own hands and that she keeps them close
-[975]	To her. Go at once. I wish you good luck.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Peace, prithee! Gifts can bridge the widest rifts  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And mortals deem gold better than all reason.</span><span style="float:right;">[965]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Thy bride's good luck is truly in its season—  
+&nbsp;&nbsp;&nbsp;&nbsp; She hath fate, youth, and power on her side.  
+&nbsp;&nbsp;&nbsp;&nbsp; I'd give my life to save our children’s hide.  
+&nbsp;&nbsp;&nbsp;&nbsp; So, children, once you enter in the castle,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Then ye must beg that you are spared the hassle</span><span style="float:right;">[970]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Of exile and thus offer the young dame  
+&nbsp;&nbsp;&nbsp;&nbsp; These great heavenly presents in my name.  
+&nbsp;&nbsp;&nbsp;&nbsp; You must make sure that she receives the clothes  
+&nbsp;&nbsp;&nbsp;&nbsp; In her own hands, and that she keeps them close  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; To her. Go at once. I wish you good luck.</span><span style="float:right;">[975]</span><br>
 
-Exeunt JASON, the PEDAGOGUE with the CHILDREN, and the NURSE by Eisodos B.
+<i><div style="text-align: right">Exeunt </i>JASON, PEDAGOGUE<i> with the </i>CHILDREN,<i> and </i>NURSE<i> by </i>Eisodos B.</div>  
 
-STASIMON IV
+<br>
 
-CHORUS
-			[Strophe A]
-	With endless horror, we find ourselves struck,
-	All hope is gone; the children now shall perish.
-These gifts the new bride certainly shall cherish,
-And once the golden wreath rests on her head,
-[980]	Prompted by vanity, she'll end up dead,
-And then, the kids shall suffer execution.
-			[Antistrophe A]
-	Jason, thou man of gross moral pollution,
-How couldst thou e’er allow this dreadful horror:
-Thy sons to die and so, too, thine adorer?
-[985]	How sorrowful is now thy disposition?
-Thou bearest not the slight bit of suspicion,
-Yet still, thy boys shall meet a wretched end,
-Thy royal wife shall also soon descend,
-And all of that caused by thy boorish soul.
-			[Strophe B]
-[990]	At last, thou find’st thyself in full control, 
-Yet we grieve for thee, O sorrowful mother,
-Such woe and such misfortune doth thee smother
-That thou now plottest to slay thy sweet boys,
-The blameless casualties of thy foul ploys
-[995]	Whose life shall be forever lost, consumed
-	Just so that Jason, thy husband, be doomed.
-			[Antistrophe B]
-Thou dost these evils all because he cheated,
-Thou breathest pain since thou wert thus mistreated,
-Thy wedded man betrayed thy bed in shame;
-[1000]	Now, all shall suffer, and he is to blame.
-Alas, we mourn thy fortune, grief, and pain.
+<i></i><p><center><b>STASIMON IV</b></center></p>
 
-EPISODE V
+CHORUS  
+<span style="display:inline-block; margin-left:10em;">[Strophe A]</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; With endless horror, we find ourselves struck,  
+&nbsp;&nbsp;&nbsp;&nbsp; All hope is gone; the children now shall perish.  
+&nbsp;&nbsp;&nbsp;&nbsp; These gifts the new bride certainly shall cherish,  
+&nbsp;&nbsp;&nbsp;&nbsp; And once the golden wreath rests on her head,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Prompted by vanity, she'll end up dead,</span><span style="float:right;">[980]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And then, the kids shall suffer execution.  
+<span style="display:inline-block; margin-left:10em;">[Antistrophe A]</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; Jason, thou man of gross moral pollution,  
+&nbsp;&nbsp;&nbsp;&nbsp; How couldst thou e’er allow this dreadful horror:  
+&nbsp;&nbsp;&nbsp;&nbsp; Thy sons to die and so, too, thine adorer?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; How sorrowful is now thy disposition?</span><span style="float:right;">[985]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Thou bearest not the slight bit of suspicion,  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet still, thy boys shall meet a wretched end,  
+&nbsp;&nbsp;&nbsp;&nbsp; Thy royal wife shall also soon descend,  
+&nbsp;&nbsp;&nbsp;&nbsp; And all of that caused by thy boorish soul.  
+<span style="display:inline-block; margin-left:10em;">[Strophe B]</span>  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; At last, thou find’st thyself in full control,</span><span style="float:right;">[990]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Yet we grieve for thee, O sorrowful mother,  
+&nbsp;&nbsp;&nbsp;&nbsp; Such woe and such misfortune doth thee smother  
+&nbsp;&nbsp;&nbsp;&nbsp; That thou now plottest to slay thy sweet boys,  
+&nbsp;&nbsp;&nbsp;&nbsp; The blameless casualties of thy foul ploys  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Whose life shall be forever lost, consumed</span><span style="float:right;">[995]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Just so that Jason, thy husband, be doomed.  
+<span style="display:inline-block; margin-left:10em;">[Antistrophe B]</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou dost these evils all because he cheated,  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou breathest pain since thou wert thus mistreated,  
+&nbsp;&nbsp;&nbsp;&nbsp; Thy wedded man betrayed thy bed in shame;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Now, all shall suffer, and he is to blame.</span><span style="float:right;">[1000]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Alas, we mourn thy fortune, grief, and pain.  
+
+<br>
+
+<i></i><p><center><b>EPISODE V</b></center></p>
 
 Enter PEDAGOGUE with the CHILDREN by Eisodos B.
 
@@ -1598,10 +1602,10 @@ Who just as well grants us the wisest cues.
 	Yet not all women are able to learn,
 For these are hints that just few can discern.
 Let us now speak about those mortal folk
-[1090]	Who being childless, never bear this yoke–
+[1090]	Who being childless, never bear this yoke—  
 For they are happier than any parent,
 Since they avoid all strifes that are inherent
-In rearing kids – an ineffable quest:
+In rearing kids an ineffable quest:
 For children can bring pain as well as rest.
 [1095]	And yet, the barren feel neither sensation.
 But e’en a parent who hath known elation
@@ -1717,7 +1721,7 @@ While those fair robes that thy sons had presented
 Consumed her flesh, her visage so tormented.
 Still, though ablaze, she staggered to her feet,
 [1190]	And tossed her hair in madness and defeat,
-Clawing to wrench the chaplet from her head–
+Clawing to wrench the chaplet from her head—
 And yet the gold clung to her as she bled.
 This only made the flames leap up the more,
 Until, at last, she crumpled to the floor.
@@ -1858,13 +1862,13 @@ Enter JASON by Eisodos B.
 JASON
 	You, ladies, who stand next to our palace,
 Is she still here? The one who bore such malice?
-[1295]	I mean Medea – is she still around?
+[1295]	I mean Medea—is she still around?
 She'll have to hide herself beneath the ground,
 Or else to somehow fly into the sky
 If she hopes to shun justice's reply.
 Thinks she, with both our rulers lying dead,
 [1300]	That she can go and not a tear be shed?
-	Let her go – I no longer seek her face,
+	Let her go—I no longer seek her face,
 For justice shall pursue her in due pace.
 But ‘tis my boys that I must quickly save,
 Lest royal kin dig them an early grave,
@@ -1902,19 +1906,19 @@ Jason struggles to open the door to the house. Enter MEDEA upon a winged chariot
 MEDEA
 	Why dost thou shake the bars upon these gates,
 Seeking thy sons and me who sealed their fates?
-Cease now – if thou wouldst ask a thing of me,
+Cease now—if thou wouldst ask a thing of me,
 [1320]	Then speak, or rather grant that I go free.
 Thou shalt not drag me from this sacred coach;
 Helios guards me from thy harsh reproach.
 
 JASON
-	Most loathsome woman, hated and abhorred–
+	Most loathsome woman, hated and abhorred
 By me, by men, and every holy lord,
 [1325]	Thou who hast murdered those thy womb once fed,
 Thy babes lie cold, thy hand has struck them dead.
 Thy crime is done, thy hands are steeped in shame,
 Yet still, thou darest speak Helios' name?
-I wish thee dead– for now at last I see
+I wish thee dead for now at last I see
 [1330]	How mad I was to bring thee home with me.
 Thou art a wretch who made thy father fall,
 And now bringest death and ruin on us all.
@@ -2101,3 +2105,4 @@ FINIS
 [^16]: The NURSE and JASON were played by the same actor in Ancient Athens. Indeed, the Loeb editors have likely not considered or chosen to ignore this when adding their stage directions. Since the idea of having two actors for these roles becomes useful later in the play (see Episode IV), I have retained their direction here.
 [^17]: This translation is written with the notion that his name should be pronounced with the second syllable stressed.
 [^18]: It is not completely clear at what point MEDEA rises. It makes sense to me that it would be sometime during AEGEUS’ first few lines after she finishes speaking.
+[^19]: JASON and the NURSE were played by the same actor. Thus, the present direction is a Loeb invention I choose to follow as it later helps when MEDEA sends the NURSE to bring the gifts from the house. If we stayed true to the Greek norms, it is likely that a ‘mute’ servant brought the presents.
