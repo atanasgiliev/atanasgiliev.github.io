@@ -1475,387 +1475,391 @@ CHORUS
 
 <i></i><p><center><b>EPISODE V</b></center></p>
 
-Enter PEDAGOGUE with the CHILDREN by Eisodos B.
+<i><div style="text-align: right">Enter </i>PEDAGOGUE<i> with the </i>CHILDREN<i> by </i>Eisodos B.</div>  
 
-PEDAGOGUE
-	Lady Medea, your boys may remain.
-They have been spared their exile from these lands
-Once the princess took your gifts in her hands.
+PEDAGOGUE  
+&nbsp;&nbsp;&nbsp;&nbsp; Lady Medea, your boys may remain.  
+&nbsp;&nbsp;&nbsp;&nbsp; They have been spared their exile from these lands  
+&nbsp;&nbsp;&nbsp;&nbsp; Once the princess took your gifts in her hands.  
 
-MEDEA turns away and weeps.
+<div style="text-align: right">MEDEA <i>turns away and weeps.</i></div>  
 
-[1005]	Why look you sadly when you did succeed?
-Oh please, My Lady, bring me up to speed,
-Since my words do not merit this reaction.
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Why look you sadly when you did succeed?</span><span style="float:right;">[1005]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Oh please, My Lady, bring me up to speed,  
+&nbsp;&nbsp;&nbsp;&nbsp; Since my words do not merit this reaction.  
 
-MEDEA cries with terror.
+<i></i><div style="text-align: right">MEDEA <i>cries with terror[^20].</i></div>  
 
-	Could it be I’ve committed some infraction?
+&nbsp;&nbsp;&nbsp;&nbsp; Could it be I’ve committed some infraction?  
 
-MEDEA shouts desperately.
+<div style="text-align: right">MEDEA <i>shouts desperately.</i></div>  
 
-	Could I have brought you bad news unawares?
-[1010]	Believe me, I deemed these lucky affairs.
+&nbsp;&nbsp;&nbsp;&nbsp; Could I have brought you bad news unawares?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Believe me, I deemed these lucky affairs.</span><span style="float:right;">[1010]</span><br>
 
-MEDEA
-	I blame thee not. Thy piece thou didst well utter.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; I blame thee not. Thy piece thou didst well utter.  
 
-PEDAGOGUE
-	Then why so sad? Why do you weep and stutter?
+PEDAGOGUE  
+&nbsp;&nbsp;&nbsp;&nbsp; Then why so sad? Why do you weep and stutter?  
 
-MEDEA
-	That is for me alone to know, old man,
-The gods and I devised this ghastly plan.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; That is for me alone to know, old man,  
+&nbsp;&nbsp;&nbsp;&nbsp; The gods and I devised this ghastly plan.  
 
-PEDAGOGUE
-[1015]	Be brave. In time, you might return back here.
+PEDAGOGUE  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Be brave. In time, you might return back here.</span><span style="float:right;">[1015]</span><br>
 
-MEDEA
-Alas! ‘Tis not for myself that I fear.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Alas! ‘Tis not for myself that I fear.  
 
-PEDAGOGUE
-	So many families have borne division,
-All mortals thus must meekly make provision.
+PEDAGOGUE  
+&nbsp;&nbsp;&nbsp;&nbsp; So many families have borne division,  
+&nbsp;&nbsp;&nbsp;&nbsp; All mortals thus must meekly make provision.  
 
-MEDEA
-	This, I shall do. But, go thou to my keep,
-[1020]	Prepare the children's beds for peaceful sleep.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; This, I shall do. But, go thou to my keep,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Prepare the children's beds for peaceful sleep.</span><span style="float:right;">[1020]</span><br>
 
-Exit PEDAGOGUE into the house.
+<i><div style="text-align: right">Exit </i>PEDAGOGUE<i> into the house.</div></i>  
 
-	My sons, my sweet boys, you still have this town
-Withal your house, yet I have let you down
-For you shall lose your mother now forever:
-I must leave this land, our bond I'll sever.
-[1025]	I’ll never get to revel in your joy,
-Nor your young brides to lovingly annoy;
-And at your weddings, I won’t lift the torch.
-I chose, in madness, our shared life to scorch.
-Have I raised you for nothing? All my pain,
-[1030]	Hardships and trials all have been in vain,
-And meaningless the pains of childbirth.
-Once, I believed that nothing could be worth
-More than my boys. You would have taken care
-Of me when I grew old, for such welfare
-[1035]	Is all that mortals e’er wish to acquire,
-But this illusion now has to retire.
-Never again shall your innocent eyes
-See your dear mother until someone dies. 
-‘Tis true, your sweet, pure lives shall soon advance.
-[1040]	Alas, why look at me so? Why this glance?
-Why are you smiling? Oh, what shall I do?
-My heart betrays me; I can’t follow through,
-O women, now that I've seen their delight.
-I cannot do it, but I’ll set things right:
-[1045]	I’ll take the children out of this dark place.
-Why hurt them to see pain in Jason’s face
-When this should cause me a much worse affliction?
-I won't. Away, then, with my past conviction.
-Yet still... I suffer, no? Should this foul traitor
-[1050]	Go thus unpunished, and then mock me later?
-	It must be done, then. Am I such a coward
-That I’d allow my mind to be so soured
-By tender feeling? Children, go inside.
-This sacrifice cannot take place outside
-[1055]	Lest someone pry. No, I won't stain my hand.
-Alas, my heart accepts no reprimand:
-I beg thee, spare thy children, stubborn heart!
-Alive, they'll bring thee joy when you depart.
-No! No! By Hades’ infernal despair,
-[1060]	I know that I could never, ever bear
-My enemies to harm my sons so dear.
-My sweetest boys shall die, the time draws near;
-And it should be I who first gave them birth
-To take their lives away from this base earth.
-[1065]	‘Tis fate has chose this; there is no escape.
+&nbsp;&nbsp;&nbsp;&nbsp; My sons, my sweet boys, you still have this town  
+&nbsp;&nbsp;&nbsp;&nbsp; Withal your house, yet I have let you down  
+&nbsp;&nbsp;&nbsp;&nbsp; For you shall lose your mother now forever:  
+&nbsp;&nbsp;&nbsp;&nbsp; I must leave this land, our bond I'll sever.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I’ll never get to revel in your joy,</span><span style="float:right;">[1025]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Nor your young brides to lovingly annoy;  
+&nbsp;&nbsp;&nbsp;&nbsp; And at your weddings, I won’t lift the torch.  
+&nbsp;&nbsp;&nbsp;&nbsp; I chose, in madness, our shared life to scorch.  
+&nbsp;&nbsp;&nbsp;&nbsp; Have I raised you for nothing? All my pain,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Hardships and trials all have been in vain,</span><span style="float:right;">[1030]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And meaningless the pains of childbirth.  
+&nbsp;&nbsp;&nbsp;&nbsp; Once, I believed that nothing could be worth  
+&nbsp;&nbsp;&nbsp;&nbsp; More than my boys. You would have taken care  
+&nbsp;&nbsp;&nbsp;&nbsp; Of me when I grew old, for such welfare  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Is all that mortals e’er wish to acquire,</span><span style="float:right;">[1035]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; But this illusion now has to retire.  
+&nbsp;&nbsp;&nbsp;&nbsp; Never again shall your innocent eyes  
+&nbsp;&nbsp;&nbsp;&nbsp; See your dear mother until someone dies.  
+&nbsp;&nbsp;&nbsp;&nbsp; ‘Tis true, your sweet, pure lives shall soon advance.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Alas, why look at me so? Why this glance?</span><span style="float:right;">[1040]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Why are you smiling? Oh, what shall I do?  
+&nbsp;&nbsp;&nbsp;&nbsp; My heart betrays me; I can’t follow through,  
+&nbsp;&nbsp;&nbsp;&nbsp; O women, now that I've seen their delight.  
+&nbsp;&nbsp;&nbsp;&nbsp; I cannot do it, but I’ll set things right:  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I’ll take the children out of this dark place.</span><span style="float:right;">[1045]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Why hurt them to see pain in Jason’s face  
+&nbsp;&nbsp;&nbsp;&nbsp; When this should cause me a much worse affliction?  
+&nbsp;&nbsp;&nbsp;&nbsp; I won't. Away, then, with my past conviction.  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet still... I suffer, no? Should this foul traitor  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Go thus unpunished, and then mock me later?</span><span style="float:right;">[1050]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; It must be done, then. Am I such a coward  
+&nbsp;&nbsp;&nbsp;&nbsp; That I’d allow my mind to be so soured  
+&nbsp;&nbsp;&nbsp;&nbsp; By tender feeling? Children, go inside.  
+&nbsp;&nbsp;&nbsp;&nbsp; This sacrifice cannot take place outside  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Lest someone pry. No, I won't stain my hand.</span><span style="float:right;">[1055]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Alas, my heart accepts no reprimand:  
+&nbsp;&nbsp;&nbsp;&nbsp; I beg thee, spare thy children, stubborn heart!  
+&nbsp;&nbsp;&nbsp;&nbsp; Alive, they'll bring thee joy when you depart.  
+&nbsp;&nbsp;&nbsp;&nbsp; No! No! By Hades’ infernal despair,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I know that I could never, ever bear</span><span style="float:right;">[1060]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; My enemies to harm my sons so dear.  
+&nbsp;&nbsp;&nbsp;&nbsp; My sweetest boys shall die, the time draws near;  
+&nbsp;&nbsp;&nbsp;&nbsp; And it should be I who first gave them birth  
+&nbsp;&nbsp;&nbsp;&nbsp; To take their lives away from this base earth.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; ‘Tis fate has chose this; there is no escape.</span><span style="float:right;">[1065]</span><br>
 
-The CHILDREN move closer to the house.
+<i><div style="text-align: right">The </i>CHILDREN<i> move closer to the house.</div></i>  
 
-I sense the bride is putting on the cape.
-She soon shall die; the chaplet's on her head.
-The path I walk is truly lined with dread,
-My sweet boys, it is time I must confess:
+&nbsp;&nbsp;&nbsp;&nbsp; I sense the bride is putting on the cape.  
+&nbsp;&nbsp;&nbsp;&nbsp; She soon shall die; the chaplet's on her head.  
+&nbsp;&nbsp;&nbsp;&nbsp; The path I walk is truly lined with dread,  
+&nbsp;&nbsp;&nbsp;&nbsp; My sweet boys, it is time I must confess:  
 
-The CHILDREN return to MEDEA.
+<i><div style="text-align: right">The </i>CHILDREN<i> return to </i>MEDEA.</div>  
 
-[1070]	Sons, give me your soft hands, I shall express
-How I do love you. Let me kiss your faces,
-My noble boys, I wish you the gods’ graces,
-But not here, for your father has deprived
-Us all of any joy we’d have derived.
-[1075]	Your skin’s so soft, alas, your breath so fragrant:
-Go, children, my distress hath grown so flagrant
-That I can bear to look at you no longer.
-I know ‘tis vile, but my wrath is stronger
-Than reason. My rage now controls my mind.
-[1080]	The crime I plot is of the basest kind.
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Sons, give me your soft hands, I shall express</span><span style="float:right;">[1070]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; How I do love you. Let me kiss your faces,  
+&nbsp;&nbsp;&nbsp;&nbsp; My noble boys, I wish you the gods’ graces,  
+&nbsp;&nbsp;&nbsp;&nbsp; But not here, for your father has deprived  
+&nbsp;&nbsp;&nbsp;&nbsp; Us all of any joy we’d have derived.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Your skin’s so soft, alas, your breath so fragrant:</span><span style="float:right;">[1075]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Go, children, my distress hath grown so flagrant  
+&nbsp;&nbsp;&nbsp;&nbsp; That I can bear to look at you no longer.  
+&nbsp;&nbsp;&nbsp;&nbsp; I know ‘tis vile, but my wrath is stronger  
+&nbsp;&nbsp;&nbsp;&nbsp; Than reason. My rage now controls my mind.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; The crime I plot is of the basest kind.</span><span style="float:right;">[1080]</span><br>
 
-Exeunt CHILDREN into the house.
+<i><div style="text-align: right">Exeunt </i>CHILDREN<i> into the house.</div></i>  
 
-CHORUS LEADER
-	‘Tis many times, before this very moment,
-That we have been dealt a far worse bestowment,
-And that we've had to deal with harder tasks
-Than those befitting our fair female masks.
-[1085]	As women, still, we’re guided by a Muse,
-Who just as well grants us the wisest cues.
-	Yet not all women are able to learn,
-For these are hints that just few can discern.
-Let us now speak about those mortal folk
-[1090]	Who being childless, never bear this yoke—  
-For they are happier than any parent,
-Since they avoid all strifes that are inherent
-In rearing kids an ineffable quest:
-For children can bring pain as well as rest.
-[1095]	And yet, the barren feel neither sensation.
-But e’en a parent who hath known elation
-Still seems to throw away their life i’th’ house,
-Attending to the children with their spouse.
-Hence, e’en if one rejoices in their young, 
-[1100]	There’s many sorrows oft are left unsung.
-	First, it is vital that they raise the children well,
-Next, they must leave them property to sell,
-And, still, with all that, it remains unclear
-Whether their parents they’ll honour or smear.
-[1105]	And now, however, let us name that evil,
-That mortals think doth bring the worst upheaval:
-Grant that all goes according to their plan,
-And that their young surpass many a man
-And that they have received sufficient wealth,
-[1110]	Still, if the children die or lose their health,
-Hades shall claim their bodies for the dark.
-Then, where's the profit? Where that joyful spark?
-What of our limitless love for our youth?
-Will the blest gods not show us any ruth?
-[1115]	Children bring sorrow; that's the cold, harsh truth.
+CHORUS LEADER  
+&nbsp;&nbsp;&nbsp;&nbsp; ‘Tis many times, before this very moment,  
+&nbsp;&nbsp;&nbsp;&nbsp; That we have been dealt a far worse bestowment,  
+&nbsp;&nbsp;&nbsp;&nbsp; And that we've had to deal with harder tasks  
+&nbsp;&nbsp;&nbsp;&nbsp; Than those befitting our fair female masks.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; As women, still, we’re guided by a Muse,</span><span style="float:right;">[1085]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Who just as well grants us the wisest cues.  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet not all women are able to learn,  
+&nbsp;&nbsp;&nbsp;&nbsp; For these are hints that just few can discern.  
+&nbsp;&nbsp;&nbsp;&nbsp; Let us now speak about those mortal folk  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Who, being childless, never bear this yoke—</span><span style="float:right;">[1090]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; For they are happier than any parent,  
+&nbsp;&nbsp;&nbsp;&nbsp; Since they avoid all strifes that are inherent  
+&nbsp;&nbsp;&nbsp;&nbsp; In rearing kids—an ineffable quest:  
+&nbsp;&nbsp;&nbsp;&nbsp; For children can bring pain as well as rest.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And yet, the barren feel neither sensation.</span><span style="float:right;">[1095]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; But e’en a parent who hath known elation  
+&nbsp;&nbsp;&nbsp;&nbsp; Still seems to throw away their life i’th’ house,  
+&nbsp;&nbsp;&nbsp;&nbsp; Attending to the children with their spouse.  
+&nbsp;&nbsp;&nbsp;&nbsp; Hence, e’en if one rejoices in their young,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; There’s many sorrows oft are left unsung.</span><span style="float:right;">[1100]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; First, it is vital that they raise the children well,  
+&nbsp;&nbsp;&nbsp;&nbsp; Next, they must leave them property to sell,  
+&nbsp;&nbsp;&nbsp;&nbsp; And, still, with all that, it remains unclear  
+&nbsp;&nbsp;&nbsp;&nbsp; Whether their parents they’ll honour or smear.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And now, however, let us name that evil,</span><span style="float:right;">[1105]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; That mortals think doth bring the worst upheaval:  
+&nbsp;&nbsp;&nbsp;&nbsp; Grant that all goes according to their plan,  
+&nbsp;&nbsp;&nbsp;&nbsp; And that their young surpass many a man  
+&nbsp;&nbsp;&nbsp;&nbsp; And that they have received sufficient wealth,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Still, if the children die or lose their health,</span><span style="float:right;">[1110]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Hades shall claim their bodies for the dark.  
+&nbsp;&nbsp;&nbsp;&nbsp; Then, where's the profit? Where's that joyful spark?  
+&nbsp;&nbsp;&nbsp;&nbsp; What of our limitless love for our youth?  
+&nbsp;&nbsp;&nbsp;&nbsp; Will the blest gods not show us any ruth?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Children bring sorrow; that's the cold, harsh truth.</span><span style="float:right;">[1115]</span><br>
 
-MEDEA
-	My dear friends, I've been waiting long. In sooth,
-I'm eager now to learn what happens next.
-And I can see that you’re just as perplexed.
-Here comes a man of Jason’s; ‘tis his slave.
-[1120]	It seems the news he carries is quite grave.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; My dear friends, I've been waiting long. In sooth,  
+&nbsp;&nbsp;&nbsp;&nbsp; I'm eager now to learn what happens next.  
+&nbsp;&nbsp;&nbsp;&nbsp; And I can see that you’re just as perplexed.  
+&nbsp;&nbsp;&nbsp;&nbsp; Here comes a man of Jason’s; ‘tis his slave.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; It seems the news he carries is quite grave.</span><span style="float:right;">[1120]</span><br>
 
-Enter MESSENGER by Eisodos B.
+<i><div style="text-align: right">Enter </i>MESSENGER<i> by </i>Eisodos B.</div>  
 
-MESSENGER
-	Medea, thou who with ferocity
-Hast done this criminal atrocity,
-I pray thee: Flee, now, either on a ship
-Or else by land. Flee! Don't delay thy trip.
+MESSENGER  
+&nbsp;&nbsp;&nbsp;&nbsp; Medea, thou who with ferocity  
+&nbsp;&nbsp;&nbsp;&nbsp; Hast done this criminal atrocity,  
+&nbsp;&nbsp;&nbsp;&nbsp; I pray thee: Flee, now, either on a ship  
+&nbsp;&nbsp;&nbsp;&nbsp; Or else by land. Flee! Don't delay thy trip.  
 
-MEDEA
-[1125]	What have I done that calls for such a flight?
+MEDEA  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; What have I done that calls for such a flight?</span><span style="float:right;">[1125]</span><br>
 
-MESSENGER
-	The king and princess have perished tonight.
+MESSENGER  
+&nbsp;&nbsp;&nbsp;&nbsp; The king and princess have perished tonight.  
 
-MEDEA
-	It is the best of tales that thou hast told.
-Thou art, henceforth, a friend of my household.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; It is the best of tales that thou hast told.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou art, henceforth, a friend of my household.  
 
-MESSENGER
-	What art thou saying? Hast thou gone insane?
-[1130]	It is the royal house that thou hast slain.
-Why dost thou glee, then? Art thou not afraid?
+MESSENGER  
+&nbsp;&nbsp;&nbsp;&nbsp; What art thou saying? Hast thou gone insane?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; It is the royal house that thou hast slain.</span><span style="float:right;">[1130]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Why dost thou glee, then? Art thou not afraid?  
 
-MEDEA
-	My answer to that still shall be delayed.
-But, friend, there's no need yet for such a hurry.
-Convey to me their deaths, their pain, their worry;
-[1135]	Their suffering shall yet double my glory.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; My answer to that still shall be delayed.  
+&nbsp;&nbsp;&nbsp;&nbsp; But, friend, there's no need yet for such a hurry.  
+&nbsp;&nbsp;&nbsp;&nbsp; Convey to me their deaths, their pain, their worry;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Their suffering shall yet double my glory.</span><span style="float:right;">[1135]</span><br>
 
-MESSENGER
-	If thou art certain, I shall tell the story:
-	When thy sons and their father went inside
-The house, our worry did at last subside
-For we, slaves, had been sharing in thy pain;
-[1140]	We'd all heard rumours of how thy disdain
-Had ceased and that thy quarrel had been ended.
-	Then one of us did kiss thy children's splendid
-Hands, and someone else kissed their golden hair,
-As I led them inside the royal lair.
-[1145]	That lady, who replaced thee as our dame,
-First noticed not the children as they came,
-For it was only Jason whom she wanted.
-But when she saw us, she appeared quite daunted,
-In fact, her face revealed only disgust.
-[1150]	‘Twas Jason who appeasèd her mistrust,
-	By saying, "Thou shalt not insult thy friends,
-Rather, the time has come to make amends,
-So, for my sake, turn thy dear face towards
-These boys. Receive the presents of my wards.
-[1155]	Beseech the king to spare them their exile."
-Seeing the gifts, she answered with a smile
-And straight away, she granted his demands.
-The moment that thy relics did change hands,
-Before thy children and husband could leave,
-[1160]	She donned the robe of many-coloured weave,
-	Then placed the golden wreath upon her head,
-And looked into the mirror near her bed,
-Savouring the lifeless image that she saw.
-The princess stood up and chose to withdraw
-[1165]	Into her room, her white feet trod with grace,
-And there was naught but pure joy on her face.
-Then horror struck: her chest grew tight with fear,
-She paled and staggered, drained of all her cheer,
-So slipped and nearly fell upon the floor,
-[1170]	But that she chanced to lean against the door
-And sit herself down. Then, some older slave,
-Believing Pan made her thus madly rave,
-Fell prostrate down and straight began to pray,
-Until the girl's mouth spat white foam and spray.
-[1175]	One of her eyes was bulging from its orbit,
-The other’s swollen socket did absorb it,
-And all the blood had vanished from her skin.
-A slave ran to her father's halls within,
-Another ran to warn her wedded spouse,
-[1180]	That panicked cries were heard throughout the house.
-	And then, when Time had given us some space,
-Enough to run a mile at briskest pace,
-The wretch, now blind, experienced such pain,
-What agony, for twofold was her bane.
-[1185]	The golden wreath, this head ornament dire,
-Began emitting a devouring fire,
-While those fair robes that thy sons had presented
-Consumed her flesh, her visage so tormented.
-Still, though ablaze, she staggered to her feet,
-[1190]	And tossed her hair in madness and defeat,
-Clawing to wrench the chaplet from her head—
-And yet the gold clung to her as she bled.
-This only made the flames leap up the more,
-Until, at last, she crumpled to the floor.
-[1195]	So by the end we could not recognize
-Her visage, wer’t not for her father's eyes.
-Her face disfigured, with a sorrow fresh,
-The blood and fire poured down the woman's flesh,
-Which, torn by venom, peeled from off her spine
-[1200]	Like tears of sap depart the grieving pine.
-And since we had her ill-fate as a teacher,
-We were afraid to even touch the creature.
-Yet still, her father, blind to lurking doom,
-Embraced her carcass once he reached her room,
-[1205]	And suddenly let our a sorrowed scream,
-But she refused to wake up from her dream.
-Thus, asked he the dead body of his child:
-"O wretched girl, what spirit has defiled
-Thine innocent life with this evil curse?
-[1210]	Who took thee from me? Is there a fate worse
-Than this? I wish I could join thee in death."
-Then, when he paused his cries to take a breath,
-He tried to stand, to shift his aged back,
-And the enchanted robes did then attack:
-[1215]	So, he was bound like ivy wrapped in laurel,
-As he fought back against thy spell immoral.
-His struggles were most horrible, indeed.
-When he’d attempt to get up, she'd impede
-Him, while his flesh would most painfully slide
-[1220]	From off his bones. And, thereupon, he died.
-Father and child lying side by side,
-A sight so awful, all those present cried.
-There’s nothing more I need to say to thee:
-Thou know’st thou canst not stay punishment-free.
-[1225]	So, once again, the claim that I have made
-Proves true: Our life is nothing but a shade.
-And learned men of logic and of reason
-Are often those who suffer the worst treason.
-Some fortunes beat others to an extent,
-[1230]	But no one man can truly be content.
+MESSENGER  
+&nbsp;&nbsp;&nbsp;&nbsp; If thou art certain, I shall tell the story:  
+&nbsp;&nbsp;&nbsp;&nbsp; When thy sons and their father went inside  
+&nbsp;&nbsp;&nbsp;&nbsp; The house, our worry did at last subside  
+&nbsp;&nbsp;&nbsp;&nbsp; For we, slaves, had been sharing in thy pain;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; We'd all heard rumours of how thy disdain</span><span style="float:right;">[1140]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Had ceased, and that thy quarrel had been ended.  
+&nbsp;&nbsp;&nbsp;&nbsp; Then one of us did kiss thy children's splendid  
+&nbsp;&nbsp;&nbsp;&nbsp; Hands, and someone else kissed their golden hair,  
+&nbsp;&nbsp;&nbsp;&nbsp; As I led them inside the royal lair.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; That lady, who replaced thee as our dame,</span><span style="float:right;">[1145]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; First noticed not the children as they came,  
+&nbsp;&nbsp;&nbsp;&nbsp; For it was only Jason whom she wanted.  
+&nbsp;&nbsp;&nbsp;&nbsp; But when she saw us, she appeared quite daunted,  
+&nbsp;&nbsp;&nbsp;&nbsp; In fact, her face revealed only disgust.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; ‘Twas Jason who appeasèd her mistrust,</span><span style="float:right;">[1150]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; By saying, "Thou shalt not insult thy friends,  
+&nbsp;&nbsp;&nbsp;&nbsp; Rather, the time has come to make amends,  
+&nbsp;&nbsp;&nbsp;&nbsp; So, for my sake, turn thy dear face towards  
+&nbsp;&nbsp;&nbsp;&nbsp; These boys. Receive the presents of my wards.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Beseech the king to spare them their exile."</span><span style="float:right;">[1155]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Seeing the gifts, she answered with a smile  
+&nbsp;&nbsp;&nbsp;&nbsp; And straight away, she granted his demands.  
+&nbsp;&nbsp;&nbsp;&nbsp; The moment that thy relics did change hands,  
+&nbsp;&nbsp;&nbsp;&nbsp; Before thy children and husband could leave,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; She donned the robe of many-coloured weave,</span><span style="float:right;">[1160]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Then placed the golden wreath upon her head,  
+&nbsp;&nbsp;&nbsp;&nbsp; And looked into the mirror near her bed,  
+&nbsp;&nbsp;&nbsp;&nbsp; Savouring the lifeless image that she saw.  
+&nbsp;&nbsp;&nbsp;&nbsp; The princess stood up and chose to withdraw  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Into her room, her white feet trod with grace,</span><span style="float:right;">[1165]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And there was naught but pure joy on her face.  
+&nbsp;&nbsp;&nbsp;&nbsp; Then horror struck: her chest grew tight with fear,  
+&nbsp;&nbsp;&nbsp;&nbsp; She paled and staggered, drained of all her cheer,  
+&nbsp;&nbsp;&nbsp;&nbsp; So slipped and nearly fell upon the floor,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; But that she chanced to lean against the door</span><span style="float:right;">[1170]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And sit herself down. Then, some older slave,  
+&nbsp;&nbsp;&nbsp;&nbsp; Believing Pan made her thus madly rave,  
+&nbsp;&nbsp;&nbsp;&nbsp; Fell prostrate down and straight began to pray,  
+&nbsp;&nbsp;&nbsp;&nbsp; Until the girl's mouth spat white foam and spray.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; One of her eyes was bulging from its orbit,</span><span style="float:right;">[1175]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; The other’s swollen socket did absorb it,  
+&nbsp;&nbsp;&nbsp;&nbsp; And all the blood had vanished from her skin.  
+&nbsp;&nbsp;&nbsp;&nbsp; A slave ran to her father's halls within,  
+&nbsp;&nbsp;&nbsp;&nbsp; Another ran to warn her wedded spouse,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; That panicked cries were heard throughout the house.</span><span style="float:right;">[1180]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And then, when Time had given us some space,  
+&nbsp;&nbsp;&nbsp;&nbsp; Enough to run a mile at briskest pace,  
+&nbsp;&nbsp;&nbsp;&nbsp; The wretch, now blind, experienced such pain,  
+&nbsp;&nbsp;&nbsp;&nbsp; What agony, for twofold was her bane.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; The golden wreath, this head ornament dire,</span><span style="float:right;">[1185]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Began emitting a devouring fire,  
+&nbsp;&nbsp;&nbsp;&nbsp; While those fair robes that thy sons had presented  
+&nbsp;&nbsp;&nbsp;&nbsp; Consumed her flesh, her visage so tormented.  
+&nbsp;&nbsp;&nbsp;&nbsp; Still, though ablaze, she staggered to her feet,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And tossed her hair in madness and defeat,</span><span style="float:right;">[1190]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Clawing to wrench the chaplet from her head—  
+&nbsp;&nbsp;&nbsp;&nbsp; And yet the gold clung to her as she bled.  
+&nbsp;&nbsp;&nbsp;&nbsp; This only made the flames leap up the more,  
+&nbsp;&nbsp;&nbsp;&nbsp; Until, at last, she crumpled to the floor.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; So by the end, we could not recognize</span><span style="float:right;">[1195]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Her visage, wer’t not for her father's eyes.  
+&nbsp;&nbsp;&nbsp;&nbsp; Her face disfigured, with a sorrow fresh,  
+&nbsp;&nbsp;&nbsp;&nbsp; The blood and fire poured down the woman's flesh,  
+&nbsp;&nbsp;&nbsp;&nbsp; Which, torn by venom, peeled from off her spine  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Like tears of sap depart the grieving pine.</span><span style="float:right;">[1200]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And since we had her ill-fate as a teacher,  
+&nbsp;&nbsp;&nbsp;&nbsp; We were afraid to even touch the creature.  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet still, her father, blind to lurking doom,  
+&nbsp;&nbsp;&nbsp;&nbsp; Embraced her carcass once he reached her room,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And suddenly let out a sorrowed scream,</span><span style="float:right;">[1205]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; But she refused to wake up from her dream.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thus, asked he the dead body of his child:  
+&nbsp;&nbsp;&nbsp;&nbsp; "O wretched girl, what spirit has defiled  
+&nbsp;&nbsp;&nbsp;&nbsp; Thine innocent life with this evil curse?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Who took thee from me? Is there a fate worse</span><span style="float:right;">[1210]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Than this? I wish I could join thee in death."  
+&nbsp;&nbsp;&nbsp;&nbsp; Then, when he paused his cries to take a breath,  
+&nbsp;&nbsp;&nbsp;&nbsp; He tried to stand, to shift his aged back,  
+&nbsp;&nbsp;&nbsp;&nbsp; And the enchanted robes did then attack:  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; So, he was bound like ivy wrapped in laurel,</span><span style="float:right;">[1215]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; As he fought back against thy spell immoral.  
+&nbsp;&nbsp;&nbsp;&nbsp; His struggles were most horrible, indeed.  
+&nbsp;&nbsp;&nbsp;&nbsp; When he’d attempt to get up, she'd impede  
+&nbsp;&nbsp;&nbsp;&nbsp; Him, while his flesh would most painfully slide  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; From off his bones. And, thereupon, he died.</span><span style="float:right;">[1220]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Father and child lying side by side,  
+&nbsp;&nbsp;&nbsp;&nbsp; A sight so awful, all those present cried.  
+&nbsp;&nbsp;&nbsp;&nbsp; There’s nothing more I need to say to thee:  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou know’st thou canst not stay punishment-free.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; So, once again, the claim that I have made</span><span style="float:right;">[1225]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Proves true: Our life is nothing but a shade.  
+&nbsp;&nbsp;&nbsp;&nbsp; And learned men of logic and of reason  
+&nbsp;&nbsp;&nbsp;&nbsp; Are often those who suffer the worst treason.  
+&nbsp;&nbsp;&nbsp;&nbsp; Some fortunes beat others to an extent,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; But no one man can truly be content.</span><span style="float:right;">[1230]</span><br>
 
-Exit MESSENGER by Eisodos B.
+<i><div style="text-align: right">Exit </i>MESSENGER<i> by </i>Eisodos B.</div>  
 
-CHORUS LEADER
-	The day has come when cunning Fate’s foul specter
-Shall punish Jason, honour’s great defector.
-Daughter of Creon, we lament thy fate:
-Thou art in Hades, a victim of hate,
-[1235]	Because thou didst accept Jason's proposal.
+CHORUS LEADER  
+&nbsp;&nbsp;&nbsp;&nbsp; The day has come when cunning Fate’s foul specter  
+&nbsp;&nbsp;&nbsp;&nbsp; Shall punish Jason, honour’s great defector.  
+&nbsp;&nbsp;&nbsp;&nbsp; Daughter of Creon, we lament thy fate:  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou art in Hades, a victim of hate,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Because thou didst accept Jason's proposal.</span><span style="float:right;">[1235]</span><br>
 
-MEDEA
-	My friends, death still shall serve at my disposal.
-My mind is made up: the children must die
-And I shall bid this realm my last goodbye.
-I’ll murder them at once, lest I do strand
-[1240]	Them to be slain by a less loving hand.
-	Hence, come my heart, do not forsake me now,
-Why cannot we fulfil our wicked vow?
-Come, come, my wretched hand, pick up the sword,
-‘Tis time to seize our violent reward.
-[1245]	Let us not weaken when we do remember
-‘Twas we that kindled our sons’ lives’ first ember,
-And may thy feelings not obstruct thy way,
-Rather, forget thy children for a day,
-For thou canst grieve for them after the deed.
-[1250]	I am a woman of the saddest breed.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; My friends, death still shall serve at my disposal.  
+&nbsp;&nbsp;&nbsp;&nbsp; My mind is made up: the children must die  
+&nbsp;&nbsp;&nbsp;&nbsp; And I shall bid this realm my last goodbye.  
+&nbsp;&nbsp;&nbsp;&nbsp; I’ll murder them at once, lest I do strand  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Them to be slain by a less loving hand.</span><span style="float:right;">[1240]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Hence, come my heart, do not forsake me now,  
+&nbsp;&nbsp;&nbsp;&nbsp; Why cannot we fulfil our wicked vow?  
+&nbsp;&nbsp;&nbsp;&nbsp; Come, come, my wretched hand, pick up the sword,  
+&nbsp;&nbsp;&nbsp;&nbsp; ‘Tis time to seize our violent reward.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Let us not weaken when we do remember</span><span style="float:right;">[1245]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; ‘Twas we that kindled our sons’ lives’ first ember,  
+&nbsp;&nbsp;&nbsp;&nbsp; And may thy feelings not obstruct thy way,  
+&nbsp;&nbsp;&nbsp;&nbsp; Rather, forget thy children for a day,  
+&nbsp;&nbsp;&nbsp;&nbsp; For thou canst grieve for them after the deed.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I am a woman of the saddest breed.</span><span style="float:right;">[1250]</span><br>
 
-Exit MEDEA into the house.
+<i><div style="text-align: right">Exit </i>MEDEA<i> into the house.</div></i>  
 
-STASIMON V
+<br>
 
-CHORUS
-			[Strophe A]
-	O Earth and thou, Helios' beam of light
-That shines on all things and makes the world bright,
-Look at that dour, destructive woman there
-Before she lifts her dagger of despair
-[1255]	And kills her sons, heirs of thy golden line.
-Don't let this woman take that which is thine
-For men should dread the blood of gods to spill.
-O holy light, confound her wicked will,
-Assay to thwart her plan and stop her plot;
-[1260]	Cast out this awful Fury from this spot!
-			[Antistrophe A]
-	All thy love for thy children, all that pain,
-Thy toil when giving birth was all in vain.
-Thou who didst leave the hostile Symplegades,
-Those lethal rocks of so many blue shades,
-[1265]	Thou art a wretched creature. Why let rage
-Control thy heart, lock thy mind in a cage?
-Why let another victim thus be slain?
-Consider that the dreadful moral stain
-That marketh those guilty of parricide
-[1270]	Brings godly wrath from which thou canst not hide.
+<i></i><p><center><b>STASIMON V</b></center></p>
 
-The CHILDREN scream inside the house.
+CHORUS  
+<span style="display:inline-block; margin-left:10em;">[Strophe A]</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; O Earth and thou, Helios' beam of light  
+&nbsp;&nbsp;&nbsp;&nbsp; That shines on all things and makes the world bright,  
+&nbsp;&nbsp;&nbsp;&nbsp; Look at that dour, destructive woman there  
+&nbsp;&nbsp;&nbsp;&nbsp; Before she lifts her dagger of despair  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And kills her sons, heirs of thy golden line.</span><span style="float:right;">[1255]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Don't let this woman take that which is thine  
+&nbsp;&nbsp;&nbsp;&nbsp; For men should dread the blood of gods to spill.  
+&nbsp;&nbsp;&nbsp;&nbsp; O holy light, confound her wicked will,  
+&nbsp;&nbsp;&nbsp;&nbsp; Assay to thwart her plan and stop her plot;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Cast out this awful Fury from this spot!</span><span style="float:right;">[1260]</span><br>
+<span style="display:inline-block; margin-left:10em;">[Antistrophe A]</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; All thy love for thy children, all that pain,  
+&nbsp;&nbsp;&nbsp;&nbsp; Thy toil when giving birth was all in vain.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou who didst leave the hostile Symplegades,  
+&nbsp;&nbsp;&nbsp;&nbsp; Those lethal rocks of so many blue shades,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thou art a wretched creature. Why let rage</span><span style="float:right;">[1265]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Control thy heart, lock thy mind in a cage?  
+&nbsp;&nbsp;&nbsp;&nbsp; Why let another victim thus be slain?  
+&nbsp;&nbsp;&nbsp;&nbsp; Consider that the dreadful moral stain  
+&nbsp;&nbsp;&nbsp;&nbsp; That marketh those guilty of parricide  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Brings godly wrath from which thou canst not hide.</span><span style="float:right;">[1270]</span><br>
 
-			[Strophe B]
-	O, marked you that? Hark, how the children cry!
-Why, evil woman, dost thou do this? Why?
+<i><div style="text-align: right">The </i>CHILDREN<i> scream inside the house[^21].</div></i>  
 
-CHILD A [from within]
-How shall we ‘scape the hand of our mother?
+<span style="display:inline-block; margin-left:10em;">[Strophe B]</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; O, marked you that? Hark, how the children cry!  
+&nbsp;&nbsp;&nbsp;&nbsp; Why, evil woman, dost thou do this? Why?  
 
-CHILD B [from within]
-Alas, we die! I do not know, dear brother.
+CHILD A [*from within*]  
+&nbsp;&nbsp;&nbsp;&nbsp; How shall we ‘scape the hand of our mother?  
 
-CHORUS
-[1275]	What shall we do now? Should we go inside?
-We must prevent this most cruel filicide.
+CHILD B [*from within*]  
+&nbsp;&nbsp;&nbsp;&nbsp; Alas, we die! I do not know, dear brother.  
 
-CHILD A
-	Yes, by the blest gods, please help us and hurry.
+CHORUS  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; What shall we do now? Should we go inside?</span><span style="float:right;">[1275]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; We must prevent this most cruel filicide.  
 
-CHILD B
-	The sword has struck; my vision’s getting blurry.
+CHILD A  
+&nbsp;&nbsp;&nbsp;&nbsp; Yes, by the blest gods, please help us and hurry.  
 
-CHORUS
-	Thy heart’s so hardened, it is like a stone,
-[1280]	Thou woeful one, who strikest as thy sons groan
-	In pain. Thyself art stealing their pure life.
-			[Antistrophe B]
-	Of all who came before, we know one wife
-(Her name was Ino) who harmed her own sons.
-She was sent madness by th’ Olympians 
-[1285]	When Zeus’s wife forced her to go away
-From her own house. So, Ino went to th’ bay,
-And leapt into the ocean. So she perished,
-Along with the sweet children she so cherished,
-Because she'd shoved them, too, into the water.
-[1290]	Still, she was mad; 'twas not a willing slaughter,
-Unlike the horror we see happen here.
-This wedding bed has brought us many a tear.
+CHILD B  
+&nbsp;&nbsp;&nbsp;&nbsp; The sword has struck; my vision’s getting blurry.  
 
-EXODOS
+CHORUS  
+&nbsp;&nbsp;&nbsp;&nbsp; Thy heart’s so hardened, it is like a stone,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thou woeful one, who strikest as thy sons groan</span><span style="float:right;">[1280]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; In pain. Thyself art stealing their pure life.  
+<span style="display:inline-block; margin-left:10em;">[Antistrophe B]</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; Of all who came before, we know one wife  
+&nbsp;&nbsp;&nbsp;&nbsp; (Her name was Ino) who harmed her own sons.  
+&nbsp;&nbsp;&nbsp;&nbsp; She was sent madness by th’ Olympians  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; When Zeus’s wife forced her to go away</span><span style="float:right;">[1285]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; From her own house. So, Ino went to th’ bay,  
+&nbsp;&nbsp;&nbsp;&nbsp; And leapt into the ocean. So she perished,  
+&nbsp;&nbsp;&nbsp;&nbsp; Along with the sweet children she so cherished,  
+&nbsp;&nbsp;&nbsp;&nbsp; Because she'd shoved them, too, into the water.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Still, she was mad; 'twas not a willing slaughter,</span><span style="float:right;">[1290]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Unlike the horror we see happen here.  
+&nbsp;&nbsp;&nbsp;&nbsp; This wedding bed has brought us many a tear.  
+
+<br>
+
+<i></i><p><center><b>EXODOS</b></center></p>
 
 Enter JASON by Eisodos B.
 
@@ -2106,3 +2110,5 @@ FINIS
 [^17]: This translation is written with the notion that his name should be pronounced with the second syllable stressed.
 [^18]: It is not completely clear at what point MEDEA rises. It makes sense to me that it would be sometime during AEGEUS’ first few lines after she finishes speaking.
 [^19]: JASON and the NURSE were played by the same actor. Thus, the present direction is a Loeb invention I choose to follow as it later helps when MEDEA sends the NURSE to bring the gifts from the house. If we stayed true to the Greek norms, it is likely that a ‘mute’ servant brought the presents.
+[^20]: The OCT edition has MEDEA make a specific sound on a few occasions during that PEDAGOGUE speech, which are presumably found in some papyri, but they have not been included in the edition’s line count. Thus, I have decided to substitute these ‘lines’ with stage directions.
+[^21]: The OCT edition has another uncounted line where the CHILDREN say a general exclamation instead of that stage direction. My motivation for the present replacement is the same as in the previous case.
