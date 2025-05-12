@@ -928,7 +928,7 @@ AEGEUS
 &nbsp;&nbsp;&nbsp;&nbsp; There is no better way to greet a friend.  
 
 MEDEA  
-<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; You too, Aegeus[^17], wise Pandion's heir.</span><span style="float:right;">[665]</span><br>
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; You too, Aegeus[^17], wise Pandion's heir.</span> <span style="float:right;">[665]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; What brings the king of Athens to this lair?  
 
 AEGEUS  
@@ -1278,19 +1278,19 @@ CHORUS
 
 <i></i><p><center><b>EPISODE IV</b></center></p>
 
-Enter MEDEA from the house, JASON accompanied by the NURSE by Eisodos B.
+<i><div style="text-align: right">Enter </i>MEDEA<i> from the house, </i>JASON<i> accompanied by the </i>NURSE<i> by </i>Eisodos B.</div>
 
-JASON
-	Thus, being called, to this place I revert.
-And though thou hatest me, I shan't thee desert,
-So, what is it thou wishest to assert?
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Thus, being called, to this place I revert.  
+&nbsp;&nbsp;&nbsp;&nbsp; And though thou hatest me, I shan't thee desert,  
+&nbsp;&nbsp;&nbsp;&nbsp; So, what is it thou wishest to assert?  
 
-MEDEA
-	Jason, I pray that what I said before
-[870]	May be excused; that thou dost not abhor
-Me, when each of us t’other doth adore.
-My prior words I’ve come now to deplore;
-I think to myself: I am such a fool.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Jason, I pray that what I said before  
+&nbsp;&nbsp;&nbsp;&nbsp; May be excused; that thou dost not abhor  
+&nbsp;&nbsp;&nbsp;&nbsp; Me, when each of us t’other doth adore.  
+&nbsp;&nbsp;&nbsp;&nbsp; My prior words I’ve come now to deplore;  
+&nbsp;&nbsp;&nbsp;&nbsp; I think to myself, I am such a fool.  
 Why hate the king? Why think Jason is cruel
 [875]	When he hath merely tried to do what’s best:
 Marrying the princess so that we can rest,
