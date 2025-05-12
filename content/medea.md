@@ -929,7 +929,7 @@ AEGEUS
 
 MEDEA  
 <i></i><span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; You too, Aegeus[^17], wise Pandion's heir.</span><span style="float:right;">[665]</span>
-<span style="clear: both; display: block;"></span>
+<span style="clear: both; display: block;"></span>  
 &nbsp;&nbsp;&nbsp;&nbsp; What brings the king of Athens to this lair?  
 
 AEGEUS  
