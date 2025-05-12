@@ -9,7 +9,9 @@ type: "medea"
 
 <p style="text-align:center;"><span style="font-size:1.5em;"><b>MEDEA</b></span><br>by Euripides</p>
 
-<i><center>A rhyming verse translation[^1]<br>by Atanas G. Iliev</center></i>
+<br>
+
+<i><center>A rhyming verse translation[^1]<br>by Atanas G. Iliev</center></i>  
 
 <p style="text-align:center;">καὶ τὰ δοκηθέντ᾽ οὐκ ἐτελέσθη,<br>τῶν δ᾽ ἀδοκήτων πόρον ηὗρε θεός.<br>— <i>Med</i>. 1417-18</p>
 
