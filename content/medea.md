@@ -1859,237 +1859,243 @@ CHORUS
 
 <br>
 
-<i></i><p><center><b>EXODOS</b></center></p>
+<i></i><p><center><b>EXODOS[^22]</b></center></p>
 
-Enter JASON by Eisodos B.
+<i><div style="text-align: right">Enter </i>JASON<i> by </i>Eisodos B.</div>  
 
-JASON
-	You, ladies, who stand next to our palace,
-Is she still here? The one who bore such malice?
-[1295]	I mean Medea—is she still around?
-She'll have to hide herself beneath the ground,
-Or else to somehow fly into the sky
-If she hopes to shun justice's reply.
-Thinks she, with both our rulers lying dead,
-[1300]	That she can go and not a tear be shed?
-	Let her go—I no longer seek her face,
-For justice shall pursue her in due pace.
-But ‘tis my boys that I must quickly save,
-Lest royal kin dig them an early grave,
-[1305]	In retribution for their mother's crime.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; You, ladies, who stand next to our palace,  
+&nbsp;&nbsp;&nbsp;&nbsp; Is she still here? The one who bore such malice?  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I mean Medea—is she still around?</span><span style="float:right;">[1295]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; She'll have to hide herself beneath the ground,  
+&nbsp;&nbsp;&nbsp;&nbsp; Or else to somehow fly into the sky  
+&nbsp;&nbsp;&nbsp;&nbsp; If she hopes to shun justice's reply.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thinks she, with both our rulers lying dead,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; That she can go and not a tear be shed?</span><span style="float:right;">[1300]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Let her go—I no longer seek her face,  
+&nbsp;&nbsp;&nbsp;&nbsp; For justice shall pursue her in due pace.  
+&nbsp;&nbsp;&nbsp;&nbsp; But ‘tis my boys that I must quickly save,  
+&nbsp;&nbsp;&nbsp;&nbsp; Lest royal kin dig them an early grave,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; In retribution for their mother's crime.</span><span style="float:right;">[1305]</span><br>
 
-CHORUS LEADER
-	Thou know'st not what has happed in the meantime,
-O wretched man, as far as we can tell.
+CHORUS LEADER  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou know'st not what has happed in the meantime,  
+&nbsp;&nbsp;&nbsp;&nbsp; O wretched man, as far as we can tell.  
 
-JASON
-	What is it? Means she to kill me as well?
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; What is it? Means she to kill me as well?  
 
-CHORUS LEADER
-Thy sons have perished at their mother's hand.	
+CHORUS LEADER  
+&nbsp;&nbsp;&nbsp;&nbsp; Thy sons have perished at their mother's hand.  
 
-JASON
-[1310]	What are you saying? I don’t understand.
+JASON  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; What are you saying? I don’t understand.</span><span style="float:right;">[1310]</span><br>
 
-CHORUS LEADER
-	Know that thy children are no longer living.
+CHORUS LEADER  
+&nbsp;&nbsp;&nbsp;&nbsp; Know that thy children are no longer living.  
 
-JASON
-	And was it here she turned so unforgiving?
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; And was it here she turned so unforgiving?  
 
-CHORUS LEADER
-Just past those doors, thou wilt see their remains.	
+CHORUS LEADER  
+&nbsp;&nbsp;&nbsp;&nbsp; Just past those doors, thou wilt see their remains.  	
 
-JASON
-Break ope the gate. Show me their woes and pains.
-[1315]	I want to witness this two-fold disaster.
-I’ll kill her. Help me break the door down. Faster!
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Break ope the gate. Show me their woes and pains.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I want to witness this two-fold disaster.</span><span style="float:right;">[1315]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; I’ll kill her. Help me break the door down. Faster!  
 
-Jason struggles to open the door to the house. Enter MEDEA upon a winged chariot above the house with the corpses of the CHILDREN.
+<div style="text-align: right">Jason <i>struggles to open the door to the house. Enter </i>MEDEA<i> upon a winged chariot above the house with the corpses of the </i>CHILDREN.</div>  
 
-MEDEA
-	Why dost thou shake the bars upon these gates,
-Seeking thy sons and me who sealed their fates?
-Cease now—if thou wouldst ask a thing of me,
-[1320]	Then speak, or rather grant that I go free.
-Thou shalt not drag me from this sacred coach;
-Helios guards me from thy harsh reproach.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Why dost thou shake the bars upon these gates,  
+&nbsp;&nbsp;&nbsp;&nbsp; Seeking thy sons and me who sealed their fates?  
+&nbsp;&nbsp;&nbsp;&nbsp; Cease now—if thou wouldst ask a thing of me,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Then speak, or rather grant that I go free.</span><span style="float:right;">[1320]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Thou shalt not drag me from this sacred coach;  
+&nbsp;&nbsp;&nbsp;&nbsp; Helios guards me from thy harsh reproach.  
 
-JASON
-	Most loathsome woman, hated and abhorred
-By me, by men, and every holy lord,
-[1325]	Thou who hast murdered those thy womb once fed,
-Thy babes lie cold, thy hand has struck them dead.
-Thy crime is done, thy hands are steeped in shame,
-Yet still, thou darest speak Helios' name?
-I wish thee dead for now at last I see
-[1330]	How mad I was to bring thee home with me.
-Thou art a wretch who made thy father fall,
-And now bringest death and ruin on us all.
-Now, in your place, the gods send me their wrath;
-For when thy brother stood upon thy path,
-[1335]	Thou didst slay him, and my Argo saved thee.
-Thy life has ever been a killing spree:
-And now, when thou at last hast won my trust,
-Thou murderest our children out of lust.
-No Grecian woman would dare cause such strife,
-[1340]	Yet still, I chose thee to become my wife.
-	A match that hath but caused me great distress,
-Thou art no woman, but a lioness.
-	Scylla herself has got a gentler spirit.
-Dost thou feel guilt? I do desire to hear it
-[1345]	Since no word can harm thee or leave thee scarred;
-Thine awful heart hath always been too hard.
-	Begone, O coward butcher of our sons!
-My only care’s to mourn my pretty ones.
-My boys are gone; I won't see them again,
-[1350]	Thou’st made me now the most wretched of men.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Most loathsome woman, hated and abhorred  
+&nbsp;&nbsp;&nbsp;&nbsp; By me, by men, and every holy lord,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thou who hast murdered those thy womb once fed,</span><span style="float:right;">[1325]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Thy babes lie cold, thy hand has struck them dead.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thy crime is done, thy hands are steeped in shame,  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet still, thou darest speak Helios' name?  
+&nbsp;&nbsp;&nbsp;&nbsp; I wish thee dead—for now, at last I see  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; How mad I was to bring thee home with me.</span><span style="float:right;">[1330]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Thou art a wretch who made thy father fall,  
+&nbsp;&nbsp;&nbsp;&nbsp; And now bringest death and ruin on us all.  
+&nbsp;&nbsp;&nbsp;&nbsp; Now, in your place, the gods send me their wrath;  
+&nbsp;&nbsp;&nbsp;&nbsp; For when thy brother stood upon thy path,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thou didst slay him, and my Argo saved thee.</span><span style="float:right;">[1335]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Thy life has ever been a killing spree:  
+&nbsp;&nbsp;&nbsp;&nbsp; And now, when thou at last hast won my trust,  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou murderest our children out of lust.  
+&nbsp;&nbsp;&nbsp;&nbsp; No Grecian woman would dare cause such strife,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Yet still, I chose thee to become my wife.</span><span style="float:right;">[1340]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; A match that hath but caused me great distress,  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou art no woman, but a lioness.  
+&nbsp;&nbsp;&nbsp;&nbsp; Scylla herself has got a gentler spirit.  
+&nbsp;&nbsp;&nbsp;&nbsp; Dost thou feel guilt? I do desire to hear it  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Since no word can harm thee or leave thee scarred;</span><span style="float:right;">[1345]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; Thine awful heart hath always been too hard.  
+&nbsp;&nbsp;&nbsp;&nbsp; Begone, O coward, butcher of our sons!  
+&nbsp;&nbsp;&nbsp;&nbsp; My only care’s to mourn my pretty ones.  
+&nbsp;&nbsp;&nbsp;&nbsp; My boys are gone; I won't see them again,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Thou’st made me now the most wretched of men.</span><span style="float:right;">[1350]</span><br>
 
-MEDEA
-	I would have issued thee a long reply,
-If Zeus, the Father, had not heard my cry.
-But thou, who didst defile my wedding bed,
-Shalt soon wish it were thee, and not they, dead.
-[1355]	The princess paid the price for thy deceit,
-And Creon fell just when he knew defeat.
-Thus all of you conspired to see me banished
-But now your power and your pride have vanished.
-So call me lioness, if so thou must,
-[1360]	For in the end, I've ground thy heart to dust.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; I would have issued thee a long reply,  
+&nbsp;&nbsp;&nbsp;&nbsp; If Zeus, the Father, had not heard my cry.  
+&nbsp;&nbsp;&nbsp;&nbsp; But thou, who didst defile my wedding bed,  
+&nbsp;&nbsp;&nbsp;&nbsp; Shalt soon wish it were thee, and not they, dead.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; The princess paid the price for thy deceit,</span><span style="float:right;">[1355]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And Creon fell just when he knew defeat.  
+&nbsp;&nbsp;&nbsp;&nbsp; Thus, all of you conspired to see me banished  
+&nbsp;&nbsp;&nbsp;&nbsp; But now your power and your pride have vanished.  
+&nbsp;&nbsp;&nbsp;&nbsp; So call me lioness, if so thou must,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; For in the end, I've ground thy heart to dust.</span><span style="float:right;">[1360]</span><br>
 
-JASON
-	Still, thou must also share in my despair.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Still, thou must also share in my despair.  
 
-MEDEA
-True, yet thy mocking I won't have to bear.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; True, yet thy mocking I won't have to bear.  
 
-JASON
-Poor boys, thus cursèd with a vile mother.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Poor boys, thus cursèd with a vile mother.  
 
-MEDEA
-Poor children, hapless victims of your father.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Poor children, hapless victims of your father.  
 
-JASON
-[1365]	It wasn't my hand that brought their demise.
+JASON  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; It wasn't my hand that brought their demise.</span><span style="float:right;">[1365]</span><br>
 
-MEDEA
-It was thy wedding, thine oaths, and thy lies.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; It was thy wedding, thine oaths, and thy lies.  
 
-JASON
-So thou didst deem it just to see them die?
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; So thou didst deem it just to see them die?  
 
-MEDEA
-Do women’s griefs, then, merit no reply?
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Do women’s griefs, then, merit no reply?  
 
-JASON
-If they are wise, perhaps, but thou? Not quite.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; If they are wise, perhaps, but thou? Not quite.  
 
-MEDEA
-[1370]	Well, thy children are gone. Sleep well tonight.
+MEDEA  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Well, thy children are gone. Sleep well tonight.</span><span style="float:right;">[1370]</span><br>
 
-JASON
-	Their spirits shall exact their retribution.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Their spirits shall exact their retribution.  
 
-MEDEA
-	The gods know the first source of this pollution.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; The gods know the first source of this pollution.  
 
-JASON
-	They know full well thy heart is full of spite.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; They know full well thy heart is full of spite.  
 
-MEDEA
-Thou awful man, I loathe thy very sight.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou awful man, I loathe thy very sight.  
 
-JASON
-[1375]	And I hate thee; how easy 'tis to part.
+JASON  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; And I hate thee; how easy 'tis to part.</span><span style="float:right;">[1375]</span><br>
 
-MEDEA
-	Say how. I wish it, too, with all my heart.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Say how. I wish it, too, with all my heart.  
 
-JASON
-	Consent that I lay our boys in their grave.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Consent that I lay our boys in their grave.  
 
-MEDEA
-	Never. I’ll take them to Hera’s enclave,
-Her temple on the great Acraian hill,
-[1380]	Where my own hand shall all the rites fulfill,
-And from the reach of foes I’ll bury them.
-This land of Sysiphus, I shall condemn,
-Imposing here a mystic celebration,
-So to atone for my children's damnation.
-[1385]	Where Erechtheus built his sacred land,
-I’ll go there to seek out Aegeus' hand.
-O wretch, who broke the vows that thou didst make,
-The Argo’s timber shall thy body break.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Never. I’ll take them to Hera’s enclave,  
+&nbsp;&nbsp;&nbsp;&nbsp; Her temple on the great Acraian hill,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Where my own hand shall all the rites fulfill,</span><span style="float:right;">[1380]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; And from the reach of foes I’ll bury them.  
+&nbsp;&nbsp;&nbsp;&nbsp; This land of Sysiphus, I shall condemn,  
+&nbsp;&nbsp;&nbsp;&nbsp; Imposing here a mystic celebration,  
+&nbsp;&nbsp;&nbsp;&nbsp; So to atone for my children's damnation.  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Where Erechtheus built his sacred land,</span><span style="float:right;">[1385]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; I’ll go there to seek out Aegeus' hand.  
+&nbsp;&nbsp;&nbsp;&nbsp; O wretch, who broke the vows that thou didst make,  
+&nbsp;&nbsp;&nbsp;&nbsp; The Argo’s timber shall thy body break.  
 
-JASON
-	May the vile Furies drag thee through the mud,
-[1390]	May vengeful Justice spill thy wicked blood.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; May the vile Furies drag thee through the mud,  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; May vengeful Justice spill thy wicked blood.</span><span style="float:right;">[1390]</span><br>
 
-MEDEA
-	What god or what spirit shall hear thy troth,
-Thou wicked liar, thou breaker of thine oath?
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; What god or what spirit shall hear thy troth,  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou wicked liar, thou breaker of thine oath?  
 
-JASON
-	A plague on thee, who didst take thy boys' life.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; A plague on thee, who didst take thy boys' life.  
 
-MEDEA
-Go home. 'Tis time to bury thy dear wife.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Go home. 'Tis time to bury thy dear wife.  
 
-JASON
-[1395]	I go, alas, their sweet bodies are cold.
+JASON  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I go, alas, their sweet bodies are cold.</span><span style="float:right;">[1395]</span><br>
 
-MEDEA
-Thou’rt yet to mourn; just wait till thou art old.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou’rt yet to mourn; just wait till thou art old.  
 
-JASON
-	O dearest children, no one e’er was sweeter.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; O dearest children, no one e’er was sweeter.  
 
-MEDEA
-Ay, to their mother, but not to this cheater.
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Ay, to their mother, but not to this cheater.  
 
-JASON
-Yet thou didst kill them, dost thou disagree?
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Yet thou didst kill them, dost thou disagree?  
 
-MEDEA
-[1400]	I only murdered them to injure thee.
+MEDEA  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I only murdered them to injure thee.</span><span style="float:right;">[1400]</span><br>
 
-JASON
-	O, woe is me, I long to kiss their brows.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; O, woe is me, I long to kiss their brows.  
 
-MEDEA
-Now thou dost prize them, breaker of thy vows?
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Now thou dost prize them, breaker of thy vows?  
 
-JASON
-	Grant me, by Zeus, to touch their tender skin.
+JASON  
+&nbsp;&nbsp;&nbsp;&nbsp; Grant me, by Zeus, to touch their tender skin.  
 
-MEDEA
-Thou plead’st in vain, O traitor of thy kin!
+MEDEA  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou plead’st in vain, O traitor of thy kin!  
 
-JASON
-[1405]	O Zeus, dost thou hear how we are denied?
-What wounds we suffer? And how we are tried
-By this accursed child-slaying she-lion?
-And yet, I do lament for them, my scion,
-I mourn my sons to the utmost extent;
-[1410]	I ask the gods to witness this event,
-	How, after thou hast slain my children dear,
-Thou dost forbid my hands to venture near
-Their lifeless forms, and to inter my boys,
-Whom I begot, thus slain by thy foul ploys.
+JASON  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; O Zeus, dost thou hear how we are denied?</span><span style="float:right;">[1405]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; What wounds we suffer? And how we are tried  
+&nbsp;&nbsp;&nbsp;&nbsp; By this accursed child-slaying she-lion?  
+&nbsp;&nbsp;&nbsp;&nbsp; And yet, I do lament for them, my scion,  
+&nbsp;&nbsp;&nbsp;&nbsp; I mourn my sons to the utmost extent;  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; I ask the gods to witness this event,</span><span style="float:right;">[1410]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; How, after thou hast slain my children dear,  
+&nbsp;&nbsp;&nbsp;&nbsp; Thou dost forbid my hands to venture near  
+&nbsp;&nbsp;&nbsp;&nbsp; Their lifeless forms, and to inter my boys,  
+&nbsp;&nbsp;&nbsp;&nbsp; Whom I begot, thus slain by thy foul ploys.  
 
-MEDEA is borne aloft away from Corinth with the corpses of the CHILDREN by her chariot. Exit JASON by Eisodos B.
+<div style="text-align: right">MEDEA<i> is borne aloft away from Corinth with the corpses of the </i>CHILDREN<i> by her chariot. Exit </i>JASON<i> by </i>Eisodos B.</div>  
 
-CHORUS LEADER
-[1415]	Zeus on Olympus doth all fates amend,
-The gods oft bring what none can comprehend:
-What men hope for, they may not ever lend,
-But what they dream not of, our God will send.
-And so, in this strange way, our tale doth end.
+CHORUS LEADER[^23]  
+<span style="float:left;">&nbsp;&nbsp;&nbsp;&nbsp; Zeus on Olympus doth all fates amend,</span><span style="float:right;">[1415]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; The gods oft bring what none can comprehend:  
+&nbsp;&nbsp;&nbsp;&nbsp; What men hope for, they may not ever lend,  
+&nbsp;&nbsp;&nbsp;&nbsp; But what they dream not of, our God will send.  
+&nbsp;&nbsp;&nbsp;&nbsp; And so, in this strange way, our tale doth end.  
 
-Exeunt omnes.
+<i><div style="text-align: right">Exeunt omnes.</div></i>  
 
-FINIS
+<br>
 
+<p><center><b>FINIS</b></center></p>
+
+<br>
+<br>
+
+*Footnotes*
 
 [^1]: My purpose with this project was to translate the play in heroic couplets, i.e., rhyming pairs of iambic pentameters, in imitation of Pope’s Homer and Dryden’s Virgil. The translation uses the Greek text of *James Diggle*'s Oxford Classical Texts (OCT) edition and matches the number of lines found there. I have also made extensive use of *Michele Kwintner*'s Bryn Mawr commentary (mostly for grammar) and *Donald J. Mastronarde*'s Cambridge Greek and Latin Classics one (for grammar and interpretation). I’m beyond grateful to *Aleksa Sotirov* for all his invaluable editorial work, to *Prof. Alexandra Schultz* for all her patience helping me translate the play, and to *Prof. Hakan Tell*, whose Greek drama class largely inspired me to tackle this project. To the extent of my knowledge, this is the first translation where all stasimons have been translated in heroic couplets while also matching the exact number of lines they contain as per the OCT.
 [^2]: Medea was played by the first actor (πρωταγωνιστής), the Nurse and Jason were played by the second actor (δευτεραγωνιστής), and the other four characters were played by the third actor (τριταγωνιστής). The characters are given in that order (followed by the chorus) and not in order of appearance. There were also actors playing Medea’s children, perhaps named Mermerus and Pheres, who only speak off-stage.
@@ -2112,3 +2118,5 @@ FINIS
 [^19]: JASON and the NURSE were played by the same actor. Thus, the present direction is a Loeb invention I choose to follow as it later helps when MEDEA sends the NURSE to bring the gifts from the house. If we stayed true to the Greek norms, it is likely that a ‘mute’ servant brought the presents.
 [^20]: The OCT edition has MEDEA make a specific sound on a few occasions during that PEDAGOGUE speech, which are presumably found in some papyri, but they have not been included in the edition’s line count. Thus, I have decided to substitute these ‘lines’ with stage directions.
 [^21]: The OCT edition has another uncounted line where the CHILDREN say a general exclamation instead of that stage direction. My motivation for the present replacement is the same as in the previous case.
+[^22]: The last part of the tragedy, after which there is no choral song. Medea’s exodos (as per the OCT edition) comprises lines 1293-1419 inclusive.
+[^23]: It is contested among scholars whether the last five lines of the play (1415-19 inclusive) delivered by the CHORUS LEADER were part of the original production in 431 BCE. The CHORUS and their CHORUS LEADER likely exited the orchestra by Eisodos B at the end of the play.
