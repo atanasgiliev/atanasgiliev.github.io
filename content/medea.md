@@ -1278,6 +1278,809 @@ CHORUS
 
 <i></i><p><center><b>EPISODE IV</b></center></p>
 
+Enter MEDEA from the house, JASON accompanied by the NURSE by Eisodos B.
+
+JASON
+	Thus, being called, to this place I revert.
+And though thou hatest me, I shan't thee desert,
+So, what is it thou wishest to assert?
+
+MEDEA
+	Jason, I pray that what I said before
+[870]	May be excused; that thou dost not abhor
+Me, when each of us t’other doth adore.
+My prior words I’ve come now to deplore;
+I think to myself: I am such a fool.
+Why hate the king? Why think Jason is cruel
+[875]	When he hath merely tried to do what’s best:
+Marrying the princess so that we can rest,
+And making sure our sons might have a brother?
+Faith, all he wants is to support their mother.
+And are the gods not generous to my house?
+[880]	Have I no children? Why such hate espouse?
+	Do I not understand I need a friend
+Unless I want to meet a bitter end?
+And thus, I figured I should cease my ire.
+And now thy face doth joy in me inspire,
+[885]	For I am grateful for thy new alliance;
+I've been so stupid in my rude defiance.
+My duty was to aid in thy wise plan,
+To please thy bride, appreciate my man.
+Yet women are... well, we’re the way we are,
+[890]	But still, thou need’st not act just as bizarre
+As us, and answer our gall with gall.
+I do admit, my folly's not been small,
+But now, I've come to see things much more clearly.
+Come, children, greet your father most sincerely.  
+
+Enter PEDAGOGUE with the CHILDREN from the house.
+
+[895]	Together with me, let us make him proud,
+And sing him hymns of praises, clear and loud.
+That we may reconcile us once again.
+For wisdom won, my hatred hath been slain.
+Come now, and take his hands. Still, it's so daunting
+[900]	To picture what shall soon our lives be haunting.
+O, children dear, shall ye extend your hands
+Thus full of joy, no matter what foul plans
+Fate hath prepared for you, my boys, to feel.
+The wounds of our old bonds I’ve tried to heal,
+[905]	At last, and yet my face is still downcast.
+
+CHORUS LEADER
+	The grief in our eyes now is unsurpassed.
+May this misfortune depart at long last!
+
+JASON
+	Nay, do not fret from words said in the past.
+Woman, I welcome what thou hast just said,
+[910]	And I don't blame thy wrath: thou wert misled.
+‘Tis normal, sure, for women to blame men
+In matters of love, every now and then:
+At last, however, thou art acting clever.
+And as for you, my boys, I did endeavor
+[915]	To, by the gods, provide you with the best:
+Indeed, I now dare truly to attest
+That you shall rule all Corinth with your brothers.
+Thus, grow that you may triumph over others;
+Your father and the gods shall do the rest.
+[920]	If it be so, at last, my royal crest
+May fly over the lands of all my foes.
+
+MEDEA turns away and weeps.
+
+Dear, what are these tears and this runny nose,
+Why didst thou turn thy fairest face away,
+Why dost thou not rejoice at what I say?
+
+MEDEA
+[925]	‘Tis nothing; I was thinking of my sons.
+
+JASON
+	Cheer up – I'll take care of the little ones.
+
+MEDEA
+	I shall do so, and I shall trust thy word;
+Women are soft, their cries are too oft heard.
+
+JASON
+	But why do our sons in thee spring such sadness?
+
+MEDEA
+[930]	As I’m their mother, I was struck with madness
+When thou didst mention how our boys shall grow.
+Yet still, the reason I did bid thee go 
+To me hath been but partially revealed.
+I hope it's clear that I indeed shall yield
+[935]	To the king's order that I leave his land,
+For I know that if I should stay at hand
+I shall be cross with thee or the monarch.
+Thus, I shall on a journey soon embark,
+But I beseech thee to get Creon, our lord,
+[940]	To grant the boys to remain in thy ward.
+
+JASON
+I know not if ‘twill work, but I shall try.
+
+MEDEA	
+On thy new wife thou surely canst rely
+To ensure that her dear father shall comply.
+
+JASON
+Good sooth! This favor she cannot deny.
+	
+MEDEA
+[945]	I, too, shall vie to help thee with this task:
+To bear her gifts, the children I shall ask,
+The most beautiful presents that I know–
+A fine robe and a wreath of golden glow.
+One of the slaves must bring them here right now.
+[950]	Go, bring the gifts I promised in my vow.
+
+Exit NURSE into the house.
+
+	Thy bride shall be lucky in many ways,
+Her fortune bright shall last thousands of days,
+Since she gets you, a husband oh-so-noble,
+Withal these garments, which Helios global
+[955]	Once gave as gift to his mortal descendant.
+
+Enter NURSE from the house with the gifts.
+
+	Come children, take these clothes from my attendant
+Into your hands and bring them to the bride,
+Offer the princess these gifts sanctified.
+
+JASON
+	Thou silly fool, why cast thy things aside?
+[960]	Dost thou think more gold needs to be supplied
+To th’ royal house? Nay, keep thy holy relic.
+I should suffice o’er these presents angelic,
+For I know well I’m better than these gifts.
+
+MEDEA
+	Peace, prithee! Gifts can bridge the widest rifts
+[965]	And mortals deem gold better than all reason.
+Thy bride's good luck is truly in its season –
+She hath fate, youth, and power on her side.
+I'd give my life to save our children’s hide.
+So, children, once you enter in the castle,
+[970]	Then ye must beg that you are spared the hassle
+Of exile and thus offer the young dame
+These great heavenly presents in my name.
+You must make sure that she receives the clothes
+In her own hands and that she keeps them close
+[975]	To her. Go at once. I wish you good luck.
+
+Exeunt JASON, the PEDAGOGUE with the CHILDREN, and the NURSE by Eisodos B.
+
+STASIMON IV
+
+CHORUS
+			[Strophe A]
+	With endless horror, we find ourselves struck,
+	All hope is gone; the children now shall perish.
+These gifts the new bride certainly shall cherish,
+And once the golden wreath rests on her head,
+[980]	Prompted by vanity, she'll end up dead,
+And then, the kids shall suffer execution.
+			[Antistrophe A]
+	Jason, thou man of gross moral pollution,
+How couldst thou e’er allow this dreadful horror:
+Thy sons to die and so, too, thine adorer?
+[985]	How sorrowful is now thy disposition?
+Thou bearest not the slight bit of suspicion,
+Yet still, thy boys shall meet a wretched end,
+Thy royal wife shall also soon descend,
+And all of that caused by thy boorish soul.
+			[Strophe B]
+[990]	At last, thou find’st thyself in full control, 
+Yet we grieve for thee, O sorrowful mother,
+Such woe and such misfortune doth thee smother
+That thou now plottest to slay thy sweet boys,
+The blameless casualties of thy foul ploys
+[995]	Whose life shall be forever lost, consumed
+	Just so that Jason, thy husband, be doomed.
+			[Antistrophe B]
+Thou dost these evils all because he cheated,
+Thou breathest pain since thou wert thus mistreated,
+Thy wedded man betrayed thy bed in shame;
+[1000]	Now, all shall suffer, and he is to blame.
+Alas, we mourn thy fortune, grief, and pain.
+
+EPISODE V
+
+Enter PEDAGOGUE with the CHILDREN by Eisodos B.
+
+PEDAGOGUE
+	Lady Medea, your boys may remain.
+They have been spared their exile from these lands
+Once the princess took your gifts in her hands.
+
+MEDEA turns away and weeps.
+
+[1005]	Why look you sadly when you did succeed?
+Oh please, My Lady, bring me up to speed,
+Since my words do not merit this reaction.
+
+MEDEA cries with terror.
+
+	Could it be I’ve committed some infraction?
+
+MEDEA shouts desperately.
+
+	Could I have brought you bad news unawares?
+[1010]	Believe me, I deemed these lucky affairs.
+
+MEDEA
+	I blame thee not. Thy piece thou didst well utter.
+
+PEDAGOGUE
+	Then why so sad? Why do you weep and stutter?
+
+MEDEA
+	That is for me alone to know, old man,
+The gods and I devised this ghastly plan.
+
+PEDAGOGUE
+[1015]	Be brave. In time, you might return back here.
+
+MEDEA
+Alas! ‘Tis not for myself that I fear.
+
+PEDAGOGUE
+	So many families have borne division,
+All mortals thus must meekly make provision.
+
+MEDEA
+	This, I shall do. But, go thou to my keep,
+[1020]	Prepare the children's beds for peaceful sleep.
+
+Exit PEDAGOGUE into the house.
+
+	My sons, my sweet boys, you still have this town
+Withal your house, yet I have let you down
+For you shall lose your mother now forever:
+I must leave this land, our bond I'll sever.
+[1025]	I’ll never get to revel in your joy,
+Nor your young brides to lovingly annoy;
+And at your weddings, I won’t lift the torch.
+I chose, in madness, our shared life to scorch.
+Have I raised you for nothing? All my pain,
+[1030]	Hardships and trials all have been in vain,
+And meaningless the pains of childbirth.
+Once, I believed that nothing could be worth
+More than my boys. You would have taken care
+Of me when I grew old, for such welfare
+[1035]	Is all that mortals e’er wish to acquire,
+But this illusion now has to retire.
+Never again shall your innocent eyes
+See your dear mother until someone dies. 
+‘Tis true, your sweet, pure lives shall soon advance.
+[1040]	Alas, why look at me so? Why this glance?
+Why are you smiling? Oh, what shall I do?
+My heart betrays me; I can’t follow through,
+O women, now that I've seen their delight.
+I cannot do it, but I’ll set things right:
+[1045]	I’ll take the children out of this dark place.
+Why hurt them to see pain in Jason’s face
+When this should cause me a much worse affliction?
+I won't. Away, then, with my past conviction.
+Yet still... I suffer, no? Should this foul traitor
+[1050]	Go thus unpunished, and then mock me later?
+	It must be done, then. Am I such a coward
+That I’d allow my mind to be so soured
+By tender feeling? Children, go inside.
+This sacrifice cannot take place outside
+[1055]	Lest someone pry. No, I won't stain my hand.
+Alas, my heart accepts no reprimand:
+I beg thee, spare thy children, stubborn heart!
+Alive, they'll bring thee joy when you depart.
+No! No! By Hades’ infernal despair,
+[1060]	I know that I could never, ever bear
+My enemies to harm my sons so dear.
+My sweetest boys shall die, the time draws near;
+And it should be I who first gave them birth
+To take their lives away from this base earth.
+[1065]	‘Tis fate has chose this; there is no escape.
+
+The CHILDREN move closer to the house.
+
+I sense the bride is putting on the cape.
+She soon shall die; the chaplet's on her head.
+The path I walk is truly lined with dread,
+My sweet boys, it is time I must confess:
+
+The CHILDREN return to MEDEA.
+
+[1070]	Sons, give me your soft hands, I shall express
+How I do love you. Let me kiss your faces,
+My noble boys, I wish you the gods’ graces,
+But not here, for your father has deprived
+Us all of any joy we’d have derived.
+[1075]	Your skin’s so soft, alas, your breath so fragrant:
+Go, children, my distress hath grown so flagrant
+That I can bear to look at you no longer.
+I know ‘tis vile, but my wrath is stronger
+Than reason. My rage now controls my mind.
+[1080]	The crime I plot is of the basest kind.
+
+Exeunt CHILDREN into the house.
+
+CHORUS LEADER
+	‘Tis many times, before this very moment,
+That we have been dealt a far worse bestowment,
+And that we've had to deal with harder tasks
+Than those befitting our fair female masks.
+[1085]	As women, still, we’re guided by a Muse,
+Who just as well grants us the wisest cues.
+	Yet not all women are able to learn,
+For these are hints that just few can discern.
+Let us now speak about those mortal folk
+[1090]	Who being childless, never bear this yoke–
+For they are happier than any parent,
+Since they avoid all strifes that are inherent
+In rearing kids – an ineffable quest:
+For children can bring pain as well as rest.
+[1095]	And yet, the barren feel neither sensation.
+But e’en a parent who hath known elation
+Still seems to throw away their life i’th’ house,
+Attending to the children with their spouse.
+Hence, e’en if one rejoices in their young, 
+[1100]	There’s many sorrows oft are left unsung.
+	First, it is vital that they raise the children well,
+Next, they must leave them property to sell,
+And, still, with all that, it remains unclear
+Whether their parents they’ll honour or smear.
+[1105]	And now, however, let us name that evil,
+That mortals think doth bring the worst upheaval:
+Grant that all goes according to their plan,
+And that their young surpass many a man
+And that they have received sufficient wealth,
+[1110]	Still, if the children die or lose their health,
+Hades shall claim their bodies for the dark.
+Then, where's the profit? Where that joyful spark?
+What of our limitless love for our youth?
+Will the blest gods not show us any ruth?
+[1115]	Children bring sorrow; that's the cold, harsh truth.
+
+MEDEA
+	My dear friends, I've been waiting long. In sooth,
+I'm eager now to learn what happens next.
+And I can see that you’re just as perplexed.
+Here comes a man of Jason’s; ‘tis his slave.
+[1120]	It seems the news he carries is quite grave.
+
+Enter MESSENGER by Eisodos B.
+
+MESSENGER
+	Medea, thou who with ferocity
+Hast done this criminal atrocity,
+I pray thee: Flee, now, either on a ship
+Or else by land. Flee! Don't delay thy trip.
+
+MEDEA
+[1125]	What have I done that calls for such a flight?
+
+MESSENGER
+	The king and princess have perished tonight.
+
+MEDEA
+	It is the best of tales that thou hast told.
+Thou art, henceforth, a friend of my household.
+
+MESSENGER
+	What art thou saying? Hast thou gone insane?
+[1130]	It is the royal house that thou hast slain.
+Why dost thou glee, then? Art thou not afraid?
+
+MEDEA
+	My answer to that still shall be delayed.
+But, friend, there's no need yet for such a hurry.
+Convey to me their deaths, their pain, their worry;
+[1135]	Their suffering shall yet double my glory.
+
+MESSENGER
+	If thou art certain, I shall tell the story:
+	When thy sons and their father went inside
+The house, our worry did at last subside
+For we, slaves, had been sharing in thy pain;
+[1140]	We'd all heard rumours of how thy disdain
+Had ceased and that thy quarrel had been ended.
+	Then one of us did kiss thy children's splendid
+Hands, and someone else kissed their golden hair,
+As I led them inside the royal lair.
+[1145]	That lady, who replaced thee as our dame,
+First noticed not the children as they came,
+For it was only Jason whom she wanted.
+But when she saw us, she appeared quite daunted,
+In fact, her face revealed only disgust.
+[1150]	‘Twas Jason who appeasèd her mistrust,
+	By saying, "Thou shalt not insult thy friends,
+Rather, the time has come to make amends,
+So, for my sake, turn thy dear face towards
+These boys. Receive the presents of my wards.
+[1155]	Beseech the king to spare them their exile."
+Seeing the gifts, she answered with a smile
+And straight away, she granted his demands.
+The moment that thy relics did change hands,
+Before thy children and husband could leave,
+[1160]	She donned the robe of many-coloured weave,
+	Then placed the golden wreath upon her head,
+And looked into the mirror near her bed,
+Savouring the lifeless image that she saw.
+The princess stood up and chose to withdraw
+[1165]	Into her room, her white feet trod with grace,
+And there was naught but pure joy on her face.
+Then horror struck: her chest grew tight with fear,
+She paled and staggered, drained of all her cheer,
+So slipped and nearly fell upon the floor,
+[1170]	But that she chanced to lean against the door
+And sit herself down. Then, some older slave,
+Believing Pan made her thus madly rave,
+Fell prostrate down and straight began to pray,
+Until the girl's mouth spat white foam and spray.
+[1175]	One of her eyes was bulging from its orbit,
+The other’s swollen socket did absorb it,
+And all the blood had vanished from her skin.
+A slave ran to her father's halls within,
+Another ran to warn her wedded spouse,
+[1180]	That panicked cries were heard throughout the house.
+	And then, when Time had given us some space,
+Enough to run a mile at briskest pace,
+The wretch, now blind, experienced such pain,
+What agony, for twofold was her bane.
+[1185]	The golden wreath, this head ornament dire,
+Began emitting a devouring fire,
+While those fair robes that thy sons had presented
+Consumed her flesh, her visage so tormented.
+Still, though ablaze, she staggered to her feet,
+[1190]	And tossed her hair in madness and defeat,
+Clawing to wrench the chaplet from her head–
+And yet the gold clung to her as she bled.
+This only made the flames leap up the more,
+Until, at last, she crumpled to the floor.
+[1195]	So by the end we could not recognize
+Her visage, wer’t not for her father's eyes.
+Her face disfigured, with a sorrow fresh,
+The blood and fire poured down the woman's flesh,
+Which, torn by venom, peeled from off her spine
+[1200]	Like tears of sap depart the grieving pine.
+And since we had her ill-fate as a teacher,
+We were afraid to even touch the creature.
+Yet still, her father, blind to lurking doom,
+Embraced her carcass once he reached her room,
+[1205]	And suddenly let our a sorrowed scream,
+But she refused to wake up from her dream.
+Thus, asked he the dead body of his child:
+"O wretched girl, what spirit has defiled
+Thine innocent life with this evil curse?
+[1210]	Who took thee from me? Is there a fate worse
+Than this? I wish I could join thee in death."
+Then, when he paused his cries to take a breath,
+He tried to stand, to shift his aged back,
+And the enchanted robes did then attack:
+[1215]	So, he was bound like ivy wrapped in laurel,
+As he fought back against thy spell immoral.
+His struggles were most horrible, indeed.
+When he’d attempt to get up, she'd impede
+Him, while his flesh would most painfully slide
+[1220]	From off his bones. And, thereupon, he died.
+Father and child lying side by side,
+A sight so awful, all those present cried.
+There’s nothing more I need to say to thee:
+Thou know’st thou canst not stay punishment-free.
+[1225]	So, once again, the claim that I have made
+Proves true: Our life is nothing but a shade.
+And learned men of logic and of reason
+Are often those who suffer the worst treason.
+Some fortunes beat others to an extent,
+[1230]	But no one man can truly be content.
+
+Exit MESSENGER by Eisodos B.
+
+CHORUS LEADER
+	The day has come when cunning Fate’s foul specter
+Shall punish Jason, honour’s great defector.
+Daughter of Creon, we lament thy fate:
+Thou art in Hades, a victim of hate,
+[1235]	Because thou didst accept Jason's proposal.
+
+MEDEA
+	My friends, death still shall serve at my disposal.
+My mind is made up: the children must die
+And I shall bid this realm my last goodbye.
+I’ll murder them at once, lest I do strand
+[1240]	Them to be slain by a less loving hand.
+	Hence, come my heart, do not forsake me now,
+Why cannot we fulfil our wicked vow?
+Come, come, my wretched hand, pick up the sword,
+‘Tis time to seize our violent reward.
+[1245]	Let us not weaken when we do remember
+‘Twas we that kindled our sons’ lives’ first ember,
+And may thy feelings not obstruct thy way,
+Rather, forget thy children for a day,
+For thou canst grieve for them after the deed.
+[1250]	I am a woman of the saddest breed.
+
+Exit MEDEA into the house.
+
+STASIMON V
+
+CHORUS
+			[Strophe A]
+	O Earth and thou, Helios' beam of light
+That shines on all things and makes the world bright,
+Look at that dour, destructive woman there
+Before she lifts her dagger of despair
+[1255]	And kills her sons, heirs of thy golden line.
+Don't let this woman take that which is thine
+For men should dread the blood of gods to spill.
+O holy light, confound her wicked will,
+Assay to thwart her plan and stop her plot;
+[1260]	Cast out this awful Fury from this spot!
+			[Antistrophe A]
+	All thy love for thy children, all that pain,
+Thy toil when giving birth was all in vain.
+Thou who didst leave the hostile Symplegades,
+Those lethal rocks of so many blue shades,
+[1265]	Thou art a wretched creature. Why let rage
+Control thy heart, lock thy mind in a cage?
+Why let another victim thus be slain?
+Consider that the dreadful moral stain
+That marketh those guilty of parricide
+[1270]	Brings godly wrath from which thou canst not hide.
+
+The CHILDREN scream inside the house.
+
+			[Strophe B]
+	O, marked you that? Hark, how the children cry!
+Why, evil woman, dost thou do this? Why?
+
+CHILD A [from within]
+How shall we ‘scape the hand of our mother?
+
+CHILD B [from within]
+Alas, we die! I do not know, dear brother.
+
+CHORUS
+[1275]	What shall we do now? Should we go inside?
+We must prevent this most cruel filicide.
+
+CHILD A
+	Yes, by the blest gods, please help us and hurry.
+
+CHILD B
+	The sword has struck; my vision’s getting blurry.
+
+CHORUS
+	Thy heart’s so hardened, it is like a stone,
+[1280]	Thou woeful one, who strikest as thy sons groan
+	In pain. Thyself art stealing their pure life.
+			[Antistrophe B]
+	Of all who came before, we know one wife
+(Her name was Ino) who harmed her own sons.
+She was sent madness by th’ Olympians 
+[1285]	When Zeus’s wife forced her to go away
+From her own house. So, Ino went to th’ bay,
+And leapt into the ocean. So she perished,
+Along with the sweet children she so cherished,
+Because she'd shoved them, too, into the water.
+[1290]	Still, she was mad; 'twas not a willing slaughter,
+Unlike the horror we see happen here.
+This wedding bed has brought us many a tear.
+
+EXODOS
+
+Enter JASON by Eisodos B.
+
+JASON
+	You, ladies, who stand next to our palace,
+Is she still here? The one who bore such malice?
+[1295]	I mean Medea – is she still around?
+She'll have to hide herself beneath the ground,
+Or else to somehow fly into the sky
+If she hopes to shun justice's reply.
+Thinks she, with both our rulers lying dead,
+[1300]	That she can go and not a tear be shed?
+	Let her go – I no longer seek her face,
+For justice shall pursue her in due pace.
+But ‘tis my boys that I must quickly save,
+Lest royal kin dig them an early grave,
+[1305]	In retribution for their mother's crime.
+
+CHORUS LEADER
+	Thou know'st not what has happed in the meantime,
+O wretched man, as far as we can tell.
+
+JASON
+	What is it? Means she to kill me as well?
+
+CHORUS LEADER
+Thy sons have perished at their mother's hand.	
+
+JASON
+[1310]	What are you saying? I don’t understand.
+
+CHORUS LEADER
+	Know that thy children are no longer living.
+
+JASON
+	And was it here she turned so unforgiving?
+
+CHORUS LEADER
+Just past those doors, thou wilt see their remains.	
+
+JASON
+Break ope the gate. Show me their woes and pains.
+[1315]	I want to witness this two-fold disaster.
+I’ll kill her. Help me break the door down. Faster!
+
+Jason struggles to open the door to the house. Enter MEDEA upon a winged chariot above the house with the corpses of the CHILDREN.
+
+MEDEA
+	Why dost thou shake the bars upon these gates,
+Seeking thy sons and me who sealed their fates?
+Cease now – if thou wouldst ask a thing of me,
+[1320]	Then speak, or rather grant that I go free.
+Thou shalt not drag me from this sacred coach;
+Helios guards me from thy harsh reproach.
+
+JASON
+	Most loathsome woman, hated and abhorred–
+By me, by men, and every holy lord,
+[1325]	Thou who hast murdered those thy womb once fed,
+Thy babes lie cold, thy hand has struck them dead.
+Thy crime is done, thy hands are steeped in shame,
+Yet still, thou darest speak Helios' name?
+I wish thee dead– for now at last I see
+[1330]	How mad I was to bring thee home with me.
+Thou art a wretch who made thy father fall,
+And now bringest death and ruin on us all.
+Now, in your place, the gods send me their wrath;
+For when thy brother stood upon thy path,
+[1335]	Thou didst slay him, and my Argo saved thee.
+Thy life has ever been a killing spree:
+And now, when thou at last hast won my trust,
+Thou murderest our children out of lust.
+No Grecian woman would dare cause such strife,
+[1340]	Yet still, I chose thee to become my wife.
+	A match that hath but caused me great distress,
+Thou art no woman, but a lioness.
+	Scylla herself has got a gentler spirit.
+Dost thou feel guilt? I do desire to hear it
+[1345]	Since no word can harm thee or leave thee scarred;
+Thine awful heart hath always been too hard.
+	Begone, O coward butcher of our sons!
+My only care’s to mourn my pretty ones.
+My boys are gone; I won't see them again,
+[1350]	Thou’st made me now the most wretched of men.
+
+MEDEA
+	I would have issued thee a long reply,
+If Zeus, the Father, had not heard my cry.
+But thou, who didst defile my wedding bed,
+Shalt soon wish it were thee, and not they, dead.
+[1355]	The princess paid the price for thy deceit,
+And Creon fell just when he knew defeat.
+Thus all of you conspired to see me banished
+But now your power and your pride have vanished.
+So call me lioness, if so thou must,
+[1360]	For in the end, I've ground thy heart to dust.
+
+JASON
+	Still, thou must also share in my despair.
+
+MEDEA
+True, yet thy mocking I won't have to bear.
+
+JASON
+Poor boys, thus cursèd with a vile mother.
+
+MEDEA
+Poor children, hapless victims of your father.
+
+JASON
+[1365]	It wasn't my hand that brought their demise.
+
+MEDEA
+It was thy wedding, thine oaths, and thy lies.
+
+JASON
+So thou didst deem it just to see them die?
+
+MEDEA
+Do women’s griefs, then, merit no reply?
+
+JASON
+If they are wise, perhaps, but thou? Not quite.
+
+MEDEA
+[1370]	Well, thy children are gone. Sleep well tonight.
+
+JASON
+	Their spirits shall exact their retribution.
+
+MEDEA
+	The gods know the first source of this pollution.
+
+JASON
+	They know full well thy heart is full of spite.
+
+MEDEA
+Thou awful man, I loathe thy very sight.
+
+JASON
+[1375]	And I hate thee; how easy 'tis to part.
+
+MEDEA
+	Say how. I wish it, too, with all my heart.
+
+JASON
+	Consent that I lay our boys in their grave.
+
+MEDEA
+	Never. I’ll take them to Hera’s enclave,
+Her temple on the great Acraian hill,
+[1380]	Where my own hand shall all the rites fulfill,
+And from the reach of foes I’ll bury them.
+This land of Sysiphus, I shall condemn,
+Imposing here a mystic celebration,
+So to atone for my children's damnation.
+[1385]	Where Erechtheus built his sacred land,
+I’ll go there to seek out Aegeus' hand.
+O wretch, who broke the vows that thou didst make,
+The Argo’s timber shall thy body break.
+
+JASON
+	May the vile Furies drag thee through the mud,
+[1390]	May vengeful Justice spill thy wicked blood.
+
+MEDEA
+	What god or what spirit shall hear thy troth,
+Thou wicked liar, thou breaker of thine oath?
+
+JASON
+	A plague on thee, who didst take thy boys' life.
+
+MEDEA
+Go home. 'Tis time to bury thy dear wife.
+
+JASON
+[1395]	I go, alas, their sweet bodies are cold.
+
+MEDEA
+Thou’rt yet to mourn; just wait till thou art old.
+
+JASON
+	O dearest children, no one e’er was sweeter.
+
+MEDEA
+Ay, to their mother, but not to this cheater.
+
+JASON
+Yet thou didst kill them, dost thou disagree?
+
+MEDEA
+[1400]	I only murdered them to injure thee.
+
+JASON
+	O, woe is me, I long to kiss their brows.
+
+MEDEA
+Now thou dost prize them, breaker of thy vows?
+
+JASON
+	Grant me, by Zeus, to touch their tender skin.
+
+MEDEA
+Thou plead’st in vain, O traitor of thy kin!
+
+JASON
+[1405]	O Zeus, dost thou hear how we are denied?
+What wounds we suffer? And how we are tried
+By this accursed child-slaying she-lion?
+And yet, I do lament for them, my scion,
+I mourn my sons to the utmost extent;
+[1410]	I ask the gods to witness this event,
+	How, after thou hast slain my children dear,
+Thou dost forbid my hands to venture near
+Their lifeless forms, and to inter my boys,
+Whom I begot, thus slain by thy foul ploys.
+
+MEDEA is borne aloft away from Corinth with the corpses of the CHILDREN by her chariot. Exit JASON by Eisodos B.
+
+CHORUS LEADER
+[1415]	Zeus on Olympus doth all fates amend,
+The gods oft bring what none can comprehend:
+What men hope for, they may not ever lend,
+But what they dream not of, our God will send.
+And so, in this strange way, our tale doth end.
+
+Exeunt omnes.
+
+FINIS
+
 
 [^1]: My purpose with this project was to translate the play in heroic couplets, i.e., rhyming pairs of iambic pentameters, in imitation of Pope’s Homer and Dryden’s Virgil. The translation uses the Greek text of *James Diggle*'s Oxford Classical Texts (OCT) edition and matches the number of lines found there. I have also made extensive use of *Michele Kwintner*'s Bryn Mawr commentary (mostly for grammar) and *Donald J. Mastronarde*'s Cambridge Greek and Latin Classics one (for grammar and interpretation). I’m beyond grateful to *Aleksa Sotirov* for all his invaluable editorial work, to *Prof. Alexandra Schultz* for all her patience helping me translate the play, and to *Prof. Hakan Tell*, whose Greek drama class largely inspired me to tackle this project. To the extent of my knowledge, this is the first translation where all stasimons have been translated in heroic couplets while also matching the exact number of lines they contain as per the OCT.
 [^2]: Medea was played by the first actor (πρωταγωνιστής), the Nurse and Jason were played by the second actor (δευτεραγωνιστής), and the other four characters were played by the third actor (τριταγωνιστής). The characters are given in that order (followed by the chorus) and not in order of appearance. There were also actors playing Medea’s children, perhaps named Mermerus and Pheres, who only speak off-stage.
