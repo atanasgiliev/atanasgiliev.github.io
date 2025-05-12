@@ -1220,7 +1220,7 @@ MEDEA
 &nbsp;&nbsp;&nbsp;&nbsp; And of my plans, give thou no indication,  
 &nbsp;&nbsp;&nbsp;&nbsp; If, as a woman, thou dost wish me well.  
 
-<i><div style="text-align: right">Exit </i>NURSE<i> by </i>Eisodos B, MEDEA<i> into the house.<div></i>  
+<i><div style="text-align: right">Exit </i>NURSE<i> by </i>Eisodos B, MEDEA<i> into the house.</div></i>  
 
 <br>
 
